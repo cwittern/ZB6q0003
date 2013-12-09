@@ -11,9 +11,8 @@
 #+PROPERTY: LASTPB <md:ZB6q0003_T_030-0456c> 
 #+PROPERTY: JUAN 30
 ¶
-
- 景德傳燈錄卷第三十¶
-¶
+<pb:ZB6q0003_GZ_10-47a>
+景德傳燈錄卷第三十¶¶
 
 * 銘記箴歌
    銘記箴歌
