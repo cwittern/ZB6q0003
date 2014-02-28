@@ -5,6 +5,7 @@
 #+PROPERTY: baseedition DCS
 #+PROPERTY: id T51n2076
 #+PROPERTY: JUAN 2
+#+PROPERTY: LASTPB <md:ZB6q0003_T_002-0210c>
 #+PROPERTY: LASTPB  <pb:ZB6q0003_DCS_0014a>
 景徳傳燈¶録卷第二。
 天竺三十五祖。(内二十二祖旁出一十三祖見録。)

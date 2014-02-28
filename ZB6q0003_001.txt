@@ -5,6 +5,7 @@
 #+PROPERTY: baseedition DCS
 #+PROPERTY: id T51n2076
 #+PROPERTY: JUAN 1
+#+PROPERTY: LASTPB <md:ZB6q0003_T_001-0204b>
 <pb:ZB6q0003_DCS_0001a>
 <md:ZB6q0003_T_001-0204b>¶¶¶¶
 景徳傳燈録卷第一。
