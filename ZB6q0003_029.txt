@@ -1,24 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2012/02/29 
+#+DATE: 2009/03/08 
 #+TITLE: Taisho Tripitaka, Electronic version, No. 2076 景德傳燈錄
-#+PROPERTY: CBETA_ID T51n2076
-#+PROPERTY: ID ZB6q0003
+#+PROPERTY: ID T51n2076
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2076
-#+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_000-0196b>¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_029-0449a> ¶¶¶¶¶¶
+#+PROPERTY: WITNESS 【CBETA】
+#+PROPERTY: LASTPB <pb:ZB6q0003_T_029-0449a>¶¶
 #+PROPERTY: JUAN 29
-¶
-¶
 
- 景德傳燈錄卷第二十九¶
-¶
-
-* 讚頌偈詩
-   讚頌偈詩
-¶
+¶¶
+景德傳燈錄卷第二十九¶¶
+  
+* 讚頌偈詩¶
   * 誌公和尚大乘讚十首¶
   * 誌公和尚十二時頌十二首¶
   * 誌公和尚十四科頌¶
@@ -36,1285 +29,2118 @@
   * 同安察禪師玄談十首¶
   * 雲頂山僧德敷詩一十首¶
   * 僧潤詩三首¶
+** 梁寶誌和尚大乘讚十首	Zehn Gedichte über das große Fahrzeug von Ehrwürden Baozhi der Liang Dynastie
 
-** 梁寶誌和尚大乘讚
-:PROPERTIES:
-:head: 梁寶誌和尚大乘讚十首
+
+<pb:ZB6q0003_T_029-0449b>
+¶
+*** 
+大道常在目前，	Der große Weg ist uns immer genau vor Augen,
+雖在目前難覩。	obwohl er aber vor den Augen ist, ist er doch schwer zu sehen.
+若欲悟道真¶體，	Wer wünscht wirklich zum Weg zu erwachen,
+莫除聲色言語。	dem muß es gelingen, jenseits von Klang und Erscheinung zu gelangen.
+
+言語即是大道，	Auch Worte und Sprache sind der große Weg,
+不假斷¶除煩惱。	wir brauchen sie nicht als Hindernisse zu betrachten und umgehen zu versuchen.
+煩惱本來空寂，	Hindernisse sind ursprünglich ohne Substanz,
+妄情遞相纏繞。	wenn man sie auf irregeleitete Art analysiert, so scheint man sich vollkommen in Sorgen zu verlieren.
+
+一切¶如影如響，	Alles was ist ist wie ein Schatten oder ein Echo,
+不知何惡何好。	wir können nicht wissen, was davon gut ist und was schlecht.
+有心取相為實，	Auch wenn wir sorgfältig vermeiden, die Erscheinungen als Wirklichkeit anzusehen,
+定¶知見性不了。	so verfestigen sich unsere Ansichten und werden ein Hindernis der Erleuchtung.
+
+若欲作業求佛，	Wenn du durch Taten, die Karma erzeugen versuchen willst, Buddha zu suchen,
+業是生死大兆。	so wisse, daß das verhaftet sein an Leben und Tod unendlich lang fortbesteht.
+:zhu:
+業 [ye4]  LJL zitiert diese Passage und hat hier Fo: [[mandoku:cbeta:T47n1985:0497c16][Taisho Tripitaka, Electronic version, No. 1985 鎮州臨濟慧照禪師語錄 T47n1985:0497c16]]
+:END:
+¶生死業常隨身，	Gemäß diesem verhaftet sein folgt jedem Leben wieder ein Tod
+黑闇獄中未曉。	hernach müßt ihr in der dunklen Hölle auf den erneuten Beginn warten.
+
+悟理本來無¶異，	Die Erleuchtung ist ursprünglich für alle gleich,
+覺後誰晚誰早？	warum sind aber einige früher dran und andere später?
+法界量同太虛，	Die Welt des Dharma ist so groß wie das Universum,
+眾生智心¶自小。	und die Lebewesen können davon nur einen winzigen Teil begreifen.
+
+但能不起吾我，	Wenn es euch aber gelingt dorthin vorzustoßen wo es kein entstehen des Ego mehr gibt,
+涅槃法食常飽。¶	so seid ihr vollkommen erfüllt von den Früchten des Nirvana.
+*** 2
+妄身臨鏡照影，	Der vergängliche Körper läßt sich im Spiegel abbilden und wirft auch einen Schatten,
+:zhu:
+妄身 [wang4yuan2] // auch in [[mandoku:cbeta:X13n0287:0925b18][卍 Xuzangjing, Electronic version, No. 287 楞嚴經疏解蒙鈔 X13n0287:0925b18]]
+:END:
+影與妄身不殊。	aber der Schatten ist nicht identisch mit dem Körper.
+但欲去影留¶身，	Wenn man aber versucht den Schatten loszuwerden und nur den Körper zu behalten,
+不知身本同虛。	dann versteht man nicht, daß auch der Körper im Grunde ohne Substanz ist.
+
+身本與影不異，	Der Körper und der Schatten sind eigentlich nicht verschieden,
+不得一有¶一無。	man kann auch nicht den einen haben, und den anderen nicht.
+若欲存一捨一，	Wenn man den einen behalten und den anderen wegwerfen will, 
+永與真理相疎。	dann wird man für immer die Wahrheit verfehlen.
+
+更若愛¶聖憎凡，	Ebenso ist es, wenn man das Heilige liebt und das profane haßt,
+生死海裏沈浮。	dann wird man weiterhin im Meer von Leben und Tod treiben.
+煩惱因心有故，	Alle Gründe für hinderliche Anhaftungen liegen im Geist,
+無心¶煩惱何居？	wo könnten auch im Nicht-Geist wohl Anhaftungen wohnen?
+
+不勞分別取相，	Ich rate dir nicht zu Unterscheidungen und Urteilen,
+自然得道須臾。	verlass dich darauf, daß du auf natürliche Weise in jedem Moment mit dem Weg verbunden bist.
+夢¶時夢中造作，	Wenn Du träumst, so handelst du wie im Traum,
+覺時覺境都無。	bist du erwacht, so merkst du, daß alle Grenzen weggefallen sind.
+
+翻思覺時與夢，	Nun denke mal zurück an Perioden des Erwacht-seins und des Träumens,
+¶顛倒二見不殊。	wenn du diese beiden Zustände umkehrst, sind sie nicht dasselbe?
+改迷取覺求利，	Wenn du versuchst Nutzen aus der Erleuchtung zu ziehen und den Zustand der Verwirrung zu vermeiden,
+何異販賣商¶徒？	worin unterscheidet sich das dann von Ankauf und Verkauf der Kaufleute?
+
+動靜兩亡常寂，	Wenn man sowohl Bewegung als auch Stille vergisst, dann gelangt man zur echten Ruhe,
+自然契合真如。	die vollkommen natürlich in Einklang ist mit der Soheit.
+若言眾生¶異佛，	Wenn man sagt, daß sich die Lebewesen von dem Buddha unterscheiden,
+迢迢與佛常疎。	dann ist man [vom Verstehen] weit entfernt und mißachtet den Buddha.
+
+佛與眾生不二，	Buddha und die Lebewesen sind nicht unterschieden,
+自然究¶竟無餘。¶	wenn man sich ganz dem natürlichen [Fluss] überlässt und dem auf den Grund geht, so bleibt nichts über [was sie unterscheiden würde].
+*** 3
+法性本來常寂，	Die Natur der Dinge ist ursprünglich beständig und unbewegt,
+蕩蕩無有邊畔。	sie ist unermeßlich und ohne Grenzen.
+安心取捨¶之間，	Konzentrier dich auf das, was zwischen Behalten und Verwerfen liegt,
+被他二境迴換。	und laß dich nicht ein auf die Beschränkung auf diese beiden Sichtweisen.
+
+歛容入定坐禪，	Bereite dich vor und tritt in die Versenkung der sitzenden Meditation ein,
+攝境¶安心覺觀。	konzentriere dich mit voller Anstrenung und erlange eine Stufe der klaren Betrachtung.
+機關木人修道，	Wenn wir nur mechanisch, wie eine Holzpuppe unsere Übung vollbringen,
+何時得達被岸？	wann sollten wir da jemals das andere Ufer erreichen?
+
+諸¶法本空無著，	Alle Dharmas sind urprünglich leer und ohne Substanz,
+境似浮雲會散。	die Dinge sind wie die treibenden Wolken, die sich zusammenballen und wieder auseinandergehen.
+忽悟本性元空，	Erkenne, daß auch die ursprüngliche Natur eigentlich leer ist,
+¶恰似熱病得汗。	genauso wie ein hohes Fieber zu Schweißausbrüchen führt.
+
+無智人前莫說，	Vor unwissenden Menschen sollte man nicht davon sprechen,
+打爾色身星¶散。¶	doch es wird auch dieser vergängliche Körper einst wie Sterne zerstieben.
+*** 4
+報爾眾生直道，	Ich erkläre dir ganz direkt den Weg der Lebewesen,
+非有即是非無，	es gibt nichts das [dauerhaft] existiert, daher auch nichts, aber auch kein Nichts.
+非有非無不¶二，	Die Tatsache, daß nichts existiert, aber auch nicht Nichts existiert ist kein Widerspruch,
+何須對有論虛？	warum sollten wir also darüber in Streitgespräche verfallen?
+
+有無妄心立號，	Sein und Nicht-Sein sind nur von dem verwirrten Geist aufgestellte Gegensätze,
+一破一箇¶不居，	wird man den einen Teil los, so kann auch der andere nicht verweilen.
+兩名由爾情作，	Diese beiden Bezeichnungen sind nur von deinen Empfindungen erzeugt worden,
+無情即本真如。	wenn du diese Empfindungen hinter dir lässt, so erkennst du die ursprüngliche Wahrheit.
+
+若欲存¶情覓佛，	Wenn du versuchst, auf diesen Empfindungen zu beharren und dennoch nach Buddha zu suchen,
+將網山上羅魚，	so ist das, als würdest du auf einem Berg ein Netz zum Fischen auswerfen,
+徒費功夫無益，	wieviel Kraft du auch darauf verwendest, es wird keinen Nutzen haben,
+幾許¶枉用工夫。	und alles wird nur verschwendete Mühe sein.
+
+不解即心即佛，	Wenn du nicht verstehst, daß der Geist mit Buddha identisch ist,
+真似騎驢覓驢。	dann ist das so, als würdest du auf einem Esel reiten und nach dem Esel suchen.
+一<pb:ZB6q0003_T_029-0449c>¶切不憎不愛，	Wenn du vollkommen ohne Haß und ohne Liebe bist,
+遮箇煩惱須除。	dann wird es dir gelingen, die hinderlichen Anhaftungen auch auszulöschen.
+
+除之則須除¶身，	Wenn diese verlöscht sind, dann verlöscht auch der Körper
+除身無佛無因，	und wenn der Körper verlöscht, dann gibt es weder Buddha noch Kausalität.
+無佛無因可得，	Wenn es weder Buddha noch Kausalität mehr gibt,
+自然無法¶無人。¶	dann gibt es auch ganz von alleine kein Dharma und keine Menschen mehr.
+*** 5
+大道不由行得，	Der große Weg ist nicht durch Übung zu erreichen,
+說行權為凡愚，	die Autorität von Predigten und Übungen wird nur vorgegeben, um einen ersten Zugang zu erreichen.
+得理返觀於¶行，	Hat man durch Übung ein gewisses Verständnis erreicht, so kann man auf die eigene Übung zurückblicken
+始知枉用工夫。	und erkennt erstmalig, was man für einen verqueren Zugang gewählt hat.
+
+未悟圓通大理，	Solange man noch nicht zur vollkommenen, runden Erkenntnis erwacht ist,
+要須言行¶相扶，	bleibt einem nichts anderes übrig, als sich gegenseitig mit Worten und Taten zu helfen.
+不得執他知解，	Es gibt keine anderen Erkenntnisse, auf die man sich stützen könnte,
+迴光返本全無。	denn der Glanz, der von der eigenen ursprünglichen Natur zurückgeworfen wird, ist nichtig.
+
+有誰解¶會此說？	Wer kann dir schon diese Erkenntnis erklären?
+教君向己推求，	Du bist der einzige, an den du dich wenden kannst.
+自見昔時罪過，	Sieh nur, was du früher für Fehler gemacht hast,
+除却¶五欲瘡疣。	und merze die fünf Wünsche aus wie Jucken auf der Haut oder Warzen.
+:zhu:
+五欲 [wu3yu4] // 色聲香味觸也，能起人貪欲之心，故稱欲。
 :END:
 
-<pb:ZB6q0003_T_029-0449b>¶
+解脫逍遙自在，	Die Befreiung führt zur Loslösung von allem, das fesselt
+隨方賤賣風流，	und du kannst wie der Wind frei und ohne Bindungen dich treiben lassen.
+誰¶是發心買者？	Wer will den schon den Wunsch zur Erleuchtung kaufen?
+亦得似我無憂。¶	Du wirst soweit kommen, daß du dich damit nicht mehr herumschlagen mußt.
+*** 6
+內見外見總惡，	Ob man nach innen schaut, oder nach außen schaut, überall sieht man nur übles,
+佛道魔道俱錯，	der Weg Buddhas und der Weg der Shamanen und Zauberer, alle sind falsch.
+被此二大波¶旬，	Wenn du diesen beiden großen Dämonen huldigst,
+:zhu:
+波旬 [bo1xun2] == Mara, prince of Demons.// 又作波旬踰，波卑面，新作波椽，波鞞，梵音Pāpīyas，又Pāpīman，巴Pāpimā之轉訛也。
+:END:
+便即厭苦求樂。	so wirst du noch mehr Leiden empfangen und nach Medizin dürsten.
 
-大道常在目前。雖在目前難覩。若欲悟道真¶
-體。莫除聲色言語。言語即是大道。不假斷¶
-除煩惱。煩惱本來空寂。妄情遞相纏繞。一切¶
-如影如響。不知何惡何好。有心取相為實。定¶
-知見性不了。若欲作業求佛。業是生死大兆。¶
-生死業常隨身。黑闇獄中未曉。悟理本來無¶
-異。覺後誰晚誰早。法界量同太虛。眾生智心¶
-自小。但能不起吾我。涅槃法食常飽。¶
+生死悟本體空，	Durch die Erleuchtung wirst du erfahren, daß Leben und Tod keine Substanz haben,
+佛魔何處¶安著？	wo könnten Buddha oder Magier eine Sicherheit bieten?
+只由妄情分別，	Wenn du dicht nur konzentrierst auf deine eigene Wahrnehmung,
+前身後身孤薄。	so werden die vorherige Inkarnation und die folgende Inkarnation keine Verbindung mehr haben.
 
-妄身臨鏡照影。影與妄身不殊。但欲去影留¶
-身。不知身本同虛。身本與影不異。不得一有¶
-一無。若欲存一捨一。永與真理相疎。更若愛¶
-聖憎凡。生死海裏沈浮。煩惱因心有故。無心¶
-煩惱何居。不勞分別取相。自然得道須臾。夢¶
-時夢中造作。覺時覺境都無。翻思覺時與夢。¶
-顛倒二見不殊。改迷取覺求利。何異販賣商¶
-徒。動靜兩亡常寂。自然契合真如。若言眾生¶
-異佛。迢迢與佛常疎。佛與眾生不二。自然究¶
-竟無餘。¶
+輪迴六¶道不停，	Der Zyklus des wieder geboren werdens in den sechs Welten geht ohne Unterlass weiter,
+結業不能除却。	was durch Karma zusammengefügt wurde, läßt sich nicht mehr wieder auslöschen.
+所以流浪生死，	So treiben wir durch die Existenzen in einem Kreislauf von Leben und Tod,
+皆由¶橫生經略。	und folgen bloß dem Kreuz und Quer das durch die jeweilige Geburt vorgegeben ist.
 
-法性本來常寂。蕩蕩無有邊畔。安心取捨¶
-之間。被他二境迴換。歛容入定坐禪。攝境¶
-安心覺觀。機關木人修道。何時得達被岸。諸¶
-法本空無著。境似浮雲會散。忽悟本性元空。¶
-恰似熱病得汗。無智人前莫說。打爾色身星¶
-散。¶
+身本虛無不實，	Der Körper ist ursprünglich leer und ohne Substanz,
+返本是誰斟酌？	der Wunsch, zur Quelle zurückzukehren, woher kommt er?
+有¶無我自能為，	Sein und Nicht-Sein kann ich alles selbst verursachen,
+不勞妄心卜度。	aber ich rate dir nicht, dich auf Spekulationen zu verlassen.
 
-報爾眾生直道。非有即是非無。非有非無不¶
-二。何須對有論虛。有無妄心立號。一破一箇¶
-不居。兩名由爾情作。無情即本真如。若欲存¶
-情覓佛。將網山上羅魚。徒費功夫無益。幾許¶
-枉用工夫。不解即心即佛。真似騎驢覓驢。一
-<pb:ZB6q0003_T_029-0449c>¶
-切不憎不愛。遮箇煩惱須除。除之則須除¶
-身。除身無佛無因。無佛無因可得。自然無法¶
-無人。¶
+眾生身同太虛，	Der Körper der Lebewesen ist leer wie das Universum,
+¶煩惱何處安著？	wo könnten sich da Hindernisse festsetzen?
+但無一切希求，	aber erst wenn man alle Anhaftungen aufgibt,
+煩惱自然消¶落。¶	dann verschwinden die Leidenschaften und Wünsche ganz von selbst.
+*** 7
+可笑眾生蠢蠢，	Wie lachhaft ist das eifrige Tun der Lebewesen,
+各執一般異見。	jeder hält an seiner eigenen Sichtweise fest.
+但欲傍𨫼求¶餅，	Jeder will seinen Pfannkuchen in einer eigenen Pfanne backen,
+不解返本觀麵。	und es gelingt ihm nicht, dies zu überwinden und zur ursprünglichen Sichtweise vorzudringen.
 
-大道不由行得。說行權為凡愚。得理返觀於¶
-行。始知枉用工夫。未悟圓通大理。要須言行¶
-相扶。不得執他知解。迴光返本全無。有誰解¶
-會此說。教君向己推求。自見昔時罪過。除却¶
-五欲瘡疣。解脫逍遙自在。隨方賤賣風流。誰¶
-是發心買者。亦得似我無憂。¶
+麵是正邪之本，	Diese Sichtweise liegt jenseits von richtig und falsch,
+由人造作¶百變。	denn diese sind von den Menschen gemacht und unterliegen vielfältiger Wandlungen.
+所須任意縱橫，	Daher muß man diese Beliebigkeiten überwinden
+不假偏耽愛戀。	und sollte sich nicht zu sehr an einseitge Sichtweisen klammern.
 
-內見外見總惡。佛道魔道俱錯。被此二大波¶
-旬。便即厭苦求樂。生死悟本體空。佛魔何處¶
-安著。只由妄情分別。前身後身孤薄。輪迴六¶
-道不停。結業不能除却。所以流浪生死。皆由¶
-橫生經略。身本虛無不實。返本是誰斟酌。有¶
-無我自能為。不勞妄心卜度。眾生身同太虛。¶
-煩惱何處安著。但無一切希求。煩惱自然消¶
-落。¶
+無著即¶是解脫，	Der Zustand des Nicht-Anhaftens ist schon die Befreiung,
+有求又遭羅羂。	wer nach etwas sucht, der verfängt sich eben in einem Netz.
+慈心一切平等，	Ein barmherziger und ausgeglichener Geist
+真¶即菩提自現。	genau das ist die Manifestation des Bodhisattvas selbst.
 
-可笑眾生蠢蠢。各執一般異見。但欲傍𨫼求¶
-餅。不解返本觀麫。麫是正邪之本。由人造作¶
-百變。所須任意縱橫。不假偏耽愛戀。無著即¶
-是解脫。有求又遭羅羂。慈心一切平等。真¶
-即菩提自現。若懷彼我二心。對面不見佛面。¶
+若懷彼我二心，	Wer indes sich und den anderen als zweierlei Herzen sieht,
+對面不見佛面。¶	dem ist das Gesicht gegenüber eben nicht das Gesicht Buddhas.
+*** 8
+世間幾許癡人，	Wie viele Verrückte gibt es denn in der Welt,
+將道復欲求道，	die den Weg haben und die es doch nicht lassen können, nach dem Weg zu suchen.
+廣尋諸義紛¶紜，	Je mehr sie suchen, desto mehr werden sie verwirrt,
+自救己身不了。	am Ende kennen sie nicht einmal mehr ihren eigenen Leib.
 
-世間幾許癡人。將道復欲求道。廣尋諸義紛¶
-紜。自救己身不了。專尋他文亂說。自稱至理¶
-妙好。徒勞一生虛過。永劫沈淪生老。濁愛纏¶
-心不捨。清淨智心自惱。真如法界叢林。返¶
-生荊棘荒草。但執黃葉為金。不悟棄金求¶
-寶。所以失念狂走。強力裝持相好。口內誦經¶
-誦論。心裏尋常枯槁。一朝覺本心空。具足真
-<pb:ZB6q0003_T_029-0450a>¶
-如不少。聲聞心心斷惑。能斷之心是賊。賊賊¶
-遞相除遣。何時了本語默。口內誦經千卷。體¶
-上問經不識。不解佛法圓通。徒勞尋行數墨。¶
-頭陀阿練苦行。希望後身功德。希望即是隔¶
-聖。大道何由可得。譬如夢裏度河。船師度過¶
-河北。忽覺床上安眠。失却度船軌則。船師及¶
-彼度人。兩箇本不相識。眾生迷倒羈絆。往來¶
-三界疲極。覺悟生死如夢。一切求心自息。¶
+專尋他文亂說，	Besser als nach fremden Schriften und verwirrten Erklärungen zu suchen,
+自稱至理¶妙好，	ist es, sich selbst der wunderbaren Wahrheit direkt zu nähern.
+徒勞一生虛過，	So vermeidet man, sein ganzes Leben zu verschwenden
+永劫沈淪生老。	und für immer im Kreislauf von geboren werden und altern zu verweilen.
 
-悟解即是菩提。了本無有階梯。堪歎凡夫傴¶
-僂。八十不能跋蹄。徒勞一生虛過。不覺日月¶
-遷移。向上看他師口。恰似失嬭孩兒。道俗崢¶
-嶸集聚。終日聽他死語。不觀己身無常。心¶
-行貪如狼虎。堪嗟二乘狹劣。要須摧伏六府。¶
-不食酒肉五辛。邪眼看他飲咀。更有邪行猖¶
-狂。修氣不食鹽醋。若悟上乘至真。不假分別¶
-男女。¶
+濁愛纏¶心不捨，	Gib aber den durch unreine Anhaftungen verschmutzten Geist nicht auf,
+清淨智心自惱，	du kannst den Geist aus eigener Kraft reinigen.
+真如法界叢林，	die wahre Realität ist im Wald der Welt der Erscheinungen 
+返¶生荊棘荒草。	[auch wenn sie] von Dornen und Unkraut überwuchert ist.
+:zhu:
+返生 [fan3sheng1] wtl: Katastrophe
+:END:
 
+但執黃葉為金，	Wenn du aber goldene Blätter für [echtes] Gold ansiehst,
+不悟棄金求¶寶，	und die Erleuchtung aufgibts, so ist das als ob du das Gold aufgibst für die Schatzsuche.
+所以失念狂走，	Wenn du also die Konzentrationsfähigkeit verlierst und nur wild herum rennst,
+強力裝持相好。	dann ist das so, als wolle man Gewalt für etwas Gutes nehmen.
+
+口內誦經¶誦論，	Rezitierst du also Sutren und Traktate mit dem Mund,
+心裏尋常枯槁，	bist aber dabei im innern des Herzens gemein und alt,
+一朝覺本心空，	Eines morgens erwachst du zur ursprünglichen Realisierung, daß aller Geist leer ist,
+具足真<pb:ZB6q0003_T_029-0450a>¶如不少。	bis dahin wirst du aber noch viele Schritte gehen müssen.
+*** 9
+聲聞心心斷惑，	Der Geist der Zuhörer des Buddha ist unbeständig und verwirrt,
+能斷之心是賊，	er kann sich nicht von dem Verräter des Geistes lösen.
+賊賊¶遞相除遣，	Der Verräter ist eifrig und springt hierhin und springt dorthin
+何時了本語默？	wann wird er endlich einmal wirklich ruhig sein?
+
+口內誦經千卷，	Wenn man im Mund den Text der Sutrenrollen zitiert,
+體¶上問經不識，	so kennt man doch mit dem Körper den Inhalt noch nicht.
+不解佛法圓通，	Auf diese Weise kann man die vollkommene Erkenntis der Buddhalehre nicht erreichen,
+徒勞尋行數墨。	das ist nur eine Verschwendung von Tinte [und Papier].
+
+¶頭陀阿練苦行，	Die Wandermönche üben vielerlei asketische Praktiken,
+希望後身功德，	und hoffen, in einem späteren Leben die Früchte davon zu erlangen.
+希望即是隔¶聖，	Durch diese Hoffnung sind sie eben von dem Heiligen getrennt.
+大道何由可得？	Großer Weg, wie könnte man dich auf diese Weise erreichen?
+
+譬如夢裏度河，	Das ist so, als würde man im Traum einen Bach überqueren,
+船師度過¶河北，	wobei der Fährmann schon am gegenüberliegenden Ufer angelangt ist,
+忽覺床上安眠，	dabei schläft man doch selig in seinem eigenen Bett
+失却度船軌則。	und verpasst darüber die Abfahrt des Schiffes.
+
+船師及¶彼度人，	Der Fährmann und der Fahrgast
+兩箇本不相識，	kennen sich beide überhaupt nicht.
+眾生迷倒羈絆，	Die Lebewesen werden durch diese Verwirrung behindert,
+往來¶三界疲極。	und kehren daher immer wieder in den drei Welten wieder.
+
+覺悟生死如夢，	Wenn man aber erwacht, so sieht man all dies als Traum,
+一切求心自息。¶	und der strebende Geist kommt ganz von selbst zur Ruhe.
+*** 10
+悟解即是菩提，	Die Befreiung der Erleuchtung, genaus das ist Bodhi,
+了本無有階梯。	die Realisierung des eigenen Ursprungs kennt keine Stufen.
+堪歎凡夫傴¶僂，	Wir seufzen und ächzen unter den vielen Windungen und Kurven,
+八十不能跋蹄。	die man im Alter von 80 Jahren nicht mehr überwinden kann.
+
+徒勞一生虛過，	Schnell ist ein Leben nutzlos vergangen,
+不覺日月¶遷移。	und man merkt nicht einmal die Bewegung von Sonne und Mond.
+向上看他師口，	Blickst du nach oben, so siehst du dort den Mund eines anderen Lehrers,
+恰似失嬭孩兒。	gerade so, als wärst du ein verirrter Säugling.
+
+道俗崢¶嶸集聚，	Was die Leute so ansammeln ist wirklich erstaunlich,
+終日聽他死語。	den ganzen Tag hören sie die absgestorbenen Worte von jemand anderem.
+不觀己身無常，	Sie achten nicht darauf, daß der eigene Körper keinen ewigen Bestand hat,
+心¶行貪如狼虎。	und sind in ihrem Herzen gierig wie ein Wolf oder Tiger.
+
+堪嗟二乘狹劣，	Ist es nicht traurig, daß die beiden Fahrzeuge so eng und schlecht sind,
+:zhu:
+堪嗟 [kan1jue1] // ist das nicht traurig? //
+:END:
+要須摧伏六府。	man müsste sie zusammen mit den anderen Elementen unter Kontrolle bringen.
+:zhu:
+六府 [lu4fu3] **** 0101: 古以水、火、金、木、土、穀爲〈六府〉。 
+:END:
+¶不食酒肉五辛，	Man trinkt keinen Wein, ist kein Fleisch und keine unreinen Pflanzen,
+邪眼看他飲咀。	und sieht nur mit scheelem Blick, wie andere sich daran laben.
+
+更有邪行猖¶狂，	Es gibt aber noch verrücktere Abwege,
+修氣不食鹽醋。	wer sein Qi kontrolliert, der nimmt auch kein Salz oder Essig zu sich.
+若悟上乘至真，	We dann zur Wahrheit des höchsten Fahrzeugs erwacht,
+不假分別¶男女。	der unterscheidet nicht einmal mehr zwischen Mann und Frau.
+¶
 ** 寶誌和尚十二時頌
-:PROPERTIES:
-:head: 寶誌和尚十二時頌
-:END:
+
 ¶
 
-平旦寅。狂機內有道人身。窮苦已經無量劫。¶
-不信常擎如意珍。若捉物入迷津。但有纖¶
-豪即是塵。不住舊時無相貌。外求知識也非¶
-真。¶
+平旦寅，
+狂機內有道人身，
+窮苦已經無量劫，
+¶不信常擎如意珍。
 
-日出卯。用處不須生善巧。縱使神光照有無。¶
-起意便遭魔事撓。若施功終不了。日夜被他¶
-人我抝。不用安排只麼從。何曾心地生煩惱。¶
+若捉物，
+入迷津，
+但有纖¶豪即是塵。
+不住舊時無相貌，
+外求知識也非¶真。¶
 
-食時辰。無明本是釋迦身。坐臥不知元是道。¶
-只麼忙忙受苦辛。認聲色覓疎親。只是他家¶
-染污人。若擬將心求佛道。問取虛空始出塵。¶
+日出卯，
+用處不須生善巧，
+縱使神光照有無，
+¶起意便遭魔事撓。
 
-禺中巳。未了之人教不至。假饒通達祖師¶
-言。莫向心頭安了義。只守玄沒文字。認著依
-<pb:ZB6q0003_T_029-0450b>¶
-前還不是。暫時自肯不追尋。曠劫不遭魔境¶
-使。¶
+若施功，
+終不了，
+日夜被他¶人我抝。
+不用安排只麼從，
+何曾心地生煩惱？¶
 
-日南午。四大身中無價寶。陽焰空華不肯拋。¶
-作意修行轉辛苦。不曾迷莫求悟。任爾朝陽¶
-幾迴暮。有相身中無相身。無明路上無生路。¶
+食時辰，
+無明本是釋迦身，
+坐臥不知元是道，
+¶只麼忙忙受苦辛。
 
-日昳未。心地何曾安了義。他家文字沒親疎。¶
-莫起工夫求的意。任縱橫絕忌諱。長在人間¶
-不居世。運用不離聲色中。歷劫何曾暫拋棄。¶
+認聲色，
+覓疎親，
+只是他家¶染污人。
+若擬將心求佛道，
+問取虛空始出塵。¶
 
-晡時申。學道先須不厭貧。有相本來權積聚。¶
-無形何用要安真。作淨潔却勞神。莫認愚癡¶
-作近隣。言下不求無處所。暫時喚作出家人。¶
+禺中巳，
+未了之人教不至，
+假饒通達祖師¶言，
+莫向心頭安了義。
 
-日入酉。虛幻聲音終不久。禪悅珍羞尚不¶
-餮。誰能更飲無明酒。沒可拋無物守。蕩蕩¶
-逍遙不曾有。縱爾多聞達古今。也是癡狂外¶
-邊走。¶
+只守玄，
+沒文字，
+認著依
+<pb:ZB6q0003_T_029-0450b>
+¶前還不是。
+暫時自肯不追尋，
+曠劫不遭魔境¶使。¶
 
-黃昏戌。狂子興功投暗室。假使心通無量¶
-時。歷劫何曾異今日。擬商量却啾唧。轉使心¶
-頭黑如漆。晝夜舒光照有無。癡人喚作波羅¶
-蜜。¶
 
-人定亥。勇猛精進成懈怠。不起纖豪修學心。¶
-無相光中常自在。超釋迦越祖代。心有微塵¶
-還窒閡。廓然無事頓清閑。他家自有通人¶
-愛。¶
+日南午，
+四大身中無價寶，
+陽焰空華不肯拋，
+¶作意修行轉辛苦。
 
-夜半子。心住無生即生死。生死何曾屬有無。¶
-用時便用沒文字。祖師言外邊事。識取起¶
-時還不是。作意搜求實沒蹤。生死魔來任相¶
-試。¶
+不曾迷，
+莫求悟，
+任爾朝陽¶幾迴暮。
+有相身中無相身，
+無明路上無生路。¶
 
-鷄鳴丑。一顆圓珠明已久。內外接尋覓總¶
-無。境上施為渾大有。不見頭又無手。世界
-<pb:ZB6q0003_T_029-0450c>¶
-壞時渠不朽。未了之人聽一言。只遮如今誰¶
-動口。¶
+日昳未，
+心地何曾安了義？
+他家文字沒親
+疎，
+¶莫起工夫求的意。
 
+任縱橫，
+絕忌諱，
+長在人間¶不居世。
+運用不離聲色中，
+歷劫何曾暫拋棄？¶
+
+晡時申，
+學道先須不厭貧，
+有相本來權積聚，
+¶無形何用要安真？
+
+作淨潔，
+却勞神，
+莫認愚癡¶作近隣。
+言下不求無處所，
+暫時喚作出家人。¶
+
+日入酉，
+虛幻聲音終不久，
+禪悅珍羞尚不¶餮，
+誰能更飲無明酒？
+
+沒可拋，
+無物守，
+蕩蕩¶逍遙不曾有。
+縱爾多聞達古今，
+也是癡狂外¶邊走。¶
+
+
+黃昏戌，
+狂子興功投暗室，
+假使心通無量¶時，
+歷劫何曾異今日？
+
+擬商量，
+却啾唧，
+轉使心¶頭黑如漆。
+晝夜舒光照有無，
+癡人喚作波羅¶蜜。¶
+
+人定亥，
+勇猛精進成懈怠，
+不起纖豪修學心，
+¶無相光中常自在。
+
+超釋迦，
+越祖代，
+心有微塵¶還窒閡。
+廓然無事頓清閑，。
+他家自有通人¶愛。¶
+
+夜半子，
+心住無生即生死，
+生死何曾屬有無？
+¶用時便用沒文字。
+
+祖師言，
+外邊事，
+識取起¶時還不是。
+作意搜求實沒蹤，
+生死魔來任相¶試。¶
+
+鷄鳴丑,一顆圓珠明已久,內外接尋覓總
+¶無，
+境上施為渾大有。
+
+不見頭，
+又無手，
+世界
+<pb:ZB6q0003_T_029-0450c>
+¶壞時渠不朽。
+未了之人聽一言，
+只遮如今誰¶動口？
+¶
 ** 誌公和尚十四科頌
-:PROPERTIES:
-:head: 誌公和尚十四科頌
-:END:
-¶
 
+¶
 *** 菩提煩惱不二
-:PROPERTIES:
-:head: 菩提煩惱不二
-:END:
+
 ¶
 
-眾生不解修道。便欲斷除煩惱。煩惱本來空¶
-寂。將道更欲覓道。一念之心即是。何須別處¶
-尋討。大道曉在目前。迷倒愚人不了。佛性¶
-天真自然。亦無因緣修造。不識三毒虛假。妄¶
-執浮沈生老。昔時迷日(一作未)為晚。今日始覺¶
-非早。¶
+眾生不解修道，
+便欲斷除煩惱。
+煩惱本來空¶寂，
+將道更欲覓道。
 
+一念之心即是，
+何須別處¶尋討？
+大道曉在目前，
+迷倒愚人不了。
+
+佛性¶天真自然，
+亦無因緣修造。
+不識三毒虛假，
+妄¶執浮沈生老。
+
+昔時迷日
+(一作未)
+為晚，
+今日始覺¶非早。¶
 *** 持犯不二
-:PROPERTIES:
-:head: 持犯不二
-:END:
+
 ¶
 
-丈夫運用無礙。不為戒律所制。持犯本自無¶
-生。愚人被他禁繫。智者造作皆空。聲聞觸途¶
-為滯。大士肉眼圓通。二乘天眼有翳。空中妄¶
-執有無。不達色心無礙。菩薩與俗同居。清淨¶
-曾無染世。愚人貪著涅槃。智者生死實際。法¶
-性空無言說。緣起略無人子(一本作為茲偈)。百歲無智¶
-小兒。小兒有智百歲。¶
+丈夫運用無礙，
+不為戒律所制。
+持犯本自無¶生，
+愚人被他禁繫。
 
+智者造作皆空，
+聲聞觸途¶為滯。
+大士肉眼圓通，
+二乘天眼有翳。
+
+空中妄¶執有無，
+不達色心無礙。
+菩薩與俗同居，
+清淨¶曾無染世。
+
+愚人貪著涅槃，
+智者生死實際。
+法¶性空無言說，
+緣起略無人子
+(一本作為茲偈)。
+
+百歲無智¶小兒，
+小兒有智百歲。¶
 *** 佛與眾生不二
-:PROPERTIES:
-:head: 佛與眾生不二
-:END:
+
 ¶
 
-眾生與佛無殊。大智不異於愚。何須向外求¶
-寶。身田自有明珠。正道邪道不二。了知凡聖¶
-同途。迷悟本無差別。涅槃生死一如。究竟攀¶
-緣空寂。惟求意想清虛。無有一法可得。翛然¶
-自入無餘。¶
+眾生與佛無殊，
+大智不異於愚。
+何須向外求¶寶？
+身田自有明珠。
 
+正道邪道不二，
+了知凡聖¶同途。
+迷悟本無差別，
+涅槃生死一如。
+
+究竟攀¶緣空寂，
+惟求意想清虛。
+無有一法可得，
+翛然¶自入無餘。¶
 *** 事理不二
-:PROPERTIES:
-:head: 事理不二
-:END:
+
 ¶
 
-心王自在翛然。法性本無十纏。一切無非佛¶
-事。何須攝念坐禪。妄想本來空寂。不用斷除¶
-攀緣。智者無心可得。自然無爭無喧。不識無¶
-為大道。何時得證幽玄。佛與眾生一種。眾生
-<pb:ZB6q0003_T_029-0451a>¶
-即是世尊。凡夫妄生分別。無中執有迷奔。了¶
-達貪瞋空寂。何處不是真門。¶
+心王自在翛然，
+法性本無十纏。
+一切無非佛¶事，
+何須攝念坐禪？
 
+妄想本來空寂，
+不用斷除¶攀緣。
+智者無心可得，
+自然無爭無喧。
+
+不識無¶為大道，
+何時得證幽玄？
+佛與眾生一種，
+眾生
+<pb:ZB6q0003_T_029-0451a>
+¶即是世尊。
+
+凡夫妄生分別，
+無中執有迷奔。
+了¶達貪瞋空寂，
+何處不是真門？
+¶
 *** 靜亂不二
-:PROPERTIES:
-:head: 靜亂不二
-:END:
+
 ¶
 
-聲聞厭諠求靜。猶如棄麫求餅。餅即從來是¶
-麫。造作隨人百變。煩惱即是菩提。無心即¶
-是無境。生死不異涅槃。貪瞋如焰如影。智者¶
-無心求佛。愚人執邪執正。徒勞空過一生。不¶
-見如來妙頂。了達婬慾性空。鑊湯鑪炭自冷。¶
+聲聞厭諠求靜，
+猶如棄求餅。
+餅即從來是，
+¶。造作隨人百變。
 
+煩惱即是菩提，
+無心即¶是無境。
+生死不異涅槃，
+貪瞋如焰如影。
+
+智者¶無心求佛，
+愚人執邪執正，
+徒勞空過一生，
+不¶見如來妙頂。
+
+了達婬慾性空，
+鑊湯鑪炭自冷。¶
 *** 善惡不二
-:PROPERTIES:
-:head: 善惡不二
-:END:
+
 ¶
 
-我自身心快樂。翛然無善無惡。法身自在無¶
-方觸目無非正覺。六塵本來空寂。凡夫妄生¶
-執著。涅槃生死平等。四海阿誰厚薄。無為大¶
-道自然。不用將心畫度。菩薩散誕靈通。所作¶
-常含妙覺。聲聞執法坐禪。如蠶吐絲自縛。法¶
-性本來圓明。病愈何須執藥。了知諸法平等。¶
-翛然清虛快樂。¶
+我自身心快樂，
+翛然無善無惡。
+法身自在無¶方，
+觸目無非正覺。
 
+六塵本來空寂，
+凡夫妄生¶
+執著。
+涅槃生死平等，
+四海阿誰厚薄？
+
+無為大¶道自然，
+不用將心畫度。
+菩薩散誕靈通，
+所作¶常含妙覺。
+
+聲聞執法坐禪，
+如蠶吐絲自縛。
+法¶性本來圓明，
+病愈何須執藥？
+
+了知諸法平等，
+¶翛然清虛快樂。¶
 *** 色空不二
-:PROPERTIES:
-:head: 色空不二
-:END:
+
 ¶
 
-法性本無青黃。眾生謾造文章。吾我說他止¶
-觀。自意擾擾顛狂。不識圓通妙理。何時得會¶
-真常。自疾不能治療。却教他人藥方。外看將¶
-為是善。心內猶若豺狼。愚人畏其地獄。智者¶
-不異天堂。對境心常不起。舉足皆是道場。佛¶
-與眾生不二。眾生自作分張。若欲除却三毒。¶
-迢迢不離災殃。智者知心是佛。愚人樂往西¶
-方。¶
+法性本無青黃，
+眾生謾造文章。
+吾我說他止¶觀，
+自意擾擾顛狂。
 
+
+不識圓通妙理，
+何時得會¶真常？
+自疾不能治療，
+却教他人藥方。
+
+外看將¶為是善，
+心內猶若豺狼。
+愚人畏其地獄，
+智者¶不異天堂。
+
+對境心常不起，
+舉足皆是道場。
+佛¶與眾生不二，
+眾生自作分張。
+
+若欲除却三毒，
+¶迢迢不離災殃。
+智者知心是佛，
+愚人樂往西¶方。¶
 *** 生死不二
-:PROPERTIES:
-:head: 生死不二
-:END:
+
 ¶
 
-世間諸法如幻。生死猶若雷電。法身自在圓¶
-通。出入山河無間。顛倒妄想本空。般若無迷¶
-無亂。三毒本自解脫。何須攝念禪觀。只為愚
-<pb:ZB6q0003_T_029-0451b>¶
-人不了。從他戒律決斷。不識寂滅真如。何時¶
-得登彼岸。智者無惡可斷。運用隨心合散。法¶
-性本來空寂。不為生死所絆。若欲斷除煩惱。¶
-此是無明癡漢。煩惱即是菩提。何用別求禪¶
-觀。實際無佛無魔。心體無形無段。¶
+世間諸法如幻，
+生死猶若雷電。
+法身自在圓¶通，
+出入山河無間。
 
+顛倒妄想本空，
+般若無迷¶無亂。
+三毒本自解脫，
+何須攝念禪觀？
+
+只為愚
+<pb:ZB6q0003_T_029-0451b>
+¶人不了，
+從他戒律決斷。
+不識寂滅真如，
+何時¶得登彼岸？
+
+智者無惡可斷，
+運用隨心合散。
+法¶
+性本來空寂，
+不為生死所絆。
+
+若欲斷除煩惱，
+¶此是無明癡漢。
+煩惱即是菩提，
+何用別求禪¶觀？
+
+實際無佛無魔，
+心體無形無段。
+¶
 *** 斷除不二
-:PROPERTIES:
-:head: 斷除不二
-:END:
+
 ¶
 
-丈夫運用堂堂。逍遙自在無妨。一切不能為¶
-害。堅固猶若金剛。不著二邊中道。翛然非斷¶
-非常。五欲貪瞋是佛。地獄不異天堂。愚人妄¶
-生分別。流浪生死猖狂。智者達色無礙。聲聞¶
-無不恛惶。法性本無瑕翳。眾生妄執青黃。如¶
-來引接迷愚。或說地獄天堂。彌勒身中自有。¶
-何須別處思量。棄却真如佛像。此人即是顛¶
-狂。聲聞心中不了。唯只趁逐言章。言章本非¶
-真道。轉加鬪爭剛彊。心裏蚖蛇蝮蝎。螫著便¶
-即遭傷。不解文中取義。何時得會真常。死入¶
-無間地獄。神識枉受災殃。¶
+丈夫運用堂堂，
+逍遙自在無妨。
+一切不能為¶害，
+堅固猶若金剛。
 
+不著二邊中道，
+翛然非斷¶非常。
+五欲貪瞋是佛，
+地獄不異天堂。
+
+愚人妄¶生分別，
+流浪生死猖狂。
+智者達色無礙，
+聲聞¶無不恛惶。
+
+法性本無瑕翳，
+眾生妄執青黃。
+如¶來引接迷愚，
+或說地獄天堂。
+
+彌勒身中自有，
+¶何須別處思量？
+棄却真如佛像，
+此人即是顛¶狂。
+
+聲聞心中不了，
+唯只趁逐言章。
+言章本非¶真道，
+轉加鬪爭剛彊。
+
+心裏蚖蛇蝮蝎，
+螫著便¶即遭傷。
+不解文中取義，
+何時得會真常？
+
+死入¶無間地獄，
+神識枉受災殃。¶
 *** 真俗不二
-:PROPERTIES:
-:head: 真俗不二
-:END:
+
 ¶
 
-法師說法極好。心中不離煩惱。口談文字化¶
-他。轉更增他生老。真妄本來不二。凡夫棄妄¶
-覓道。四眾雲集聽講。高座論義浩浩。南座北¶
-座相爭。四眾為言為好。雖然口談甘露。心裏¶
-尋常枯燥。自己元無一錢。日夜數他珍寶。恰¶
-似無智愚人。棄却真金擔草。心中三毒不捨。¶
-未審何時得道。¶
+法師說法極好，
+心中不離煩惱，
+口談文字化¶他，
+轉更增他生老。
 
+真妄本來不二，
+凡夫棄妄¶覓道，
+四眾雲集聽講，
+高座論義浩浩。
+
+南座北¶
+座相爭，
+四眾為言為好，
+雖然口談甘露，
+心裏¶尋常枯燥。
+
+自己元無一錢，
+日夜數他珍寶，
+恰¶似無智愚人，
+棄却真金擔草。
+
+
+心中三毒不捨，
+¶未審何時得道？¶
 *** 解縛不二
-:PROPERTIES:
-:head: 解縛不二
-:END:
+
 ¶
 
-律師持律自縛。自縛亦能縛他。外作威儀恬¶
-靜。心內恰似洪波。不駕生死船筏。如何度¶
-得愛河。不解真宗正理。邪見言辭繁多。有二
-<pb:ZB6q0003_T_029-0451c>¶
-比丘犯律。便却往問優波。優波依律說罪。轉¶
-增比丘網羅。方丈室中居士。維摩便即來訶。¶
-優波默然無對。淨名說法無過。而彼戒性如¶
-空。不在內外娑婆。勸除生滅不肯。忽悟還同¶
-釋迦。¶
+律師持律自縛，
+自縛亦能縛他，
+外作威儀恬¶靜，
+心內恰似洪波。
 
+不駕生死船筏，
+如何度¶得愛河？
+不解真宗正理，
+邪見言辭繁多。
+
+有二
+<pb:ZB6q0003_T_029-0451c>
+¶比丘犯律，
+便却往問優波，
+優波依律說罪，
+轉¶增比丘網羅。
+
+方丈室中居士，
+維摩便即來訶，
+¶優波默然無對，
+淨名說法無過。
+
+而彼戒性如¶空，
+不在內外娑婆，
+勸除生滅不肯，
+忽悟還同¶釋迦。¶
 *** 境照不二
-:PROPERTIES:
-:head: 境照不二
-:END:
+
 ¶
 
-禪師體離無明。煩惱從何處生。地獄天堂一¶
-相。涅槃生死空名。亦無貪瞋可斷。亦無佛道¶
-可成。眾生與佛平等。自然聖智惺惺。不為六¶
-塵所梁。句句獨契無生。正覺一念玄解。三世¶
-坦然皆平。非法非律自制。翛然真入圓成。絕¶
-此四句百非。如空無作無依。¶
+禪師體離無明，
+煩惱從何處生？
+地獄天堂一¶相，
+涅槃生死空名。
 
+亦無貪瞋可斷，
+亦無佛道¶可成。
+眾生與佛平等，
+自然聖智惺惺。
+
+不為六¶塵所梁。，
+句句獨契無生。
+正覺一念玄解，
+三世¶坦然皆平。
+
+非法非律自制，
+翛然真入圓成。
+絕¶此四句百非，
+如空無作無依。
+¶
 *** 運用無礙
-:PROPERTIES:
-:head: 運用無礙
-:END:
+
 ¶
 
-我今滔滔自在。不羨公王卿宰。四時猶若金¶
-剛。苦樂心常不改。法寶喻於須彌。智慧廣於¶
-江海。不為八風所牽。亦無精進懈怠。任性浮¶
-沈若顛。散誕縱橫自在。遮莫刀劍臨頭。我自¶
-安然不采。¶
+我今滔滔自在，
+不羨公王卿宰，
+四時猶若金¶剛，
+苦樂心常不改。
 
+法寶喻於須彌，
+智慧廣於¶江海，
+不為八風所牽，
+亦無精進懈怠。
+
+任性浮¶沈若顛，
+散誕縱橫自在，
+遮莫刀劍臨頭，
+我自¶安然不采。¶
 *** 迷悟不二
-:PROPERTIES:
-:head: 迷悟不二
-:END:
+
 ¶
 
-迷時以空為色。悟即以色為空。迷悟本無差¶
-別。色空究竟還同。愚人喚南作北。智者達無¶
-西東。欲覓如來妙理。常在一念之中。陽焰本¶
-非其水。渴鹿狂趁怱怱。自身虛假不實。將空¶
-更欲覓空。世人迷倒至甚。如犬吠雷叿叿。¶
+迷時以空為色，
+悟即以色為空。
+迷悟本無差¶別，
+色空究竟還同。
 
-** 歸宗至真禪師智常頌
-:PROPERTIES:
-:head: 歸宗至真禪師智常頌一首
-:END:
+愚人喚南作北，
+智者達無¶西東。
+欲覓如來妙理，
+常在一念之中。
+
+陽焰本¶非其水，
+渴鹿狂趁怱怱。
+自身虛假不實，
+將空¶更欲覓空。
+
+世人迷倒至甚，
+如犬吠雷叿叿。
+¶
+** 歸宗至真禪師智常頌一首
+
 ¶
 
-歸宗事理絕。日輪正當午。自在如師子。不與¶
-物依怙。獨步四山頂。優游三大路。欠呿飛禽¶
-墜。嚬呻眾邪怖。機竪箭易及。影沒手難覆。¶
-施張若工伎。裁剪如尺度。巧鏤萬般名。歸宗
-<pb:ZB6q0003_T_029-0452a>¶
-還似土。語默音聲絕。旨妙情難措。棄箇眼¶
-還聾。取箇耳還瞽。一鏃破三關。分明箭後¶
-路。可憐大丈夫。先天為心祖(體字函涅槃經二十七卷真師子王¶
-晨朝出穴嚬呻欠呿)。¶
+歸宗事理絕，
+日輪正當午。
+自在如師子，
+不與¶物依怙。
 
-** 香嚴襲燈大師智閑頌
-:PROPERTIES:
-:head: 香嚴襲燈大師智閑頌一十九首
-:END:
+獨步四山頂，
+優游三大路。
+欠呿飛禽¶墜，
+嚬呻眾邪怖。
+
+機竪箭易及，
+影沒手難覆。
+¶施張若工伎，
+裁剪如尺度。
+
+巧鏤萬般名，
+歸宗
+<pb:ZB6q0003_T_029-0452a>
+¶還似土。
+語默音聲絕，
+旨妙情難措。
+
+棄箇眼¶還聾，
+取箇耳還瞽。
+一鏃破三關，
+分明箭後¶路。
+
+可憐大丈夫，
+先天為心祖
+(體字函涅槃經二十七卷真師子王¶晨朝出穴嚬呻欠呿)。¶
+** 香嚴襲燈大師智閑頌一十九首
+
 ¶
-
 *** 授指
-:PROPERTIES:
-:head: 授指
-:END:
+
 ¶
 
-古人骨多靈異。賢子孫密安置。此一門成孝¶
-義。人未達莫差池。須志固遣狐疑。得安靜不¶
-傾危。向即遠求即離。取即急失即遲。無計校¶
-忘覺知。濁流識今古偽。一剎那通變異。嵯峨¶
-山石火氣。內裏發焚巔𡻭。無遮欄燒海底。法¶
-網疎靈焰細。六月臥去衣被。蓋不得無假偽。¶
-達道人唱祖意。我師宗古來諱。唯此人善安¶
-置。足法財具慚愧。不虛施用處諦。有人問少¶
-呵氣。更審來說米貴。¶
+古人骨，
+多靈異。
+賢子孫，
+密安置。
+此一門，
+成孝¶義。
 
+人未達，
+莫差池。
+須志固，
+遣狐疑。
+得安靜，
+不¶傾危。
+
+向即遠，
+求即離。
+取即急，
+失即遲。
+無計校，
+¶忘覺知。
+
+濁流識，
+今古偽。
+一剎那，
+通變異。
+嵯峨¶山，
+石火氣。
+
+內裏發，
+焚巔𡻭。
+無遮欄，
+燒海底。
+法¶網疎，
+靈焰細。
+
+
+六月臥，
+去衣被。
+蓋不得，
+無假偽。
+¶達道人，
+唱祖意。
+
+我師宗，
+古來諱。
+唯此人，
+善安¶置。
+足法財，
+具慚愧。
+
+不虛施，
+用處諦。
+有人問，
+少¶呵氣。
+更審來，
+說米貴。¶
 *** 最後語
-:PROPERTIES:
-:head: 最後語
-:END:
+
 ¶
 
-有一語全規矩。休思惟不自許。路逢達道人。¶
-揚眉省來處。蹋不著多疑慮。却思看帶伴侶。¶
-一生參學事無成。殷勤抱得旃檀樹。¶
+有一語，
+全規矩。
+休思惟，
+不自許。
+路逢達道人，
+¶揚眉省來處。
 
+蹋不著，
+多疑慮。
+却思看，
+帶伴侶。
+¶一生參學事無成，
+殷勤抱得旃檀樹。¶
 *** 暢玄與崔大夫
-:PROPERTIES:
-:head: 暢玄與崔大夫
-:END:
+
 ¶
 
-達人多隱顯。不定露形儀。語下不遺迹。密密¶
-潛護持。動容揚古路。明妙乃方知。應物但施¶
-設。莫道不思議。¶
+達人多隱顯，
+不定露形儀。
+語下不遺迹，
+密密¶潛護持。
 
+動容揚古路，
+明妙乃方知。
+應物但施¶設，
+莫道不思議。
+
+¶
 *** 達道場與城陰行者
-:PROPERTIES:
-:head: 達道場與城陰行者
-:END:
+
 ¶
 
-理奧絕思量。根尋徑路長。因茲知隔闊。無那¶
-被封疆。人生須特達。起坐覺馨香。清淨如來¶
-子。安然坐道場。¶
+理奧絕思量，
+根尋徑路長。
+因茲知隔闊，
+無那¶被封疆。
 
+人生須特達，
+起坐覺馨香。
+清淨如來¶子，
+安然坐道場。¶
 *** 與薛判官
-:PROPERTIES:
-:head: 與薛判官
-:END:
+
 ¶
 
-一滴滴水一焰焰火。飲水人醉向火人老。不
-<pb:ZB6q0003_T_029-0452b>¶
-飲不向無復安臥。抝折弓箭蹋倒射垛。若人¶
-要知先去鉤錐。人須問我我是阿誰。快道快¶
-道。¶
+一滴滴水，
+一焰焰火。
+飲水人醉，
+向火人老。
+不
+<pb:ZB6q0003_T_029-0452b>
+¶飲不向，
+無復安臥。
 
+抝折弓箭，
+蹋倒射垛。
+若人¶要知，
+先去鉤錐。
+人須問我，
+我是阿誰？
+
+快道！
+快¶道！¶
 *** 與臨濡縣行者
-:PROPERTIES:
-:head: 與臨濡縣行者
-:END:
+
 ¶
 
-丈夫咄哉久被塵埋。我因今日得入山來。揚¶
-眉示我因茲眼開。老僧手風書處龍鍾。語下¶
-有意的出樊籠。¶
+丈夫咄哉！
+久被塵埋。
+我因今日，
+得入山來。
 
+揚¶眉示我，
+因茲眼開。
+老僧手風，
+書處龍鍾。
+
+語下¶有意，
+的出樊籠。
+¶
 *** 顯旨
-:PROPERTIES:
-:head: 顯旨
-:END:
+
 ¶
 
-思遠神儀奧。精虛履踐通。見聞離影像。密際¶
-語前蹤。得意塵中妙。投機露道容。藏明照警¶
-覺。肯可達真宗。¶
+思遠神儀奧，
+精虛履踐通。
+見聞離影像，
+密際¶語前蹤。
 
+得意塵中妙，
+投機露道容。
+藏明照警¶覺，
+肯可達真宗。¶
 *** 三句後意
-:PROPERTIES:
-:head: 三句後意
-:END:
+
 ¶
 
-書出語多虛。虛中帶有無。却向書前會。放却¶
-意中珠。¶
+書出語多虛，
+虛中帶有無。
+却向書前會，
+放却¶意中珠。¶
+*** 答鄭郎中問二首
 
-*** 答鄭郎中問
-:PROPERTIES:
-:head: 答鄭郎中問二首
-:END:
 ¶
 
-語中埋迹聲前露容。即時妙會古人同風。響¶
-應機宜無自他宗。訶起騃蟒奮迅成龍。¶
+語中埋迹，
+聲前露容。
+即時妙會，
+古人同風。
 
-語裏埋筋骨。音聲染道容。即時才妙會。拍手¶
-趁乖龍。¶
 
+響¶應機宜，
+無自他宗。
+訶起騃蟒，
+奮迅成龍。¶
+
+語裏埋筋骨，
+音聲染道容。
+即時才妙會，
+拍手¶趁乖龍。
+¶
 *** 譚道
-:PROPERTIES:
-:head: 譚道
-:END:
+
 ¶
 
-的的無兼帶。獨運何依賴。路逢達道人。莫將¶
-語默對。¶
-
+的的無兼帶，
+獨運何依賴？
+路逢達道人，
+莫將¶語默對。¶
 *** 與學人玄機
-:PROPERTIES:
-:head: 與學人玄機
-:END:
+
 ¶
 
-妙旨迅速言說來遲。才隨語會迷却神機。揚¶
-眉當問對面熙怡。是何境界同道方知。¶
+妙旨迅速，
+言說來遲。
+才隨語會，
+迷却神機。
 
+揚¶眉當問，
+對面熙怡。
+是何境界？
+同道方知。¶
 *** 明道
-:PROPERTIES:
-:head: 明道
-:END:
+
 ¶
 
-思思似有蹤。明明不知處。借問示宗賓。徐徐¶
-暗迴顧。¶
-
+思思似有蹤，
+明明不知處。
+借問示宗賓，
+徐徐¶暗迴顧。¶
 *** 玄旨
-:PROPERTIES:
-:head: 玄旨
-:END:
 
-<pb:ZB6q0003_T_029-0452c>¶
 
-去去無標的。來來只麼來。有人相借問。不語¶
-笑咍咍。¶
+<pb:ZB6q0003_T_029-0452c>
+¶
 
+去去無標的，
+來來只麼來。
+有人相借問，
+不語¶笑咍咍。
+¶
 *** 與鄧州行者
-:PROPERTIES:
-:head: 與鄧州行者
-:END:
+
 ¶
 
-林下覺身愚。緣不帶心珠。開口無言說。筆頭¶
-無可書。人問香嚴旨。莫道在山居。¶
+林下覺身愚，
+緣不帶心珠。
+開口無言說，
+筆頭¶無可書。
 
+人問香嚴旨，
+莫道在山居。¶
 *** 三跳後
-:PROPERTIES:
-:head: 三跳後
-:END:
+
 ¶
 
-三門前合掌。兩廊下行道。中庭上作舞。後門¶
-外搖頭。¶
-
+三門前合掌，
+兩廊下行道，
+中庭上作舞，
+後門¶外搖頭。¶
 *** 上根
-:PROPERTIES:
-:head: 上根
-:END:
+
 ¶
 
-咄哉莫錯頓爾無覺。空處發言龍驚一著。小¶
-語呼召妙絕名貌。巍巍道流無可披剝。¶
+咄哉莫錯！
+頓爾無覺。
+空處發言，
+龍驚一著。
 
+
+小¶語呼召，
+妙絕名貌。
+巍巍道流，
+無可披剝。¶
 *** 破法身見
-:PROPERTIES:
-:head: 破法身見
-:END:
+
 ¶
 
-向上無父孃。向下無男女。獨自一箇身。切¶
-須了却去。聞我有此言。人人競來取。對他一¶
-句子。不話無言語。¶
+向上無父孃，
+向下無男女，
+獨自一箇身，
+切¶須了却去。
 
-*** 獨脚
-:PROPERTIES:
-:head: 獨脚
-:END:
+聞我有此言，
+人人競來取，
+對他一¶句子，
+不話無言語。
+¶
+*** 獨
+
+脚¶
+
+子母啄，
+子覺無㲉。
+母子俱亡，
+應緣不錯。
+同¶道唱和，
+妙云獨脚。¶
+** 洞山和尚良价頌一首
+
+¶
+*** 無心合道¶
+
+
+
+道無心合人，
+人無心合道。
+欲識箇中意，
+一老¶一不老。¶
+** 龍牙和尚居遁頌一十八首
+
 ¶
 
-子[吭-几+(坐-工+十)]母啄子覺無㲉。母子俱亡應緣不錯。同¶
-道唱和妙云獨脚。¶
+龍牙山裏龍，
+形非世間色。
+世上畫龍人，
+巧巧¶描不得。
 
-** 洞山和尚良价頌
-:PROPERTIES:
-:head: 洞山和尚良价頌一首
-:END:
+唯有識龍人，
+一見便心息。¶
+
+唯念門前樹，
+能容鳥泊飛。
+來者無心喚，
+騰身¶不慕歸。
+
+若人心似樹，
+與道不相違。¶
+
+
+一得無心便道情，
+六門休歇不勞形。
+有緣不¶是余朋友，
+無用雙眉却弟兄。
+<pb:ZB6q0003_T_029-0453a>
 ¶
 
-*** 無心合道
-:PROPERTIES:
-:head: 無心合道
-:END:
+悟了還同未悟人，
+無心勝負自安神。
+從前古¶
+德稱貧道，
+向此門中有幾人？¶
+
+學道先須有悟由，
+還如曾鬪快龍舟。
+雖然舊¶閣於空地，
+一度贏來方始休。¶
+
+心空不及道空安，
+道與心空狀一般。
+參玄不¶是道空士，
+一乍相逢不易看。¶
+
+自小從師學祖宗，
+閑華猶似纏人蜂。
+僧真不¶假居雲外，
+得後知無色自空。¶
+
+學道無端學畫龍，
+元來未得筆頭蹤。
+一朝體¶得真龍後，
+方覺從前枉用功。¶
+
+成佛人希念佛多，
+念來歲久却成魔。
+君今欲¶得自成佛，
+無念之人不較多。¶
+
+
+在夢那知夢是虛，
+覺來方覺夢中無。
+迷時恰¶是夢中事，
+悟後還同睡起夫。¶
+
+學道蒙師詣却閑，
+無中有路隱人間。
+饒君講¶得千經論，
+一句臨機下口難。¶
+
+菩薩聲聞未盡空，
+人天來往訪真宗。
+爭如佛¶是無疑士，
+端坐無心只麼通。¶
+
+此生不息息何時？
+息在今生共要知。
+心息只¶
+緣無妄想，
+妄除心息是休時。¶
+
+迷人未了勸盲聾，
+土上加泥更一重。
+悟人有¶意同迷意，
+只在迷中迷不逢。¶
+
+夫人學道莫貪求，
+萬事無心道合頭。
+無心始¶體無心道，
+體得無心道亦休。¶
+
+眉間毫相焰光身，
+事見爭如理見親？
+事有只¶因於理有，
+理權方便化天人。
+
+一朝大悟俱消¶却，
+方得名為無事人。¶
+
+
+人情濃厚道情微，
+道用人情世豈知？
+空有人¶情無道用，
+人情能得幾多時？
+<pb:ZB6q0003_T_029-0453b>
 ¶
 
-道無心合人。人無心合道。欲識箇中意。一老¶
-一不老。¶
+尋牛須訪迹，
+學道訪無心。
+迹在牛還在，
+無心¶道易尋。¶
+** 玄沙師備宗一大師頌三首
 
-** 龍牙和尚居遁頌
-:PROPERTIES:
-:head: 龍牙和尚居遁頌一十八首
-:END:
 ¶
 
-龍牙山裏龍。形非世間色。世上畫龍人。巧巧¶
-描不得。唯有識龍人。一見便心息。¶
+玄沙遊徑別，
+時人切須知。
+三冬陽氣盛，
+六月¶降霜時。
 
-唯念門前樹。能容鳥泊飛。來者無心喚。騰身¶
-不慕歸。若人心似樹。與道不相違。¶
+有語非關舌，
+無言切要辭。
+會我最後¶句，
+出世少人知。¶
 
-一得無心便道情。六門休歇不勞形。有緣不¶
-是余朋友。無用雙眉却弟兄。
-<pb:ZB6q0003_T_029-0453a>¶
+奇哉一靈叟！
+那頓許吺吺
+(音兜)。
+風起引箜篌，
+迷¶子爭頭湊。
 
-悟了還同未悟人。無心勝負自安神。從前古¶
-德稱貧道。向此門中有幾人。¶
+設使總不是，
+蝦蟇大張口。
+開口不¶開口，
+終是犯靈叟。
 
-學道先須有悟由。還如曾鬪快龍舟。雖然舊¶
-閣於空地。一度贏來方始休。¶
+欲識箇中意，
+南星真北¶斗。¶
 
-心空不及道空安。道與心空狀一般。參玄不¶
-是道空士。一乍相逢不易看。¶
 
-自小從師學祖宗。閑華猶似纏人蜂。僧真不¶
-假居雲外。得後知無色自空。¶
+萬里神光頂後相，
+沒頂之時何處望？
+事已成，
+¶意亦休，
+此箇從來觸處周。
 
-學道無端學畫龍。元來未得筆頭蹤。一朝體¶
-得真龍後。方覺從前枉用功。¶
+智者聊聞猛提¶取，
+莫待須臾失却頭。¶
+** 招慶省僜真覺大師頌二首
 
-成佛人希念佛多。念來歲久却成魔。君今欲¶
-得自成佛。無念之人不較多。¶
-
-在夢那知夢是虛。覺來方覺夢中無。迷時恰¶
-是夢中事。悟後還同睡起夫。¶
-
-學道蒙師詣却閑。無中有路隱人間。饒君講¶
-得千經論。一句臨機下口難。¶
-
-菩薩聲聞未盡空。人天來往訪真宗。爭如佛¶
-是無疑士。端坐無心只麼通。¶
-
-此生不息息何時。息在今生共要知。心息只¶
-緣無妄想。妄除心息是休時。¶
-
-迷人未了勸盲聾。土上加泥更一重。悟人有¶
-意同迷意。只在迷中迷不逢。¶
-
-夫人學道莫貪求。萬事無心道合頭。無心始¶
-體無心道。體得無心道亦休。¶
-
-眉間毫相焰光身。事見爭如理見親。事有只¶
-因於理有。理權方便化天人。一朝大悟俱消¶
-却。方得名為無事人。¶
-
-人情濃厚道情微。道用人情世豈知。空有人¶
-情無道用。人情能得幾多時。
-<pb:ZB6q0003_T_029-0453b>¶
-
-尋牛須訪迹。學道訪無心。迹在牛還在。無心¶
-道易尋。¶
-
-** 玄沙師備宗一大師頌
-:PROPERTIES:
-:head: 玄沙師備宗一大師頌三首
-:END:
 ¶
-
-玄沙遊徑別。時人切須知。三冬陽氣盛。六月¶
-降霜時。有語非關舌。無言切要辭。會我最後¶
-句出世少人知。¶
-
-奇哉一靈叟。那頓許吺吺(音兜)。風起引箜篌。迷¶
-子爭頭湊。設使總不是。蝦蟇大張口。開口不¶
-開口。終是犯靈叟。欲識箇中意。南星真北¶
-斗。¶
-
-萬里神光頂後相。沒頂之時何處望。事已成¶
-意亦休。此箇從來觸處周。智者聊聞猛提¶
-取。莫待須臾失却頭。¶
-
-** 招慶省僜真覺大師頌
-:PROPERTIES:
-:head: 招慶省僜真覺大師頌二首
-:END:
-¶
-
 *** 示執坐禪者
-:PROPERTIES:
-:head: 示執坐禪者
-:END:
+
 ¶
 
-大道分明絕點塵。何須長坐始相親。遇緣儻¶
-解無非是。處憒那能有故新。散誕肯齊支遁¶
-侶。逍遙曷與慧休隣。或遊泉石或闤闠。可謂¶
-煙霞物外人。¶
+大道分明絕點塵，
+何須長坐始相親？
+遇緣儻¶解無非是，
+處憒那能有故新。
 
+散誕肯齊支遁¶侶，
+逍遙曷與慧休隣。
+或遊泉石或闤，
+闠。可謂¶煙霞物外人。¶
 *** 示坐禪方便
-:PROPERTIES:
-:head: 示坐禪方便
-:END:
+
 ¶
 
-四威儀內坐為先。澄濾身心漸坦然。瞥爾有¶
-緣隨濁界。當須莫續是天年。修持只話從功¶
-路。至理寧論在那邊。一切時中常管帶。因緣¶
-相湊豁通玄。¶
+四威儀內坐為先，
+澄濾身心漸坦然。
+瞥爾有¶緣隨濁界，
+當須莫續是天年。
 
-** 漳州羅漢桂琛和尚明道頌
-:PROPERTIES:
-:head: 漳州羅漢桂琛和尚明道頌一首
-:END:
+修持只話從功¶路，
+至理寧論在那邊？
+一切時中常管帶，
+因緣¶相湊豁通玄。
 ¶
+** 漳州羅漢桂琛和尚明道頌一首	Preis des klaren Weges von Chan Meister Luohan Guichen aus Zhangzhou
+#+BEGIN_VERSE
+¶至道淵曠，	Den Weg zu erreichen ist überwältigend
+勿以言宣。	und läßt sich nicht mit Worten beschreiben.
+言宣非指，	Die Beschreibung durch Worte gibt keinen Hinweis,
+孰云有是？	was also sollte man überhaupt sagen?
 
-至道淵曠勿以言宣。言宣非指孰云有是。觸¶
-處皆渠豈喻真虛。真虛設辨如鏡中現。有無¶
-雖彰在處無傷。無傷無在何拘何閡。不假功¶
-成將何法爾。法爾不爾俱為脣齒。若以斯陳
-<pb:ZB6q0003_T_029-0453c>¶
-埋沒宗旨。宗非意陳無以見聞。見聞不脫如¶
-水中月。於此不明翻為剩法。一法有形翳汝¶
-眼睛。眼睛不明世界崢嶸。我宗奇特當陽顯¶
-赫。佛及眾生皆承恩力。不在低頭思量難得。¶
-拶破面門覆蓋乾坤。快須薦取脫却根塵。其¶
-如不曉謾說而今。¶
+觸¶處皆渠，	Ich bin mit der ganzen Welt in Tuchfühlung,
+豈喻真虛？	wie kann man das nur mit der echten Leere vergleichen?
+真虛設辨，	Die echte Leere setzt auch nur einen Begriff, 
+如鏡中現。	und ist [damit] wie etwas, das im Spiegel erscheint.
 
-** 南嶽惟勁禪師覺地頌
-:PROPERTIES:
-:head: 南嶽惟勁禪師覺地頌一首(七言)
+有無¶雖彰，	Auch wenn klar ist ob es etwas gibt oder nicht,
+在處無傷。	so hat es doch nicht unbedingt überall seinen Einfluss.
+無傷無在，	Wenn es keinen Einfluss hat, so ist es auch nicht da,
+何拘何閡？	wer könnte es beschränken oder die Verbindung abschneiden?
+
+不假功¶成，	Nichts ist künstlich erzeugt,
+將何法爾？	wie könnte man sonst davon sprechen, daß alles aus sich heraus existiert?
+:zhu:
+法爾 [fa4ni3]  zgd: 法のおのずからしかあること。ものが何かの作為なく、本来のすがたにおいてあること。
 :END:
+法爾不爾，	Wenn nicht alles aus sich existieren würde, so wäre dies alles nicht,
+俱為脣齒。	und das gilt auch für deine Lippen und Zähne.
+
+若以斯陳，	Wenn man es auf diese Weise betrachtet,
+<pb:ZB6q0003_T_029-0453c>
+¶埋沒宗旨。	so begräbt man damit die Absicht der Lehre.
+宗非意陳，	Der Sinn der Lehre liegt aber nicht darin, so geordnet zu werden,
+無以見聞。	denn dann könnte man sich ja nicht auf sein eigenes Sehen und Hören verlassen.
+
+見聞不脫，	Das Sehen und Hören allein aber führt nicht zur Befreiung,
+如¶水中月。	so wie der Mond nicht wirklich im Wasser ist.
+於此不明，	Wem dies nicht klar ist,
+翻為剩法。	der hat die Lehre noch nicht begriffen.
+
+一法有形，	Wenn die eine Lehre tatsächlich Gestalt hätte,
+翳汝¶眼睛。	dann würde das die Funktion der Augen zerstören.
+眼睛不明，	Sind die Augen aber nicht klar,
+世界崢嶸。	so ist die Welt trotzdem groß und erhaben.
+
+我宗奇特，	Unsere Chan Schule ist eine ganz besondere Sache,
+當陽顯¶赫。	das ist vollkommen klar und ohne Zweifel.
+佛及眾生，	Sowohl Buddha als auch alle Lebewesen
+皆承恩力。	profitieren alle davon und unterstützen sich gegenseitig.
+
+不在低頭，	Das bedeutet aber nicht, daß man sich dem unterwerfen müßte,
+思量難得。	denn dann wäre ein Verstehen nur schwer zu erreichen.
+¶拶破面門，	Wenn man erst einmal den großen Durchbruch erreicht hat,
+覆蓋乾坤。	dann wird der Deckel von Himmel und Erde verkehrt.
+
+快須薦取，	Beeil dich und versteh die große Sache,
+脫却根塵。	befreie dich vom Diktat der sechs Sinne.
+其¶如不曉，	Wenn du das aber selbst jetzt noch nicht verstehst,
+謾說而今。¶	dann wirst du immer noch durch Worte an der Nase herumgeführt.
+#+END_VERSE
+
+** 南嶽惟勁禪師覺地頌一首
+(七言)¶
+#+BEGIN_VERSE
+略明覺地名同異，
+起復初終互換生。
+性海首¶建增名號，
+妙覺還依性覺明。
+
+
+體覺俱含於明¶妙，
+明覺妙覺並雙行。
+妙覺覺妙元明體，
+全成¶無漏一真精。
+
+明覺覺明明所了，
+或因了相失元¶明。
+明妙二覺宗體覺，
+體覺性覺二同明。
+
+湛覺¶圓圓無增減，
+此中無佛與眾生。
+不覺始終非¶了了，
+不聞迷悟豈惺惺？
+
+是稱心地如來藏，
+亦¶無覺照及無生。
+非生非滅真如海，
+湛然常住¶名無名。
+
+太虛未覺生霞點，
+豈聞微塵有漏聲？
+¶空漚匪離於覺誨，
+動寂元是一真明。
+
+覺明體¶爾含靈焰，
+覺明逐焰致虧盈。
+差之不返名無¶覺，
+會之復本始覺生。
+
+本覺由因始覺生，
+正覺¶還依合覺明。
+由他二種成差互，
+遂令渾作賴¶耶名。
+
+具含染淨雙岐路，
+覺明含處異途萌。
+性¶起無生不動智，
+不離覺體本圓成。
+
+性起轉覺¶翻生所，
+遂令有漏墮迷盲。
+無明因愛相滋潤，
+¶名色根本漸次生。
+
+七識轉處蒙圓鏡，
+五六生¶時蔽覺明。
+觸受有取相依起，
+生老病死繼續¶行。
+
+業識茫茫沒苦海，
+徇流浩浩逐飄零。
+大聖¶慈悲興救濟，
+一聲用處出三聲。
+
+智身由從法¶身起，
+行身還約智身生。
+智行二身融無二，
+還¶歸一體本來平。
+
+萬有齊含真海印，
+一心普現<pb:ZB6q0003_T_029-0454a>¶總圓明。
+湛光焰焰何依止？
+空性蕩蕩無所停。
+
+¶處處示生無生相，
+處處示滅無滅形。
+珠鏡頓¶印無來往，
+浮雲聚散勿常程。
+
+出沒任真同水¶月，
+應緣如響化群情。
+眾生性地元無染，
+只緣¶浮妄翳真精。
+
+不了五陰如空聚，
+豈知四大若¶乾城？
+我慢癡山高屹屹，
+無明欲海杳溟溟。
+
+每¶逐旃陀憍誑友，
+常隨猛獸作悲鳴。
+自性轉識¶翻為幻，
+自心幻境自心驚。
+
+了此幻性同陽焰，
+¶空華識浪復圓成。
+太虛忽覺浮雲散，
+始覺虛¶空本自清。
+
+今古湛然常皎瑩，
+不得古今凡聖¶名。¶
+#+END_VERSE
+
+** 郢州臨谿敬脫和尚入道淺深頌五首¶
+#+BEGIN_VERSE
+露柱聲聲喚，
+猢猻繩子絆。
+中下莫知由，
+上士¶方堪看。¶
+
+露柱不聲喚，
+猢猻繩子斷。
+上士笑呵呵，
+中流¶若為見？¶
+
+
+猢猻與露柱，
+未免東西步。
+任唱太平歌，
+徒話¶超佛祖。¶
+
+我見匠者誇，
+語默玄妙句。
+不善本根源，
+巧布¶祇園事。¶
+
+少室與摩竭，
+第代稱揚許。
+我今問汝徒，
+誰作¶將來主？¶
+#+END_VERSE
+** 大法眼禪師文益頌十四首
+
 ¶
+*** 三界唯心	Die drei Welten sind alle ein Geist[fn::/Die drei Welten sind alle ein Geist$/ Dies ist eines von 14 Gedichten von Fayan Wenyi (zu Fayan siehe oben S.XX). ]
+#+BEGIN_VERSE
+¶三界唯心，	Die drei Welten sind alle ein Geist
+萬法唯識。	und die Myriaden von Dharmas nichts als Bewußtsein.
+唯識唯心，	Es gibt nur Bewußtsein, nur Geist,
+眼聲耳色。	Augen und Klang, Ohren und Farbe.
 
-略明覺地名同異。起復初終互換生。性海首¶
-建增名號。妙覺還依性覺明。體覺俱含於明¶
-妙。明覺妙覺並雙行。妙覺覺妙元明體。全成¶
-無漏一真精。明覺覺明明所了。或因了相失元¶
-明。明妙二覺宗體覺。體覺性覺二同明。湛覺¶
-圓圓無增減。此中無佛與眾生。不覺始終非¶
-了了。不聞迷悟豈惺惺。是稱心地如來藏。亦¶
-無覺照及無生。非生非滅真如海。湛然常住¶
-名無名。太虛未覺生霞點。豈聞微塵有漏聲。¶
-空漚匪離於覺誨。動寂元是一真明。覺明體¶
-爾含靈焰。覺明逐焰致虧盈。差之不返名無¶
-覺。會之復本始覺生。本覺由因始覺生。正覺¶
-還依合覺明。由他二種成差互。遂令渾作賴¶
-耶名。具含染淨雙岐路。覺明含處異途萌。性¶
-起無生不動智。不離覺體本圓成。性起轉覺¶
-翻生所。遂令有漏墮迷盲。無明因愛相滋潤。¶
-名色根本漸次生。七識轉處蒙圓鏡。五六生¶
-時蔽覺明。觸受有取相依起。生老病死繼續¶
-行。業識茫茫沒苦海。徇流浩浩逐飄零。大聖¶
-慈悲興救濟。一聲用處出三聲。智身由從法¶
-身起。行身還約智身生。智行二身融無二。還¶
-歸一體本來平。萬有齊含真海印。一心普現
-<pb:ZB6q0003_T_029-0454a>¶
-總圓明。湛光焰焰何依止。空性蕩蕩無所停。¶
-處處示生無生相。處處示滅無滅形。珠鏡頓¶
-印無來往。浮雲聚散勿常程。出沒任真同水¶
-月。應緣如響化群情。眾生性地元無染。只緣¶
-浮妄翳真精。不了五陰如空聚。豈知四大若¶
-乾城。我慢癡山高屹屹。無明欲海杳溟溟。每¶
-逐旃陀憍誑友。常隨猛獸作悲鳴。自性轉識¶
-翻為幻。自心幻境自心驚。了此幻性同陽焰。¶
-空華識浪復圓成。太虛忽覺浮雲散。始覺虛¶
-空本自清。今古湛然常皎瑩。不得古今凡聖¶
-名。¶
+色¶不到耳，	Farbe kommt nicht durchs Ohr herein,
+聲何觸眼？	sagst du und was hat der Klang mit dem Auge zu tun?
+眼色耳聲，	Die Farbe erzeugt das Auge und der Klang das Ohr,
+萬法成辦。	die Myriaden Dharmas setzen all dies zusammen.
 
-** 郢州臨谿敬脫和尚入道淺深頌
-:PROPERTIES:
-:head: 郢州臨谿敬脫和尚入道淺深頌五首
-:END:
-¶
-
-露柱聲聲喚。猢猻繩子絆。中下莫知由。上士¶
-方堪看。¶
-
-露柱不聲喚。猢猻繩子斷。上士笑呵呵。中流¶
-若為見。¶
-
-猢猻與露柱。未免東西步。任唱太平歌。徒話¶
-超佛祖。¶
-
-我見匠者誇。語默玄妙句。不善本根源。巧布¶
-祇園事。¶
-
-少室與摩竭。第代稱揚許。我今問汝徒。誰作¶
-將來主。¶
-
-** 大法眼禪師文益頌
-:PROPERTIES:
-:head: 大法眼禪師文益頌十四首
-:END:
-¶
-
-*** 三界唯心
-:PROPERTIES:
-:head: 三界唯心
-:END:
-¶
-
-三界唯心萬法唯識。唯識唯心眼聲耳色。色¶
-不到耳聲何觸眼。眼色耳聲萬法成辦。萬法¶
-匪緣豈觀如幻。大地山河誰堅誰變。¶
+萬法¶匪緣，	Die Myriaden Dharmas erzeugen damit Verbindungen,
+豈觀如幻？	wie könnte man diese als Unreal ansehen?
+大地山河，	Die weite Erde, Berge und Flüsse,
+誰堅誰變？¶	was davon ist solide und was kann sich ändern?
+#+END_VERSE
 
 *** 華嚴六相義
-:PROPERTIES:
-:head: 華嚴六相義
-:END:
 ¶
+#+BEGIN_VERSE
+華嚴六相義，
+同中還有異。
+異若異於同，
+全非<pb:ZB6q0003_T_029-0454b>¶諸佛意。
 
-華嚴六相義。同中還有異。異若異於同。全非
-<pb:ZB6q0003_T_029-0454b>¶
-諸佛意。諸佛意總別。何曾有同異。男子身中¶
-入定時。女子身中不留意。不留意絕名字。萬¶
-象明明無理事。¶
 
+諸佛意總別，
+何曾有同異？
+男子身中¶入定時，
+女子身中不留意。
+
+不留意，
+絕名字，
+萬¶象明明無理事。¶
+#+END_VERSE
 *** 瞻須菩提
-:PROPERTIES:
-:head: 瞻須菩提
-:END:
-¶
 
-須菩提貌古奇。說空法法不離。信不及又懷¶
-疑。信得及復何之。倚筇杖視東西。¶
+¶
+#+BEGIN_VERSE
+須菩提，
+貌古奇，
+說空法，
+法不離。
+
+信不及，
+又懷¶疑；
+信得及，
+復何之？
+倚筇杖，
+視東西。¶
+#+END_VERSE
 
 *** 街鼓鳴
-:PROPERTIES:
-:head: 街鼓鳴
-:END:
+
 ¶
 
-鼓鼕鼕運大功。滿朝人道路通。道路通何所¶
-至。達者莫言登寶地。¶
+鼓鼕，
+鼕運大功。
+滿朝人，
+道路通。
 
+道路通，
+何所¶至？
+達者莫言登寶地。¶
 *** 示捨棄慕道
-:PROPERTIES:
-:head: 示捨棄慕道
-:END:
+
 ¶
 
-東堂不折桂。南華不學仙。却來乾竺寺。披衣¶
-效坐禪。禪若效坐得。非想亦何偏(經劫守閑。不出生死)¶
-為報參禪者。須悟道中玄。如何道中玄。真規¶
-自宛然。¶
+東堂不折桂，
+南華不學仙，
+却來乾竺寺，
+披衣¶效坐禪。
 
-*** 金剛經為人輕賤章
-:PROPERTIES:
-:head: 金剛經為人輕賤章(詮云持經者證佛地也)
-:END:
-¶
 
-寶劍不失虛舟不刻。不失不刻彼子為得。倚¶
-待不堪孤然仍則。鳥迹虛空有無彌忒(思之)。¶
+禪若效坐得，
+非想亦何偏？
+(經劫守閑。
+不出生死)
+¶為報參禪者，
+須悟道中玄。
+如何道中玄？
+真規¶自宛然。¶
+*** 《金剛經》為人輕賤章
+(詮云持經者證佛地也)¶
 
+寶劍不失，
+虛舟不刻。
+不失不刻，
+彼子為得。
+
+倚¶待不堪，
+孤然仍則。
+鳥迹虛空，
+有無彌忒
+(思之)。¶
 *** 僧問隨色摩尼珠
-:PROPERTIES:
-:head: 僧問隨色摩尼珠
-:END:
+
 ¶
 
-摩尼不隨色。色裏勿摩尼。摩尼與眾色。不合¶
-不分離。¶
-
+摩尼不隨色，
+色裏勿摩尼。
+摩尼與眾色，
+不合¶不分離。¶
 *** 牛頭庵
-:PROPERTIES:
-:head: 牛頭庵
-:END:
+
 ¶
 
-國城南祖師庵。庵舊址依雲嵐。獸馴淑人相¶
-參。忽有心終不堪。¶
+國城南，
+祖師庵。
+庵舊址，
+依雲嵐。
 
+獸馴淑，
+人相¶參。
+忽有心，
+終不堪。
+¶
 *** 乾闥婆城
-:PROPERTIES:
-:head: 乾闥婆城
-:END:
+
 ¶
 
-乾闥婆城法法皆爾。法爾不爾名相真軌。日¶
-煖月涼海深山起。乾闥婆城是非亡矣。¶
+乾闥婆城，
+法法皆爾。
+法爾不爾，
+名相真軌。
 
+日¶煖月涼，
+海深山起。
+乾闥婆城，
+是非亡矣。¶
 *** 因僧看經
-:PROPERTIES:
-:head: 因僧看經
-:END:
+
 ¶
 
-今人看古教。不免心中鬧。欲免心中鬧。但知¶
-看古教。
-<pb:ZB6q0003_T_029-0454c>¶
+今人看古教，
+不免心中鬧。
+欲免心中鬧，
+但知¶看古教。
+<pb:ZB6q0003_T_029-0454c>
+¶
+*** 問僧云。
+會麼。
+對不會
 
-*** 問僧云會麼對不會
-:PROPERTIES:
-:head: 問僧云。會麼。對不會
-:END:
 ¶
 
-會與不會。與汝面對。若也面對。真箇不會。¶
-
+會與不會，
+與汝面對。
+若也面對，
+真箇不會。
+¶
 *** 庭柏盆蓮
-:PROPERTIES:
-:head: 庭柏盆蓮
-:END:
+
 ¶
 
-一朵菡萏蓮。兩株青瘦柏。長向僧家庭。何勞¶
-問高格。¶
-
+一朵菡萏蓮，
+兩株青瘦柏，
+長向僧家庭，
+何勞¶問高格？¶
 *** 正月偶示
-:PROPERTIES:
-:head: 正月偶示
-:END:
+
 ¶
 
-正月春順時節。情有無皆含悅。君要知得誰¶
-力。更問誰教誰決。¶
+正月春，
+順時節。
+情有無，
+皆含悅。
 
+君要知，
+得誰¶力？
+更問誰，
+教誰決？¶
 *** 寄鍾陵光僧正
-:PROPERTIES:
-:head: 寄鍾陵光僧正
-:END:
+
 ¶
 
-西山巍巍兮聳碧。漳水澄澄兮練色。對現分¶
-明有何極。¶
+西山巍巍兮聳碧,漳水澄澄兮練色,對現分¶明有何極？
 
+¶
 ** 白居易八漸偈
-:PROPERTIES:
-:head: 白居易八漸偈(并序)
-:END:
-¶
+(并序)¶
 
-*** 序
-唐貞元十九年秋八月。有大師曰凝公。遷化¶
-于東都聖善寺鉢塔院。越明年春二月有東¶
-來客白居易。作八漸偈。偈六句。句四言贊之。¶
-初居易嘗求心要於師。師賜我言焉。曰觀。曰¶
-覺。曰定。曰慧。曰明。曰通。曰濟。曰捨。繇是入¶
-於耳貫於心。嗚呼今師之報身則化。師之八¶
-言不化。至哉八言實無生忍觀之漸門也。故¶
-自觀至捨。次而贊之。廣一言為一偈。謂之八¶
-漸偈。蓋欲以發揮師之心教。且明居易不敢¶
-失墜也。既而升于堂禮于床。跪而唱泣而去。¶
-偈曰。¶
-
+唐貞元十九年秋八月，
+有大師曰凝公，
+遷化¶于東都聖善寺鉢塔院。
+越明年春二月，
+有東¶來客白居易。
+作八漸偈，
+偈六句，
+句四言贊之。
+¶初，
+居易嘗求心要於師，
+師賜我言焉︰
+曰觀、
+曰¶覺、
+曰定、
+曰慧、
+曰明、
+曰通、
+曰濟、
+曰捨，
+繇是入¶於耳，
+貫於心。
+嗚呼！
+今師之報身則化，
+師之八¶言不化。
+至哉八言！
+實無生忍觀之漸門也。
+故¶自觀至捨，
+次而贊之，
+廣一言為一偈，
+謂之八¶漸偈。
+蓋欲以發揮師之心教，
+且明居易不敢¶失墜也。
+既而升于堂，
+禮于床，
+跪而唱，
+泣而去。
+¶偈曰︰¶
 *** 觀
-:PROPERTIES:
-:head: 觀
-:END:
+
 ¶
 
-以心中眼觀心外相。從何而有從何而喪。觀¶
-之又觀則辨真妄。¶
-
+以心中眼，
+觀心外相，
+從何而有？
+從何而喪？
+觀¶之又觀，
+則辨真妄。¶
 *** 覺
-:PROPERTIES:
-:head: 覺
-:END:
+
 ¶
 
-惟真常在為妄所蒙。真妄苟辨覺生其中。不¶
-離妄有而得真空。
-<pb:ZB6q0003_T_029-0455a>¶
-
+惟真常在，
+為妄所蒙，
+真妄苟辨，
+覺生其中，
+不¶離妄有，
+而得真空。
+<pb:ZB6q0003_T_029-0455a>
+¶
 *** 定
-:PROPERTIES:
-:head: 定
-:END:
+
 ¶
 
-真若不滅。妄即不起。六根之源。湛如止水。是¶
-為禪定。乃脫生死。¶
-
+真若不滅，
+妄即不起，
+六根之源，
+湛如止水，
+是¶為禪定，
+乃脫生死。¶
 *** 慧
-:PROPERTIES:
-:head: 慧
-:END:
+
 ¶
 
-專之以定。定猶有繫。濟之以慧。慧則無滯。¶
-如珠在盤。盤定珠慧。¶
-
+專之以定，
+定猶有繫，
+濟之以慧，
+慧則無滯，
+¶如珠在盤，
+盤定珠慧。
+¶
 *** 明
-:PROPERTIES:
-:head: 明
-:END:
+
 ¶
 
-定慧相合。合而後明。照彼萬物。物無遁形。¶
-如大圓鏡。有應無情。¶
-
+定慧相合，
+合而後
+明，
+照彼萬物，
+物無遁形，
+¶如大圓鏡，
+有應無情。¶
 *** 通
-:PROPERTIES:
-:head: 通
-:END:
+
 ¶
 
-慧至乃明。明則不昧。明至乃通。通則無礙。¶
-無礙者何。變化自在。¶
-
+慧至乃明，
+明則不昧，
+明至乃通，
+通則無礙，
+¶無礙者何？
+變化自在。¶
 *** 濟
-:PROPERTIES:
-:head: 濟
-:END:
+
 ¶
 
-通力不常。應念而變。變相非有。隨求而見。¶
-是大慈悲。以一濟萬。¶
+通力不常，
+應念而變，
+變相非有，
+隨求而見，
+¶是大慈悲，
+以一濟萬。¶
+*** 捨¶
 
-*** 捨
-:PROPERTIES:
-:head: 捨
-:END:
+
+
+眾苦既濟，
+大悲亦捨，
+苦既非真，
+悲亦是假，
+是¶故眾生，
+實無度者。
 ¶
-
-眾苦既濟。大悲亦捨。苦既非真。悲亦是假。是¶
-故眾生。實無度者。¶
-
 ** 同安察禪師十玄談
-:PROPERTIES:
-:head: 同安察禪師十玄談(并序)
-:END:
+(并序)¶
+
+夫玄談妙句，
+逈出三乘。
+既不混緣，
+亦非獨¶立。
+當臺應用，
+如朗月以晶空；
+轉影泯機，
+似明¶珠而隱海。
+且學徒有等，
+妙理無窮，
+達事者¶稀，
+迷源者眾。
+森羅萬象，
+物物上明。
+或即理事¶雙袪，
+名言俱喪。
+是以慇懃指月，
+莫錯端倪。
+不¶迷透水之針，
+可付開拳之寶。
+略序微言，
+以彰¶事理
+(卿公事苑云。
+叢林所行十玄談皆無序引。
+愚曩游廬阜。
+得其序於同安影堂。
+今錄之云耳)。¶
+*** 心印 (1)
+
+¶問君心印作何顏？
+心印何人敢授傳？
+歷劫坦¶然無異色，
+呼為心印早虛言。
+
+須知本自虛
+<pb:ZB6q0003_T_029-0455b>
+¶空性，
+將喻紅爐火裏蓮。
+莫謂無心云是道，
+¶無心猶隔一重關。¶
+*** 祖意 (2)¶
+
+祖意如空不是空，
+靈機爭墮有無功？
+三賢固¶未明斯旨，
+十聖那能達此宗？
+
+透網金鱗猶滯¶水，
+回途石馬出沙籠。
+慇懃為說西來意，
+莫問¶西來及與東。
+¶
+*** 玄機 (3)
+
 ¶
 
-*** 序
-夫玄談妙句。逈出三乘。既不混緣。亦非獨¶
-立。當臺應用。如朗月以晶空。轉影泯機。似明¶
-珠而隱海。且學徒有等。妙理無窮。達事者¶
-稀。迷源者眾。森羅萬象物物上明。或即理事¶
-雙袪。名言俱喪。是以慇懃指月。莫錯端倪。不¶
-迷透水之針。可付開拳之寶。略序微言。以彰¶
-事理(卿公事苑云。叢林所行十玄談皆無序引。愚曩游廬阜。得其序於同安影堂。今錄之云耳)。¶
+迢迢空劫勿能收，
+豈為塵機作繫留？
+妙體本¶來無處所，
+通身何更有蹤由？
 
-*** 心印
-:PROPERTIES:
-:head: 心印
-:END:
+靈然一句超群¶象，
+逈出三乘不假修。
+撒手那邊千聖外，
+迴¶程堪作火中牛。¶
+*** 塵異 (4)¶
+
+濁者自濁清者清，
+菩提煩惱等空平。
+誰言卞¶璧無人鑒？
+我道驪珠到處晶。
+
+萬法泯時全體¶現，
+三乘分別強安名。
+丈夫皆有衝天志，。
+¶莫向如來行處行。¶
+*** 演教(5)
+
+¶三乘次第演金言，
+三世如來亦共宣。
+初說有¶空人盡執，
+後非空有眾皆緣。
+
+龍宮滿藏醫方¶義，
+鶴樹終談理未玄。
+真淨界中纔一念，
+閻浮¶早已八千年。¶
+*** 達本(6)
+¶勿於中路事空王，
+策杖還須達本鄉。
+雲水隔¶時君莫住，
+雪山深處我非忘。
+
+
+尋思去日顏如¶玉，
+嗟歎迴來鬢似霜。
+撒手到家人不識，
+更無¶一物獻尊堂。¶
+*** 還源(7)
+
+¶返本還源事已差，
+本來無住不名家。
+萬年<pb:ZB6q0003_T_029-0455c>¶松逕雪深覆，
+一帶峯巒雲更遮。
+
+賓主穆時¶全是妄，
+君臣合處正中邪。
+還鄉曲調如何¶唱？
+明月堂前枯樹華。¶
+*** 迴機(9)
+
+¶涅槃城裏尚猶危，
+陌路相逢沒定期。
+權挂垢¶衣云是佛，
+却裝珍御復名誰？
+
+木人夜半穿靴¶去，
+石女天明戴帽歸。
+萬古碧潭空界月，
+再三¶撈漉始應知。
 ¶
+*** 轉位(9)
 
-問君心印作何顏。心印何人敢授傳。歷劫坦¶
-然無異色。呼為心印早虛言。須知本自虛
-<pb:ZB6q0003_T_029-0455b>¶
-空性。將喻紅爐火裏蓮。莫謂無心云是道。¶
-無心猶隔一重關。¶
+¶披毛戴角入來，
+優鉢羅華火裏開。
+煩惱海¶中為雨露，
+無明山上作雲雷。
 
-*** 祖意
-:PROPERTIES:
-:head: 祖意
-:END:
-¶
+鑊湯爐炭吹教¶滅，
+劍樹刀山喝使摧。
+金鎖玄關留不住，
+行於¶異類且輪迴。¶
+*** 一色(10)
 
-祖意如空不是空。靈機爭墮有無功。三賢固¶
-未明斯旨。十聖那能達此宗。透網金鱗猶滯¶
-水。回途石馬出沙籠。慇懃為說西來意。莫問¶
-西來及與東。¶
+¶枯木巖前差路多，
+行人到此盡蹉跎。
+鷺鸞立¶雪非同色，
+明月蘆華不似他。
 
-*** 玄機
-:PROPERTIES:
-:head: 玄機
-:END:
-¶
-
-迢迢空劫勿能收。豈為塵機作繫留。妙體本¶
-來無處所。通身何更有蹤由。靈然一句超群¶
-象。逈出三乘不假修。撒手那邊千聖外。迴¶
-程堪作火中牛。¶
-
-*** 塵異
-:PROPERTIES:
-:head: 塵異
-:END:
-¶
-
-濁者自濁清者清。菩提煩惱等空平。誰言卞¶
-璧無人鑒。我道驪珠到處晶。萬法泯時全體¶
-現。三乘分別強安名。丈夫皆有衝天志。¶
-莫向如來行處行。¶
-
-*** 演教
-:PROPERTIES:
-:head: 演教
-:END:
-¶
-
-三乘次第演金言。三世如來亦共宣。初說有¶
-空人盡執。後非空有眾皆緣。龍宮滿藏醫方¶
-義。鶴樹終談理未玄。真淨界中纔一念。閻浮¶
-早已八千年。¶
-
-*** 達本
-:PROPERTIES:
-:head: 達本
-:END:
-¶
-
-勿於中路事空王。策杖還須達本鄉。雲水隔¶
-時君莫住。雪山深處我非忘。尋思去日顏如¶
-玉。嗟歎迴來鬢似霜。撒手到家人不識。更無¶
-一物獻尊堂。¶
-
-*** 還源
-:PROPERTIES:
-:head: 還源
-:END:
-¶
-
-返本還源事已差。本來無住不名家。萬年
-<pb:ZB6q0003_T_029-0455c>¶
-松逕雪深覆。一帶峯巒雲更遮。賓主穆時¶
-全是妄。君臣合處正中邪。還鄉曲調如何¶
-唱。明月堂前枯樹華。¶
-
-*** 迴機
-:PROPERTIES:
-:head: 迴機
-:END:
-¶
-
-涅槃城裏尚猶危。陌路相逢沒定期。權挂垢¶
-衣云是佛。却裝珍御復名誰。木人夜半穿靴¶
-去。石女天明戴帽歸。萬古碧潭空界月。再三¶
-撈漉始應知。¶
-
-*** 轉位
-:PROPERTIES:
-:head: 轉位
-:END:
-¶
-
-披毛戴角入廛來。優鉢羅華火裏開。煩惱海¶
-中為雨露。無明山上作雲雷。鑊湯爐炭吹教¶
-滅。劍樹刀山喝使摧。金鎖玄關留不住。行於¶
-異類且輪迴。¶
-
-*** 一色
-:PROPERTIES:
-:head: 一色
-:END:
-¶
-
-枯木巖前差路多。行人到此盡蹉跎。鷺鸞立¶
-雪非同色。明月蘆華不似他。了了了時無可¶
-了。玄玄玄處亦須訶。殷勤為唱玄中曲。空裏¶
-蟾光撮得麼。¶
-
+了了了時無可¶了，
+玄玄玄處亦須訶。
+殷勤為唱玄中曲，
+空裏¶蟾光撮得麼？¶
 ** 雲頂山僧德敷詩十首
-:PROPERTIES:
-:head: 雲頂山僧德敷詩十首
-:END:
+
+¶
+*** 語默難測 (1)
+
+¶閑坐冥然聖莫知，
+縱言無物比方伊。
+石人把¶板雲中拍，
+木女含笙水底吹。
+
+若道不聞渠未¶曉，
+欲尋其響爾還疑。
+教君唱和仍須和，
+休問¶宮商竹與絲。¶
+*** 祖教逈異 (2)¶
+
+祖意逈然傳一句，
+教中廣布引三乘。
+淨名倒¶嶽雷聲吼，
+鶖子孤潭月影澄。
+
+
+市賣魚忘進¶趣，
+巖林飼虎望超升。
+雖知同體權方便，
+也似¶炎天日裏燈。
+<pb:ZB6q0003_T_029-0456a>
+¶
+*** 學雖得妙 (3)¶
+
+棲心學道數如塵，
+認得曹谿有幾人？
+若使聖¶凡無罣礙，
+便應甎瓦是修真。
+
+瞥然一念邪思¶起，
+已屬多生放
+逸因。
+不遇祖師親指的，。
+臨¶機開口卒難陳。¶
+*** 問來祇對不得(4)
+
 ¶
 
-*** 語默難測
-:PROPERTIES:
-:head: 語默難測
-:END:
+莫誇祇對句分明，
+執句尋言誤殺卿。
+只合文¶殊便是道，
+虧他居士杳無聲。
+
+見人須棄敲門¶物，
+知路仍忘堠子名。
+儻若不疑言會盡，
+何妨¶默默默浮生。¶
+*** 無指的¶(5)
+
+
+
+不居南北與東西，
+上下虛空豈可齊？
+現小毛¶頭猶道廣，
+變長天外尚嫌低。
+
+
+頓乾四海紅塵¶起，
+能竭三塗黑業迷。
+如此萬般皆屬壞，
+更須¶前進問曹谿。¶
+*** 自樂僻執(6)
+
 ¶
 
-閑坐冥然聖莫知。縱言無物比方伊。石人把¶
-板雲中拍。木女含笙水底吹。若道不聞渠未¶
-曉。欲尋其響爾還疑。教君唱和仍須和。休問¶
-宮商竹與絲。¶
+雖然僻執不風流，
+懶出松門數十秋。
+合掌有¶時慵問佛，
+折腰誰肯見王侯？
 
-*** 祖教逈異
-:PROPERTIES:
-:head: 祖教逈異
-:END:
+電光夢世非堅¶久，
+欲火蒼生早晚休。
+自蘊本來靈覺性，
+不能¶暫使挂心頭。¶
+*** 問答須知起倒(7)
+
+¶問答須教知起倒，
+龍頭蛇尾自欺謾。
+如王秉¶劍猶王意，
+似鏡當臺待鏡觀。
+
+眨眼參差千里¶莽，
+低頭思慮萬重灘。
+各於此道爭深見，
+何啻¶前程作野干？¶
+*** 言行相扶(8)
+
+¶言語行時不易行，
+如烏如兔兩光明。
+寧關晝¶夜精勤得？
+非是貪瞋懈怠生。
+
+菩薩尚猶難說¶
+到，
+聲聞焉敢擬論評？
+然無地位長閑坐，
+誰料
+<pb:ZB6q0003_T_029-0456b>
+¶龍神來捧迎？
 ¶
+*** 一句子 (9)
 
-祖意逈然傳一句。教中廣布引三乘。淨名倒¶
-嶽雷聲吼。鶖子孤潭月影澄。廛市賣魚忘進¶
-趣。巖林飼虎望超升。雖知同體權方便。也似¶
-炎天日裏燈。
-<pb:ZB6q0003_T_029-0456a>¶
+¶一句子玄不可盡，
+颯然會了奈渠何？
+非干世¶事成無事，
+祖教心魔是佛魔。
 
-*** 學雖得妙
-:PROPERTIES:
-:head: 學雖得妙
-:END:
-¶
+貧子喻中明此¶道，
+獻珠偈裏顯張羅。
+空門有路平兼廣，
+痛切¶相招誰肯過？¶
+*** 古今大意 (10)
 
-棲心學道數如塵。認得曹谿有幾人。若使聖¶
-凡無罣礙。便應甎瓦是修真。瞥然一念邪思¶
-起。已屬多生放逸因。不遇祖師親指的。臨¶
-機開口卒難陳。¶
+¶古今以拂示東南，
+大意幽微肯易參。
+動指掩¶頭元是一，
+斜眸拊掌固非三。
 
-*** 問來祇對不得
-:PROPERTIES:
-:head: 問來祇對不得
-:END:
-¶
-
-莫誇祇對句分明。執句尋言誤殺卿。只合文¶
-殊便是道。虧他居士杳無聲。見人須棄敲門¶
-物。知路仍忘堠子名。儻若不疑言會盡。何妨¶
-默默默浮生。¶
-
-*** 無指的
-:PROPERTIES:
-:head: 無指的
-:END:
-¶
-
-不居南北與東西。上下虛空豈可齊。現小毛¶
-頭猶道廣。變長天外尚嫌低。頓乾四海紅塵¶
-起。能竭三塗黑業迷。如此萬般皆屬壞。更須¶
-前進問曹谿。¶
-
-*** 自樂僻執
-:PROPERTIES:
-:head: 自樂僻執
-:END:
-¶
-
-雖然僻執不風流。懶出松門數十秋。合掌有¶
-時慵問佛。折腰誰肯見王侯。電光夢世非堅¶
-久。欲火蒼生早晚休。自蘊本來靈覺性。不能¶
-暫使挂心頭。¶
-
-*** 問答須知起倒
-:PROPERTIES:
-:head: 問答須知起倒
-:END:
-¶
-
-問答須教知起倒。龍頭蛇尾自欺謾。如王秉¶
-劍猶王意。似鏡當臺待鏡觀。眨眼參差千里¶
-莽。低頭思慮萬重灘。各於此道爭深見。何啻¶
-前程作野干。¶
-
-*** 言行相扶
-:PROPERTIES:
-:head: 言行相扶
-:END:
-¶
-
-言語行時不易行。如烏如兔兩光明。寧關晝¶
-夜精勤得。非是貪瞋懈怠生。菩薩尚猶難說¶
-到。聲聞焉敢擬論評。然無地位長閑坐。誰料
-<pb:ZB6q0003_T_029-0456b>¶
-龍神來捧迎。¶
-
-*** 一句子
-:PROPERTIES:
-:head: 一句子
-:END:
-¶
-
-一句子玄不可盡。颯然會了奈渠何。非干世¶
-事成無事。祖教心魔是佛魔。貧子喻中明此¶
-道。獻珠偈裏顯張羅。空門有路平兼廣。痛切¶
-相招誰肯過。¶
-
-*** 古今大意
-:PROPERTIES:
-:head: 古今大意
-:END:
-¶
-
-古今以拂示東南。大意幽微肯易參。動指掩¶
-頭元是一。斜眸拊掌固非三。道吾無笏同人¶
-會。石鞏彎弓作者諳。此理若無師印授。欲將¶
-何見語玄談。¶
-
+道吾無笏同人¶會，
+石鞏彎弓作者諳。
+此理若無師印授，
+欲將¶何見語玄談？¶
 ** 僧潤詩三首
-:PROPERTIES:
-:head: 僧潤詩三首
-:END:
+
+¶
+*** 因覽《寶林傳》
+
 ¶
 
-*** 因覽寶林傳
-:PROPERTIES:
-:head: 因覽寶林傳
-:END:
-¶
+祖月禪風集寶林，
+二千餘載道堪尋。
+雖分西¶國與東國，
+不隔人心到佛心。
 
-祖月禪風集寶林。二千餘載道堪尋。雖分西¶
-國與東國。不隔人心到佛心。迦葉最初傳去¶
-盛。慧能末後得來深。覽斯頓悟超凡眾。嗟彼¶
-常迷古與今。¶
 
+迦葉最初傳去¶盛，
+慧能末後得來深。
+覽斯頓悟超凡眾，
+嗟彼¶常迷古與今。¶
 *** 贈道者
-:PROPERTIES:
-:head: 贈道者
-:END:
+
 ¶
 
-一語真空出世間。可憐迷者蟾循環。此生勝¶
-坐三禪樂。好句長吟萬事閑。秋月圓來看盡¶
-夜。野雲散去落何山。到頭自了方為了。休執¶
-他經扣祖關。¶
+一語真空出世間，
+可憐迷者蟾循環。
+此生勝¶坐三禪樂，
+好句長吟萬事閑。
 
+秋月圓來看盡¶夜，
+野雲散去落何山？
+到頭自了方為了，
+休執¶他經扣祖關。¶
 *** 贈禪客
-:PROPERTIES:
-:head: 贈禪客
-:END:
+
 ¶
 
-了妄歸真萬慮空。河沙凡聖體通同。迷來盡¶
-似蛾投焰。悟去皆如鶴出籠。片月影分千㵎¶
-水。孤松聲任四時風。直須密契心心地。休苦¶
-勞生睡夢中。¶
-景德傳燈錄卷第二十九
-<pb:ZB6q0003_T_029-0456c>¶
+了妄歸真萬慮空，
+河沙凡聖體通同。
+迷來盡¶似蛾投焰，
+悟去皆
+如鶴出籠。
 
+片月影分千㵎¶水，
+孤松聲任四時風。
+直須密契心心地，
+休苦¶勞生睡夢中。
+
+
+¶景德傳燈錄卷第二十九
+
+
+<pb:ZB6q0003_T_029-0456c>
+¶

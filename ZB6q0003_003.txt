@@ -1,61 +1,71 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2012/02/29 
+#+DATE: 2009/03/08 
 #+TITLE: Taisho Tripitaka, Electronic version, No. 2076 景德傳燈錄
-#+PROPERTY: CBETA_ID T51n2076
-#+PROPERTY: ID ZB6q0003
+#+PROPERTY: ID T51n2076
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2076
-#+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_000-0196b>¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_003-0216b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS 【CBETA】
+#+PROPERTY: LASTPB <pb:ZB6q0003_T_003-0216b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
-¶
-¶
-
- 景德傳燈錄卷第三¶
-¶
-
-   中華五祖并旁出尊宿共二十五人
-¶
-  * 第二十八祖菩提達磨
-<pb:ZB6q0003_T_003-0216c>¶
+¶¶景德傳燈錄卷第三¶¶
   
-  * 道育禪師(菩提達磨旁出三人)
+** 中華五祖并旁出尊宿共二十五人¶
+  * 第二十八祖菩提達磨
+<pb:ZB6q0003_T_003-0216c>
+¶
+  
+  * 道育禪師
+(菩提達磨旁出三人)
   * 道副禪師¶
-  * 尼總持(已上三人無機緣語句不錄)¶
+  * 尼總持
+(已上三人無機緣語句不錄)¶
   * 第二十九祖慧可大師¶
   
-  * 僧那禪師(慧可大師旁出七世共一十七人)
+  * 僧那禪師
+(慧可大師旁出七世共一十七人)
   * 向居士¶
-  * 相州慧滿禪師(已上三人見錄)
+  * 相州慧滿禪師
+(已上三人見錄)
   * 峴山神定禪師¶
   * 寶月禪師
   * 華閑居士¶
   * 大士化公
   * 和公¶
   * 廖居士
-  * 曇邃(華閑居士出)¶
-  * 延陵慧簡(曇邃出二人)
+  * 曇邃
+(華閑居士出)¶
+  * 延陵慧簡
+(曇邃出二人)
   * 彭城慧瑳¶
   * 定林寺慧綱
-  * 六合大覺(慧綱出)¶
-  * 高郵曇影(大覺出)
-  * 泰山明練(曇影出)¶
-  * 揚州靜泰(明練出已上一十四人無機緣語句不錄)¶
+  * 六合大覺
+(慧綱出)¶
+  * 高郵曇影
+(大覺出)
+  * 泰山明練
+(曇影出)¶
+  * 揚州靜泰
+(明練出已上一十四人無機緣語句不錄)¶
   * 第三十祖僧璨大師¶
-  * 第三十一祖道信大師(旁出七十六人見第四卷)¶
-  * 第三十二祖弘忍大師(旁出一百七人見第五卷)¶
+  * 第三十一祖道信大師
+(旁出七十六人見第四卷)¶
+  * 第三
 
-   中華五祖并旁出尊宿共二十五人
-¶
+十二祖弘忍大師
+(旁出一百七人見第五卷)¶
+  
+** 中華五祖并旁出尊宿
+*** 
+共二十五人¶
   * 第二十八祖菩提達磨¶旁出三人¶
   
   * 一道育禪師
   * 二道副禪師¶
-  * 三尼總持(已上三人無機緣語句不錄)¶
-  * 第二十九祖慧可大師(旁出六世共一十七人三人見錄)¶
+  * 三尼總持
+(已上三人無機緣語句不錄)¶
+  * 第二十九祖慧可大師
+(旁出六世共一十七人三人見錄)¶
   
   * 僧那禪師
   * 向居士¶
@@ -66,690 +76,2352 @@
   * 大士化公¶
   * 和公
   * 廖居士¶
-  * 華閑居士復出一人　曇邃¶
+  * 華閑居士復出一人　
+曇邃¶
   * 曇邃復出三人
   
   * 一延陵慧簡¶
   * 二彭城慧瑳
   * 三定林寺慧綱
-<pb:ZB6q0003_T_003-0217a>¶
-  * 慧綱復出一人　六合大覺¶
-  * 大覺復出一人　高郵曇影¶
-  * 曇影復出一人　太山明練¶
-  * 明練復出一人　揚州靜泰¶
-  * (已上一十四人無機緣語句不錄)¶
+<pb:ZB6q0003_T_003-0217a>
+¶
+  * 慧綱復出一人　
+六合大覺¶
+  * 大覺復出一人　
+高郵曇影¶
+  * 曇影復出一人　
+太山明練¶
+  * 明練復出一人　
+揚州靜泰¶
+  * 
+(已上一十四人無機緣語句不錄)¶
   * 第三十祖僧璨大師¶
-  * 第三十一祖道信大師(旁出七十六人見第四卷)¶
-  * 第三十二祖弘忍大師(旁出一百七人見第四卷)¶
+  * 第三十一祖道信大師
+(旁出七十六人見第四卷)¶
+  * 第三十二祖弘忍大師
+(旁出一百七人見第四卷)¶
+*** 第二十八祖菩提達磨	28. Patriarch Bodhidharma
+    CLOSED: [2011-08-31 Wed 16:00]
+**** 
+第二十八祖菩提達磨者，	Bodhidharma, der 28. Patriarch [und erster Patriarch von China]
+南天竺國香至王¶第三子也，	war der dritte Sohn des Königs Xiangzhi, Herrscher über ein Reich im Süden von Indien.
+:zhu:
+香至 [xiang1zhi4]  Name?? 
+:end:
+姓剎帝利，	Er gehörte zur Kaste der Noblen,
+本名菩提多羅。	sein ursprünglicher Name war Bodhithara
+:zhu:
+菩提多羅 [pu2ti2duo1luo2] Bodhithara
+:end:
+後遇二¶十七祖般若多羅。	Später begegnete er dem 27. Patriarchen Prajñātārā,
+至本國受王供養，	als dieser den König besuchte, um von diesem Opfergaben zu empfangen.
+知師密¶迹，	Dieser wußte von einer geheimen Weissagung [einen Sohn des Königs betreffend],
+因試令與二兄辨所施寶珠，	und prüfte die Söhne des Königs, mit einem Edelstein den er empfangen hatte.
+發明心要。	Er erkannte die geheime Bestimmung von Bodhidharma.
+既¶而尊者謂曰︰	Prajñātārā sagte zu diesem:
+「汝於諸法已得通量，	"Du hast die Essenz der Lehren schon verstanden 
+夫達磨者，	und einen Begriff vom Dharma.
+¶通大之義也，	Du hast die 'Grosse Sache' vollkommen durchdrungen, 
+宜名達磨。」	daher werde ich dich 'Dharma' nennen."
+因改號菩提達磨。	Und so änderte er seinen Namen in 'Bodhidharma'.
 
-*** 第二十八祖菩提達磨
-第二十八祖菩提達磨者。南天竺國香至王¶
-第三子也。姓剎帝利。本名菩提多羅。後遇二¶
-十七祖般若多羅。至本國受王供養。知師密¶
-迹。因試令與二兄辨所施寶珠。發明心要。既¶
-而尊者謂曰。汝於諸法已得通量。夫達磨者¶
-通大之義也。宜名達磨。因改號菩提達磨。師¶
-乃告尊者曰。我既得法。當往何國而作佛事。¶
-願垂開示。尊者曰。汝雖得法未可遠遊。且止¶
-南天待吾滅後六十七載。當往震旦設大法¶
-藥直接上根。慎勿速行衰於日下。師又曰。彼¶
-有大士堪為法器否。千載之下有留難否。尊¶
-者曰。汝所化之方獲菩提者不可勝數。吾滅¶
-後六十餘年彼國有難。水中文布自善降之。¶
-汝至時南方勿住。彼唯好有為功業不見佛¶
-理。汝縱到彼亦不可久留。聽吾偈曰。¶
+師¶乃告尊者曰︰	Daraufhin fragte Bodhidharma:
+「我既得法，	"Nun, da ich die Lehre erhalten habe,
+當往何國而作佛事？	in welches Land soll ich gehen, um den Buddhismus zu verbreiten?
+¶願垂開示。」	Bitte geben Sie mir doch einen Hinweis!"
 
-#+BEGIN_VERSE
-「　路行跨水復逢羊
-　獨自悽悽暗度江¶
-　日下可憐雙象馬
-　二株嫩桂久昌昌
-#+END_VERSE
-」¶
-
-復演八偈。皆預讖佛教隆替(事具寶林傳及聖胄集)師恭稟¶
-教義。服勤左右垂四十年未嘗廢闕。逮尊者¶
-順世。遂演化本國。時有二師。一名佛大先。一¶
-名佛大勝多。本與師同學佛陀跋陀小乘禪
-<pb:ZB6q0003_T_003-0217b>¶
-觀。佛大先既遇般若多羅尊者。捨小趣大與¶
-師並化。時號二甘露門矣。而佛大勝多更分¶
-途而為六宗。第一有相宗。第二無相宗。第三¶
-定慧宗。第四戒行宗。第五無得宗。第六寂靜¶
-宗。各封己解別展化源。聚落崢嶸徒眾甚盛。¶
-大師喟然而歎曰。彼之一師已陷牛迹。況復¶
-支離繁盛而分六宗。我若不除永纏邪見。言¶
-已。微現神力至第一有相宗所。問曰。一切諸¶
-法何名實相。彼眾中有一尊長薩婆羅。答曰。¶
-於諸相中不互諸相。是名實相。師曰。一切諸¶
-相而不互者。若名實相當何定耶。彼曰。於諸¶
-相中實無有定。若定諸相何名為實。師曰。諸¶
-相不定便名實相。汝今不定當何得之。彼曰。¶
-我言不定不說諸相。當說諸相其義亦然。師¶
-曰。汝言不定當為實相。定不定故即非實相。¶
-彼曰。定既不定即非實相。知我非故不定不¶
-變。師曰。汝今不變何名實相。已變已往其義¶
-亦然。彼曰。不變當在。在不在故。故變實相以¶
-定其義。師曰。實相不變。變即非實。於有無中¶
-何名實相。薩婆羅心知聖師懸解潛達。即以¶
-手指虛空曰。此是世間有相。亦能空故。當我¶
-此身得似否。師曰。若解實相即見非相。若了¶
-非相其色亦然。當於色中不失色體。於非相¶
-中不礙有故。若能是解此名實相。彼眾聞已。¶
-心意朗然欽禮信受。師又瞥然匿跡。至第二¶
-無相宗所。問曰。汝言無相當何證之。彼眾中¶
-有智者波羅提。答曰。我明無相心不現故。師¶
-曰。汝心不現當何明之。彼曰。我明無相心不¶
-取捨。當於明時亦無當者。師曰。於諸有無心
-<pb:ZB6q0003_T_003-0217c>¶
-不取捨。又無當者諸明無故。彼曰。入佛三昧¶
-尚無所得。何況無相而欲知之。師曰。相既不¶
-知誰云有無。尚無所得何名三昧。彼曰。我說¶
-不證證無所證。非三昧故我說三昧。師曰。非¶
-三昧者何當名之。汝既不證非證何證。波羅¶
-提聞師辯析即悟本心。禮謝於師懺悔往謬。¶
-師記曰。汝當得果不久證之。此國有魔非久¶
-降之。言已忽然不現。至第三定慧宗所。問曰。¶
-汝學定慧為一為二。彼眾中有婆蘭陀者。答¶
-曰。我此定慧非一非二。師曰。既非一二何名¶
-定慧。彼曰。在定非定處慧非慧。一即非一二¶
-亦不二。師曰。當一不一當二不二。既非定慧¶
-約何定慧。彼曰。不一不二定慧能知。非定非¶
-慧亦復然矣。師曰。慧非定故然何知哉。不一¶
-不二誰定誰慧。婆蘭陀聞之疑心氷釋。至第¶
-四戒行宗所。問曰。何者名戒。云何名行。當此¶
-戒行為一為二。彼眾中有一賢者。答曰。一二¶
-二一皆彼所生。依教無染此名戒行。師曰。汝¶
-言依教即是有染。一二俱破。何言依教。此二¶
-違背不及於行。內外非明何名為戒。彼曰。我¶
-有內外彼己知竟(淅本己字作已依廣燈也。邵本作無字依寶林也。洪舊本作已¶
-字。正宗記作以字。未詳孰是)。既得通達便是戒行。若說違背¶
-俱是俱非。言及清淨即戒即行。師曰。俱是俱¶
-非何言清淨。既得通故何談內外。賢者聞之¶
-即自慚服。至第五無得宗所。問曰。汝云無得¶
-無得何得。既無所得亦無得得。彼眾中有寶¶
-靜者。答曰。我說無得非無得得。當說得得¶
-無得是得。師曰。得既不得。得亦非得既云得¶
-得。得得何得。彼曰。見得非得。非得是得。若
-<pb:ZB6q0003_T_003-0218a>¶
-見不得名為得得。師曰。得既非得。得得無得。¶
-既無所得。當何得得。寶靜聞之頓除疑網。¶
-至第六寂靜宗所。問曰。何名寂靜。於此法中¶
-誰靜誰寂。彼有尊者。答曰。此心不動是名為¶
-寂。於法無染名之為靜。師曰。本心不寂要假¶
-寂靜。本來寂故何用寂靜。彼曰。諸法本空以¶
-空空故。於彼空空故名寂靜。師曰。空空已空¶
-諸法亦爾。寂靜無相何靜何寂。彼尊者聞師¶
-指誨豁然開悟。既而六眾咸誓歸依。由是化¶
-被南天聲馳五印。遠近學者靡然嚮風。經六¶
-十餘載度無量眾。後值異見王輕毀三寶。每¶
-云。我之祖宗皆信佛道。陷于邪見。壽年不永¶
-運祚亦促。且我身是佛何更外求。善惡報應。¶
-皆因多智之者。妄搆其說。至於國內。耆舊為¶
-前王所奉者。悉從廢黜。師知已。歎彼德薄當¶
-何救之。又念無相宗中二首領。其一波羅提¶
-者。與王有緣將證其果。其二宗勝者。非不博¶
-辯而無宿因。時六宗徒眾亦各念言。佛法有¶
-難師何自安。師遙知眾意即彈指應之。六眾¶
-聞之云。此是我師達磨信響。我等宜須速行¶
-以副慈命。言已至師所禮拜問訊。師曰。今一¶
-葉翳虛孰能剪拂。宗勝曰。我雖淺薄敢憚其¶
-行。師曰。汝雖辯慧而道力未全。宗勝自念。我¶
-師恐我見王作大佛事。名譽顯達映奪尊威。¶
-縱彼福慧為王。我是沙門受佛教旨。豈難敵¶
-也。言訖潛去至王所。廣說法要及世界苦樂¶
-人天善惡等事。王與之往返徵詰無不詣理。¶
-王曰。汝今所解其法何在。宗勝曰。如王治化¶
-當合其道。王所有道何在。王曰。我所有道將
-<pb:ZB6q0003_T_003-0218b>¶
-除邪法。汝所有法將伏何人。師不起于坐懸¶
-知宗勝義墮。遽告波羅提曰。宗勝不稟吾教。¶
-潛化於王須臾即屈。汝可速救。波羅提恭稟¶
-師旨云。願假神力。言已雲生足下。至王前默¶
-然而住。時王正問宗勝。忽見波羅提乘雲而¶
-至愕然忘其問答。曰乘空之者是正是邪。答¶
-曰。我非邪正而來正邪。王心若正我無邪正。¶
-王雖驚異而驕慢方熾。即擯宗勝令出。波羅¶
-提曰。王既有道何擯沙門。我雖無解願王致¶
-問。王怒而問曰。何者是佛。答曰。見性是佛。¶
-王曰。師見性否。答曰。我見佛性。王曰。性在¶
-何處。答曰。性在作用。王曰。是何作用我今不¶
-見。答曰。今見作用王自不見。王曰。於我有¶
-否。答曰。王若作用無有不是。王若不用體¶
-亦難見。王曰。若當用時幾處出現。答曰。若¶
-出現時當有其八。王曰。其八出現當為我說。¶
-波羅提即說偈曰。¶
+尊者曰︰	Der Patriarch sagte:
+「汝雖得法，	"Zwar hast Du die Lehre erlangt,
+未可遠遊，	aber du kannst noch nicht in die Ferne gehen.
+且止¶南天，	Bleibe hier in Südindien
+待吾滅後六十七載，	und warte bis nach meinem Tode 67 Jahre vergangen sind,
+當往震旦，	dann magst du nach Cīna-sthāna gehen.
+:zhu:
+震旦 [zhen4dan4]  alter Indischer Name für China
+:end:
+設大法¶藥，	Dort wirst du die Grundlage für die Grosse Medizin des Dharma legen
+直接上根，
+慎勿速行，	und Männern von grosser Fähigkeit begegnen.
+衰於日下。」	Achte aber darauf, nicht zu früh zu gehen.
+師又曰︰	Daraufhin fragte Bodhidharma weiterhin:
+「彼¶有大士，	"Gibt es in jenem Lande auch große Weise,
+堪為法器否？	die sich als ein Gefäß des Dharma eignen?
+千載之下，	Wird es denn während der nächsten tausend Jahre,
+有留難否？」	dort irgendwelche Katastrophen geben?"
+尊¶者曰︰	Prajñātārā antwortete:
+「汝所化之方，	"In jenem Lande gibt es eine unermessliche Anzahl
+獲菩提者不可勝數。	von Personen, die sich bekehren werden, wenn du ihnen predigst.
+吾滅¶後六十餘年，	Ungefähr 60 Jahre nach meinem Tod
+彼國有難，	wird es in diesem Lande Schwierigkeiten geben.
+水中文布，	Es wird Probleme im Wasser geben,
+:zhu:
+水中文布 [shui3zhong4wen4bu4] Bedeutung unklar
+:end:
+自善降之。	die du besser vermeiden wirst.
+¶汝至時，	Nach deiner Ankunft in jenem Lande,
+南方勿住，	bleibe nicht im Süden,
+彼唯好有為功業，	wo die Leute nur an karmischen Verknüpfungen interessiert sind,
+不見佛¶理，	aber nicht an der Wahrheit der Lehre Buddhas.
+汝縱到彼，	Du wirst dort ankommen,
+亦不可久留，	aber bleibe nicht zu lange [im Süden].
+聽吾偈曰︰¶	Höre meinen Vers:
 
 #+BEGIN_VERSE
-「　在胎為身
-　處世名人
-　在眼曰見¶
-　在耳曰聞
-　在鼻辨香
-　在口談論¶
-　在手執捉
-　在足運奔¶
-　遍現俱該沙界
-　收攝在一微塵¶
-　識者知是佛性
-　不識喚作精魂
-#+END_VERSE
-」¶
+『路行跨水復逢羊，	'Auf dem Wege wirst du einen Fluss überqueren und einem Schaf begegnen,
+　獨自悽悽暗度江。¶	Allein und einsam wirst Du über den Fluss gelangen.
+　日下可憐雙象馬，	Verbinde dich in den folgenden Tagen mit einem Elephant und einem Pferd,
+　二株嫩桂久昌昌。』」	diese beiden Stämme der Kassiabäume werden über Jahrhunderte hinweg Früchte tragen.'"
+#+END_VERSE¶
 
-王聞偈已心即開悟。乃悔謝前非咨詢法要。¶
-朝夕忘倦。迄于九旬。時宗勝既被斥逐。退藏¶
-深山。念曰。我今百歲八十為非。二十年來方¶
-歸佛道。性雖愚昧行絕瑕疵。不能禦難生何¶
-如死。言訖即自投崖。俄有一神人以手捧承。¶
-置于巖石之上安然無損。宗勝曰。我忝沙門¶
-當與正法為主。不能抑絕王非。是以捐身自
-<pb:ZB6q0003_T_003-0218c>¶
-責。何神祐助一至於斯。願垂一語以保餘年。¶
-於是神人乃說偈曰。¶
+復演八偈，	Anschließend rezitierte er acht weitere Verse,
+皆預讖佛教隆替。	die alle Prophezeiungen über die weitere Geschichte des Buddhismus waren.
+(事具寶林傳及聖胄集)	(Details dieser Prophezeiungen finden sich in den Werken /Baolin zhuan/ und /Shengzhou ji/)
+:zhu:
+寶林傳 [bao3lin2zhuan4] 凡十卷。現存七卷，缺七、九、十等三卷。唐代朱陵沙門智炬（或作慧炬）撰於貞元十七年（801）(fks)
+聖胄集 [sheng4zhou4ji2] cf Tanaka Rosho artikel 2002.
+:end:
+師恭稟¶教義，	Bodhidharma nahm diese Worte und Lehren voller Respekt entgegen,
+服勤左右，	und diente Prajñātārā getreu als Aufwärter,
+垂四十年，	bis er vierzig Jahre alt war,
+未嘗廢闕。	und vernachlässigte niemals seine Pflichten.
+逮尊者¶順世，	Nach dem Tod von Prajñātārā
+遂演化本國。	begann er die Lehre in seinem Heimatland zu verbreiten.
+
+時有二師，	Zu jener Zeit gab es zwei berühmte Lehrmeister,
+一名佛大先，	einer war Fodaxian,
+:zhu:
+佛大先 [fu2tai4xian3]  'Great Advanced Sage'
+:end:
+一¶名佛大勝多，	der andere war Fodashengduo.
+:zhu:
+佛大勝多 [fu2tai4sheng4duo1]  'Great Excellent Sage'
+:end:
+本與師同學佛陀跋陀小乘禪<pb:ZB6q0003_T_003-0217b>¶觀。	Beide hatten zunächst unter Buddhabhadra die Versenkungsübungen des kleinen Fahrzeugs studiert.
+:zhu:
+佛陀跋陀 [fu2tuo2bei4tuo2]  Buddhabhadra
+:end:
+佛大先既遇般若多羅尊者，	Fodaxian hatte dann durch die Begegnung mit Prajñātārā
+捨小趣大，	das kleine Fahrzeug aufgegeben und sich dem großen Fahrzeug gewidmet.
+與¶師並化，	Die Lehren dieser beiden [Fodaxian und Prajñātārā] wurden bekannt 
+時號二甘露門矣。	unter dem Namen 'die zwei Tore des süssen Nektars'.
+:zhu:
+二甘露門 [er4han1lu4men2] // cf Lotus Sutra  [[mandoku:cbeta:T09:0024c5::能開甘露門][Vol. T09, p.0024c5]]
+:end:
+**** 
+而佛大勝多更分¶途而為六宗︰		Die Lehre von Fodashengduo verbreite sich in sechs Schulrichtungen:
+第一有相宗，	die [an die Existenz der] Formen Glaubende, 
+第二無相宗，	die an das Formlose Glaubende,
+第三¶定慧宗，	die Richtung der Versenkung und Weisheit,
+第四戒行宗，	die Richtung der Ordensregeln und des reinen Verhaltens,
+第五無得宗，	die Richtung des 'Nichts zu erreichen',
+第六寂靜¶宗。	und schließlich die Richtung der Reinen Stille.
+各封己解，	Alle diese Schulrichtungen hatten ihre eigenen Lehren
+別展化源，	und Traditionslinien,
+聚落崢嶸，	sie verbreiteten sich in dörflichen Gemeinschaften,
+徒眾甚盛。	und hatten eine grosse Zahl von Anhängern.
+¶大師喟然而歎曰︰	Bodhidharma seufzte tief und sagte:
+「彼之一師，	"Der eine Lehrer, den diese hatten
+已陷牛迹，	ist in die Fußspur eines Ochsen gefallen.
+況復¶支離繁盛而分六宗？	Wie aufgesplittert und verwirrt sind sie, in sechs verschiedenen Schulrichtungen!
+我若不除，	Wenn ich ihre Fehler nicht ausmerze,
+永纏邪見。」	dann sind sie auf ewig gefangen in ihren irrigen Ansichten.
+**** 
+言¶已，	Nachdem er das gesagt hatte,
+微現神力，	transformierte er sich mit übernatürlichen Kräften
+至第一有相宗所，	zu dem Versammlungsort der Richtung der an die Form Glaubenden
+問曰︰	 und fragte:
+「一切諸¶法，何名實相？」	"Was ist die wahre Form aller Dinge?"
+彼眾中有一尊長薩婆羅。	Unter den Anwesenden war ein Ehrwürdiger namens Sabara,
+答曰︰	der antwortete:
+「¶於諸相中，	"Unter allen Formen
+不互諸相，	ist diejenige, die nicht mit anderen vermischt ist,
+是名實相。」	einzig die wahre Form."
+師曰︰	Bodhidharma antwortete:
+「一切諸¶相，	"Wenn die wahre Form
+而不互者，	mit den anderen in keinem Zusammenhang stünde,
+若名實相，	wie könnte man diese die Wahre Form nennen?"
+當何定耶？」	
+彼曰︰	Sabara antwortete:
+「於諸¶相中，	Unter allen Formen,
+實無有定，	gibt es keine, die eine dauerhafte Gestalt hat.
+若定諸相，	Wie könnten wir aber sagen,
+何名為實？」	daß alle Formen die wahre Form sind?"
+師曰︰	Bodhidharma sagte:
+「諸¶相不定，	"Soll also demnach die Nicht-Dauerhaftigkeit der Formen
+便名實相。	als wahre Form bezeichnet werden?
+汝今不定，	Da du aber selbst auch nicht dauerhaft bist,
+當何得之？」	wie könnte man das wohl erreichen?"
+彼曰︰	Sabara sagte nun:
+「¶我言不定，	"Was ich mit unbeständig meine,
+不說諸相。	gilt nicht für alle Formen.
+當說諸相，	Wenn man versucht, es auf alle Formen zu beziehen,
+其義亦然。」	dann verwickelt man sich in Widersprüche."
+師¶曰︰	Bodhidharma antwortete:
+「汝言不定，	"Das was du unbeständig nennst,
+當為實相。	kann nicht für die wahre Form gelten.
+定不定故，	Unbeständigkeit besteht aus Unbeständigkeit,
+即非實相。」	darin gibt es keine wahre Form."
+¶彼曰︰	Sabara antwortete:
+「定既不定，	"Das, was unbeständig ist, 
+即非實相。	ist nicht wahre Form.
+知我非故，	Aber ich weiss, dass ich nichts kenne,
+不定不¶變。」	das unveränderlich und unwandelbar ist."
+師曰︰	Bodhidharma sagte:
+「汝今不變，	"Wenn du also unwandelbar wärest,
+何名實相？	was sollte dann wohl wahre Form genannt werden?
+已變已往，	Du hast dich aber schon gewandelt und bist verändert.
+其義¶亦然。」	
+彼曰︰	Sabara antwortete:
+「不變當在，	"Die Unveränderlichkeit existiert nur 
+在不在故，	solange Existieren und nicht Existieren zugleich bestehen.
+故變實相，	Daher ist die Veränderlichkeit der wahren Form
+以¶定其義。」	ihre wirkliche Bedeutung."
+師曰︰	Bodhidharma sagte:
+「實相不變，	"Aber die Unveränderlichkeit der Form
+變即非實。	und die Ansicht, daß Veränderung bedeutet, etwas ist nicht die wahre Form [ist doch die Ansicht deiner Schulrichtung].
+於有無中，	Wenn wir nun Sein und Nicht-Sein betrachten,
+¶何名實相？」	was könnten wir dann die wahre Form nennen?"
+薩婆羅心知聖師懸解潛達，	Sabara erkannte im Herzen die herausragende Einsicht des heiligen Meisters,
+即以¶手指虛空曰︰	daher zeigte er in den Himmel und sagte:
+「此是世間有相，	"Dies ist eine Form, die zur Welt gehört
+亦能空故，	und dennoch leer ist,
+當我¶此身得似否？」	kann denn mein eigener Körper nicht ebenso sein?"
+師曰︰	Darauf sagte Bodhidharma:
+「若解實相，	"Wenn man die wahre Form der Dinge versteht,
+即見非相；	dann versteht man auch ihre Formlosigkeit.
+若了¶非相，	versteht man die Formlosigkeit,
+其色亦然。	so kann man auch ihre Form sehen.
+當於色中，	Inmitten der Form,
+不失色體，	ist die Essenz der Form nicht verloren.
+於非相¶中，	Und in der gleichen Weise, gibt es nichts, was in der Formlosigkeit
+不礙有故。	mit dem Sein in Konflikt gerät.
+若能是解，	Wenn man es auf diese Weise verstehen vermag,
+此名實相。」	dann kann man es die Wahre Form nennen."
+彼眾聞已，	Nachdem er so gesprochen hatte, empfanden die Versammelten 
+¶心意朗然，	eine grosse Klarheit in Herz und Geist.
+欽禮信受。	Bodhidharma entbat ihnen einen Gruß und ging.
+**** 
+師又瞥然匿跡，	Ohne eine Spur zu hinterlassen, ging Bodhidharma
+至第二¶無相宗所，	nun zu der zweiten Sekte, der an das Formlose Glaubenden.
+問曰︰	Er fragte:
+「汝言無相，	"Ihr sprecht davon, dass alles letzlich ohne Form ist,
+當何證之？」	was gibt es denn für einen Beweis dafür?"
+彼眾中¶有智者波羅提。	Der weiseste Mann in der Versammlung hieß Paradhi,
+答曰︰	er antwortete:
+「我明無相，	"Ich mache mir die Formlosigkeit klar,
+心不現故。」	indem ich nichts in meinem Geist erscheinen lasse."
+師¶曰︰	Bodhidharma sagte:
+「汝心不現，	"Wenn nichts im Geist erscheint,
+當何明之？」	wie kann das klar werden?"
+彼曰︰	Er antwortete:
+「我明無相，	"Um in mir zur Formlosigkeit zu gelangen,
+心不¶取捨。	nehme ich im Geiste nichts wahr, aber lehne auch nichts ab.
+當於明時，	Wenn die Formlosigkeit erreicht ist,
+亦無當者。」	dann gibt es nichts zu realisieren."
+師曰︰	Bodhidharma sagte:
+「於諸有無，	"Wenn dein Geist nichts enthält, 
+心<pb:ZB6q0003_T_003-0217c>¶不取捨。	nichts aufnimmt und auch nichts hinauslässt,
+又無當者，	und auch nichts zu realisieren ist,
+諸明無故。」	wer ist es dann, dem etwas klar wird?"
+彼曰︰	Er antwortete:
+「入佛三昧，	"Wenn man in die Versenkung eintritt, so wie es der Buddha gelehrt hat
+¶尚無所得，	so gibt es nichts zu erlangen,
+何況無相，	Warum sollte man bei der Versenkung der Formlosigkeit
+而欲知之？」	wünschen, etwas zu erlangen?"
+師曰︰	Bodhidharma sagte nun:
+「相既不¶知，	"[Die Versenkung in die] Form der Dinge kann nicht erkannt werden,
+誰云有無？	wer könnte da von Sein und Nicht-Sein reden?
+尚無所得，	Ausserdem, wenn du nichts erlangt,
+何名三昧？」	was kann dann überhaupt Versenkung genannt werden?"
+彼曰︰	Paradhi antwortete:
+「我說¶不證，	"Wenn ich sage, es gibt keinen Beweis,
+證無所證。	so sage ich dies, da es [ausser mir] dafür keinen Zeugen gibt.
+非三昧故，	Da ich jetzt nicht in Versenkung bin,
+我說三昧。」	kann ich von Versenkung sprechen."
+師曰︰	Bodhidharma sagte:
+「非¶三昧者，	"Warum spricht jemand, der nicht in Versenkung ist,
+何當名之？	überhaupt von Versenkung?
+汝既不證，	Du hast überhaupt nichts bewiesen,
+非證何證？」	was ist schon bewiesen, durch deinen Nicht-Beweis?"
+
+
+波羅¶提聞師辯析，	Da Paradhi den Patriarchen Bodhidharma so argumentieren hörte,
+即悟本心，	da erwachte er zu seinem ursprünglichen Geist.
+禮謝於師，	Er verneigte sich, dankte dem Lehrer
+懺悔往謬。	und bat ihn, ihm seine Irrtümer nachzusehen.
+¶師記曰︰	Daraufhin machte Bodhidharma folgende Voraussage:
+「汝當得果，	"Du wirst bald die Frucht deiner Bemühungen ernten,
+不久證之。	und es wird sich der Beweis dafür einstellen.
+此國有魔，	Ein übler Dämon wird in diesem Lande erscheinen,
+非久¶降之。」	aber dir wird es bald gelingen, ihn zu besiegen."
+言已，	Nachdem er so gesprochen hatte,
+忽然不現。	war er plötzlich verschwunden.
+**** 
+至第三定慧宗所，	Nun kam er zur driten Sekte, die Versenkung und Weisheit in den Mittelpunkt stellt.
+問曰︰	Er sagte:
+「¶汝學定慧，	"Ihr konzentriert euch auf Versenkung und Weisheit,
+為一為二？」	ist das ein und dasselbe, oder sind es zwei verschiedene Dinge?"
+彼眾中有婆蘭陀者。	Unter den versammelten gab es einen Ehrwürdigen namens Baranda,
+答¶曰︰	der antwortete:
+「我此定慧，	"Versenkung und Weisheit
+非一非二。」	sind weder dasselbe, noch sind es zwei Dinge."
+師曰︰	Bodhidharma sagte:
+「既非一二，	"Wenn es weder ein und dasselbe, noch zwei verschiedene Dinge sind,
+何名¶定慧？」	warum wird es dann mit Versenkung und Weisheit bezeichnet?"
+彼曰︰	Baranda antwortete:
+「在定非定，	"Was die Versenkung angeht, so ist es auch Nicht-Versenkung,
+處慧非慧。	auch in Bezug auf die Weisheit ist es auch Nicht-Weisheit.
+一即非一，	Eines ist nicht eines
+二¶亦不二。」	und zwei sind auch nicht zwei."
+師曰︰	Bodhidharma sagte:
+「當一不一，	"Wenn also eines nicht eines ist
+當二不二。	und zwei nicht zwei,
+既非定慧，	dann ist das noch nicht Versenkung und Weisheit,
+¶約何定慧？」	was ist denn das nun für eine Versenkung und Weisheit?"
+彼曰︰	Baranda antwortete:
+「不一不二，	"Es ist weder eins, noch sind es zwei.
+定慧能知。	Die Versenkungs-Weisheit vermag das zu verstehen.
+非定非¶慧，	Und auch Nicht-Versenkung und Nicht-Weisheit
+亦復然矣。」	verstehen es in derselben Weise."
+師曰︰	Bodhidharma sagte schließlich:
+「慧非定故，	"Weisheit ist nicht Versenkung,
+然何知哉？	wie können sie einander verstehen?
+不一¶不二，	Nicht eins und nicht zwei,
+誰定誰慧？」	Wer versteht und wer ist in Versenkung?"
+婆蘭陀聞之，	Als Baranda das hörte,
+疑心氷釋。	schmolz sein Geist wie ein Klumpen Eis.
+**** 
+至第¶四戒行宗所，	Nun kam er zum [Versammlungsort] der vierten Gruppe, die sich auf Ordensregeln und reines Verhalten konzentrierten.
+問曰︰	Er fragte:
+「何者名戒？	"Was ist mit Ordensregeln gemeint?
+云何名行？	Was ist reines Verhalten?
+當此¶戒行，	Ordensregeln und reines Verhalten,
+為一為二？」	sind sie eines oder sind sie verschieden?"
+彼眾中有一賢者。	Unter den Versammelten war ein Weiser,
+答曰︰	der antwortete:
+「一二¶二一，	"[Die Konzepte] von Eins und Zwei und Zwei und Eins,
+皆彼所生。	sind etwas, das mit dem Menschen ensteht.
+依教無染，	Der Lehre zu folgen, ohne sich verschmutzen zu lassen,
+此名戒行。」	das ist die Bedeutung von Ordensregeln und reinem Verhalten."
+師曰︰	Bodhidharma sagte dazu:
+「汝¶言依教，	"Wenn du sagst 'der Lehre folgen',
+即是有染。	dann hast du schon eine Verschmutzung.
+一二俱破，	Wenn du Eins und Zwei zerschlägst,
+何言依教？	wie kannst Du dann sagen, daß du der 'Lehre' 'folgst'?
+此二¶違背，	Auf diese dualistische Art verstößt du schon [gegen die Lehre]
+不及於行。	und bist jenseits des reinen Verhaltens.
+內外非明，	Wenn du es nicht außen und innen klar verstehst,
+何名為戒？」	wie könnte das 'den Regeln folgen' genannt werden?"
+彼曰︰	Der Weise antwortete:
+「我¶有內外，	"Ich habe ein Außen und ein Innen, 
+彼己知竟。	das verstanden werden kann.
+(淅本己字作已依廣燈也。
+邵本作無字依寶林也。
+洪舊本作已¶字。
+正宗記作以字。
+未詳孰是)
+既得通達，	Das vollkommene durchdringen [des Dharma] aber
+便是戒行。	dies wird durch Ordensregeln und reines Verhalten ermöglicht.
+若說違背，	Wenn du sagst, dies verstößt gegen die Lehre [da es dualistisch ist],
+¶俱是俱非。	so ist das sowohl richtig, als auch falsch.
+言及清淨，	Wenn man reine Worte gebraucht, 
+即戒即行。」	dann ist man in Übereinstimmung mit Ordensregeln und reinem Verhalten."
+師曰︰	Bodhidharma sagte nun:
+「俱是俱¶非，	"Wenn etwas zugleich richtig, als auch falsch ist,
+何言清淨？	wie kann man das 'reine Worte' nennen?
+既得通故，	Andererseits, wenn er reine Worte beherrscht,
+何談內外？」	warum sollte er von Innen und Außen sprechen?"
+賢者聞之，	Der Weise hörte dies,
+¶即自慚服。	schämte sich und und nahm seine Zuflucht [zu Bodhidharma]
+**** 
+至第五無得宗所，	Nun kam er zur fünften Gruppe, die davon überzeugt waren, es gebe 'Nichts zu erreichen',
+問曰︰	und fragte:
+「汝云無得，	"Ihr sprecht davon, daß es nichts zu erreichen gibt,
+¶無得何得？	aber was für einen Vorteil hat es, nichts zu erreichen?
+既無所得，	Wenn wirklich nichts zu erreichen ist,	
+亦無得得。」	dann ist doch immerhin dies erreicht, oder?"
+彼眾中有寶¶靜者。	Unter den Versammelten gab es einen mit Namen Baojing, 
+答曰︰	der antwortete:
+「我說無得，	"Das 'Nichts zu erreichen', das ich lehre
+非無得得。	bedeutet nicht einfach, das erreichen des 'Nichts zu erreichen' zu erreichen.
+當說得得，	Wenn ich das erreichen von etwas lehre,
+¶無得是得。」	dann bedeutet dies, daß das 'Nichts zu erreichen selbst das  Erreichen ist."
+師曰︰	Bodhidharma sagte:
+「得既不得，	"Wenn das Erreichen zugleich ein Nicht-Erreichen ist,
+得亦非得。	dann ist das kein Erreichen.
+既云得¶得，	Du sprachst ja eben selbst, von dem Erreichen von etwas,
+得得何得？」	was für ein Erreichen von was soll denn das sein?"
+彼曰︰	Baojing antwortete:
+「見得非得，	"Wenn ich ein Erreichen sehe, so ist das kein Erreichen,
+非得是得。	wenn es kein Erreichen gibt, so ist das ein Erreichen.
+若<pb:ZB6q0003_T_003-0218a>¶見不得，	Wenn ich kein Erreichen sehe, 
+名為得得。」	dann nenne ich das das Erreichen des Erreichens.
+師曰︰	Bodhidharma sagte:
+「得既非得，	"Wenn das Erreichen nicht-Erreichen bedeutet,
+得得無得。	dann bedeutet das Erreichen es nicht zu erreichen.
+¶既無所得，	Wenn es aber überhaupt kein Erreichen gibt,
+當何得得？」	was für ein Erreichen wird dann erreicht?"
+寶靜聞之，	Als Baojing dies hörte,
+頓除疑網。	war es ihm, als würde plötzlich sein Netz von Zweifeln weggezogen.
+**** 
+¶至第六寂靜宗所，	Bodhidharma kam nun zur sechsten Gruppierung, die die reine Stille lehrte,
+問曰︰	und fragte:
+「何名寂靜？	Was ist es, das ihr reine Stille nennt,
+於此法中，	mit dieser Methode,
+¶誰靜誰寂？」	wer ist es, denn ihr beruhigen wollt?"
+彼有尊者。	Ein Ehrwürdiger unter ihnen 
+答曰︰	antworte folgendermaßen:
+「此心不動，	"Der Geist, der sich nicht bewegt,
+是名為¶寂；	das nennen wir ruhig.
+於法無染，	Wenn es durch Lehren (Dharmas) nicht verunreinight wird,
+名之為靜。」	dann nennen wir dies 'rein'.
+師曰︰	Bodhidharma sagte nun:
+「本心不寂，	"Wenn der ursprüngliche Geist nicht ruhig wäre,
+要假¶寂靜。	so müßte man wohl so eine 'reine Stille' lernen.
+本來寂故，	Da ber der ursprüngliche Geist schon ruhig ist,
+何用寂靜？」	wozu brauchte es dann reine Stille?"
+彼曰︰	Er antworte:
+「諸法本空，	"Alle Dharmas sind ursprünglich leer,
+以¶空空故。	dies ist so, weil die Leere leer ist.
+於彼空空，	Diese Leere der Leerheit zu erkennen, 
+故名寂靜。」	das nent man reine Stille."
+師曰︰	Bodhidharma sagte:
+「空空已空，	"Die Leerheit der Leere ist schon leer,
+¶諸法亦爾。	und mit den Dharmas verhält es sich ebenso,
+寂靜無相，	sie sind still, rein, und ohne Form.
+何靜何寂？」	Was ist dann aber das reine, was die Stille?"
+彼尊者聞師¶指誨，	Nachdem Baojing diese Worte Bodhidharmas gehört hatte,
+豁然開悟。	wurde er plötzlich erleuchtet.
+**** 
+既而六眾咸誓歸依，	Auf diese Weise gelobten alle sechs Gruppierungen zuflucht zur Lehre von Bodhidharma zu nehmen,
+由是化¶被南天，	durch diese Bekehrungen wuchs sein Einfluss in Südindien
+聲馳五印。	und sein Ruf verbreitete sich in den fünf Teilen Indiens.
+遠近學者，	Gelehrte aus nah und fern
+靡然嚮風，	wandten sich ihm zu, so wie Gräser, die vom Wind gebeugt werden.
+經六¶十餘載，	In einem Zeitraum von 60 Jahren
+度無量眾。	wurden unzählige Menschen befreit.
+
+後值異見王輕毀三寶，	Später änderte sich die Einstellung des Königs und er wurde ein Feind der drei Schätze,
+每¶云︰	er pflegte zu sagen:
+「我之祖宗皆信佛道，	"Unsere Vorfahren folgten alle dem Weg der Buddhisten,
+陷于邪見，	aber durch diese verqueren Ansichten,
+壽年不永，	vermochten sie nicht ewig zu leben,
+¶運祚亦促。	und sie waren wie alle den Unwägbarkeiten des Schicksals ausgesetzt.
+且我身是佛，	Außerdem, wenn ich selbst wirklich schon ein Buddha[fn:: TODO Erkläre das Konzept] wäre
+何更外求？	wozu sollte ich dann noch etwas außerhalb von mir suchen?
+善惡報應，	'Gut und Böse sind durch die Gesetze der karmischen Vergeltung bestimmt',
+¶皆因多智之者。	und das man diese erkennen müsste,
+妄搆其說。	das ist doch alles Humbug und ausgedachte Geschichten.
+至於國內。	Im ganzen Lande
+耆舊，	sollen die Mönche und Ehrwürdigen, 
+為¶前王所奉者，	die von dem vorigen König Ehren empfangen haben,
+悉從廢黜。」	alle ihrer Ämter enthoben und davongejagt werden.
+
+師知已，	Als Bodhidharma davon erfuhr,
+歎彼德薄，	beklagte er seinen Mangel an Tugend
+當¶何救之？	und fragte sich, wer wohl in dieser Situation helfen könnte?
+又念無相宗中二首領︰	Er hörte auch von zwei Mitgliedern der Sekte der Formlosigkeit,
+其一波羅提¶者，	deren einer, Paradhi
+與王有緣，	schon in Auseinandersetzungen mit dem König war
+將證其果；	und schon bald eine Aussage machen würde machen müssen. 
+其二宗勝者，	Ein weiterer, Zongsheng,
+非不博¶辯，	war noch nicht in Schwierigkeiten, [die aber zu erwarten waren]
+而無宿因。	da er erhebliches rhetorisches Talent hatte.
+時六宗徒眾亦各念言︰	Zu dieser Zeit dachte jeder der Mitglieder der sechs Gruppierungen,	
+「佛法有¶難，	"Die Lehre Buddhas ist in großer Gefahr,
+師何自安？」	warum unternimmt Bodhidharma nichts, um die Situation zu beruhigen?"
+師遙知眾意，	Obwohl an einem entfernten Ort, erhielt Bodhidharma Kenntnis von den Wünschen der Versammelten
+即彈指應之。	und schnippte mit einem Finger.
+六眾¶聞之，	Die Versammelten der sechs Gruppierungen hörten dies und sagten unter sich:
+云︰
+「此是我師達磨信響，	"Das ist ein Signal von unserem Lehrer Bodhidharma,
+我等宜須速行，	laßt uns zu ihm eilen
+¶以副慈命。」	und seiner barmherzigen Wünschen Folge leisten.
+言已，	Nachdem sie so gesprochen hatten
+至師所禮拜問訊。	machten sie sich sofort auf zum Aufenthaltsort von Bodhidharma, verneigten sich und fragten nach seinen Wünschen.
+
+師曰︰	Bodhidharma sagte:
+「今一¶葉翳虛，	"Da ist ein schädlicher Zug in der Luft
+:zhu:
+翳 [yi4] eines der 50 Siddhanesischen Zeichen. Der Ton wird verwendet, um nach Hilfe zu rufen.
+[[mandoku:cbeta:T03n0187:0560a02][方廣大莊嚴經 T03n0187:0560a02]]
+:end:
+孰能剪拂？」	wer kann ihn wohl beseitigen?"
+宗勝曰︰	Zongsheng sagte:
+「我雖淺薄，	"Auch wenn meine Fähigkeiten beschränkt sind,
+敢憚其¶行。」	so will ich es doch gerne versuchen."
+師曰︰	Bodhidharma antwortete:
+「汝雖辯慧，	"Du bist zwar sehr gewandt in der Rede,
+而道力未全。」	aber es deine spirituelle Kraft ist noch nicht ausreichend."
+宗勝自念︰	Zongsheng sagte nun zu sich selbst:
+「我¶師恐我見王，	"Mein Lehrer denkt wohl, daß wenn ich dem König begegne,
+作大佛事，	ich könnte eine große und wunderbare Zeremonie abhalten,
+名譽顯達，	ich würde berühmt und einflussreich
+映奪尊威。	und könnte seine Autorität in Frage stellen.
+¶縱彼福慧為王，	Zwar ist er ein weithin anerkannter König des Glückes und der Weisheit,
+我是沙門，	und ich bin ein einfacher Mönch,
+受佛教旨，	der die Lehre Buddhas erhalten hat.
+豈難敵¶也？」	Warum sollte ich also nicht versuchen, etwas gegen dieses Unglück zu unternehmen?"
+
+言訖潛去，	Nachdem Ende der Debatte verließ er den Ort heimlich
+至王所。	und suchte den König auf.
+廣說法要，	Er hielt ihm einen Vortrag über alle Aspekte der Lehre,
+及世界苦樂、	über die Leiden und Freuden in der Welt,
+¶人天善惡等事，	über das Gute und Schlechte in Menschen und himmlischen Wesen.
+王與之往返徵詰，	Der König folgte seinen Argumenten und Folgerungen
+無不詣理。	und mußte ihre Zwangsläufigkeit einsehen.
+¶王曰︰	Der König sprach:
+「汝今所解，	"Das, was du eben erklärt hast,
+其法何在？」	wo ist denn diese Lehre überhaupt?"
+宗勝曰︰	Zongsheng antwortete:
+「如王治化，	"Sie ist so wie die Regierung Ihrer Majestät,
+¶當合其道，	die in Übereinstimmung mit dem Weg erfolgen sollte,
+王所有道何在？」	wo ist denn dieser Weg des Königs?"
+王曰︰	Der König sprach:
+「我所有道，	"Mein Weg besteht darin,
+將<pb:ZB6q0003_T_003-0218b>¶除邪法，	üble Gesetze zu vermeiden.
+汝所有法，	Aber mit deiner Lehre,
+將伏何人？」	wen möchtest du denn unterwerfen?"
+師不起于坐，	Bodhidharma hatte Kenntnis von der heimlichen 
+懸¶知宗勝義墮，	Mission von Zongsheng und, ohne sich von seinem Sitz zu erheben,
+遽告波羅提曰︰	sagte er zu Paradhi:
+「宗勝不稟吾教，	"Zongsheng ist gegen meinen Rat zum König gegangen,
+¶潛化於王，	und versucht, ihn zu bekehren.
+須臾即屈，	Er wird bald ans Ende seiner Fähigkeiten kommen,
+汝可速救！」	geh du schnell und rette ihn!"
+
+波羅提恭稟¶師旨，	Paradhi vernahm die Bitte von Bodhidharma und
+云︰	sagte:
+「願假神力。」	"Ich bitte Sie, überlassen Sie mir Ihre übernatürlichen Kräfte."
+言已，	Nachdem er das gesagt hatte,
+雲生足下，	entstand unter seinen Füssen eine Wolke,
+至王前默¶然而住。	und ohne ein Wort gelangte er vor den König.
+
+時王正問宗勝，	Der König war gerade dabe, Zongsheng zu befragen,
+忽見波羅提乘雲而¶至，	als er plötzlich sah, wie Paradhi auf einer Wolke geritten kam.
+愕然忘其問答，	Er war sehr erstaunt und vergaß die Debatte, sondern sagte nur:
+曰︰
+「乘空之者，	"Ist das ein guter oder böser Geist,
+是正是邪？」	der da auf der Wolke reitet?"
+答¶曰︰	Er antwortete:
+「我非邪正，	"Ich bin nicht Gut und nicht Böse,
+而來正邪。	aber ich bin gekommen, um das Falsche zu berichtigen.
+王心若正，	Wenn der Geist des Königs richtig ist,
+我無邪正。」¶	dann wird er frei sein von Gut und Böse."
+
+王雖驚異，	Obwohl der König sehr erstaunt war,
+而驕慢方熾，	war er doch auch sehr arrogant.
+即擯宗勝令出。	Er wollte Zongsheng lostwerden, daher befahl er ihm, hinauszugehen.
+波羅¶提曰︰	Paradhi sprach;
+「王既有道，	"Obwohl der König einen Weg befolgt,
+何擯沙門？	warum schickt er die Mönche und Nonnen davon?
+我雖無解，	Das verstehe ich nicht,
+願王致¶問。」	daher bitte ich den König, mir erlauben, seine Mißverständnisse aufzuklären.
+王怒而問曰︰	Der König wurde wütend und fragte:
+「何者是佛？」	"Was ist der Buddha?"
+答曰︰	Er antwortete:
+「見性是佛。」	"Die eigene Natur zu erkennen, das bedeutet ein Buddha zu sein."
+¶王曰︰	Der König fragte nun:
+「師見性否？」	"Und Sie, Ehrwürden, haben Sie Ihre Natur gesehen?"
+答曰︰	Er antwortete:
+「我見佛性。」	"Ja, ich habe meine wahre Natur erkannt."
+王曰︰	Nun fragte der König:
+「性在¶何處？」	"Und wo ist denn diese 'wahre Natur'?"
+答曰︰	Er antwortete:
+「性在作用。」	"Die Natur ist in der lebendigen Aktivität."
+王曰︰	Der König sagte:
+「是何作用，	"Was ist denn das für eine Aktivität,
+我今不¶見？」	wie kommt es, daß ich sie nicht sehen kann?"
+答曰︰	Er antwortete:
+「今見作用，	"Ich sehe diese Aktivität, sie ist tatsächlich vorhanden,
+王自不見。」	nur Sie Majestät, können sie nicht sehen."
+王曰︰	Der König fragte:
+「於我有¶否？」	"Und ist sie in mir auch vorhanden?"
+答曰︰	Er antwortete:
+「王若作用，	"Wenn diese Aktivität in Ihrer Majestät wirkt,
+無有不是；	dann ist alles in Ordnung.
+王若不用，	Wenn die Aktivität in Ihrer Majestät aber nicht wirken würde,
+體¶亦難見。」	dann könnten Sie auch die materiellen Formen nicht wahrnehmen.
+:zhu:
+體 [ti3] über Rolle von ti und yong nachdenken
+:end:
+王曰︰	Der König:
+「若當用時，	"Wenn also diese Aktivität stattfindet,
+幾處出現？」	an welchem Ort manifestiert sie sich denn?"
+答曰︰	Er antwortete:
+「若¶出現時，	"Wenn sie sich manifestiert, 
+當有其八。」	so tut sie das in acht Aspekten."
+王曰︰	Der König befahl nun:
+「其八出現，	"So sagen Sie nun, was hat es mit diesen acht Aspekten auf sich?"
+當為我說。」
+
+¶波羅提即說偈曰︰¶	Paradhi antwortete mit folgendem Vers:
+#+BEGIN_VERSE
+　在胎為身，	"Im Mutterleib wird es zum Körper,
+　處世名人，	in die Welt getreten, nennen wir es Mensch,
+　在眼曰見，¶	im Hinblick auf das Auge nennen wir es sehen,
+　在耳曰聞，	im Hinblick auf das Ohr nennen wir es hören,
+　在鼻辨香，	was die Nase angeht, wird es die Unterscheidung von Wohlgerüchen genannt,
+　在口談論，¶	im Bereich des Mundes nennen wir es Diskurs.
+　在手執捉，	In der Hand nennen wir es greifen,
+　在足運奔。¶	was die Füße angeht, nennen wir es transportieren.
+　遍現俱該沙界，	Wenn es sich ausdehnt, so umfasst es alle unzähligen Welten,
+　收攝在一微塵。¶	wenn es sich zusammenzieht, so ist es in einem winzigen Staubkorn ganz enthalten.
+　識者知是佛性，	Diejenigen, die es erkennen, wissen, daß dies die Buddhanatur ist,
+　不識喚作精魂。	diejenigen, die es nicht erkennen, nennen es die Seele."
+#+END_VERSE¶
+王聞偈已，	Als der König dies hörte,
+心即開悟，	erfuhr er in seinem Herzen die grosse Erleuchtung.
+乃悔謝前非，	Er bereute seine bisherigen Verfehlungen
+咨詢法要，	und begann, nach den Einzehlheiten des Dharma zu fragen.
+¶朝夕忘倦，	Von morgens bis abends hörte er zu ohne müde zu werden,
+迄于九旬。	und so ging das für volle 90 Tage.
+
+時宗勝既被斥逐，	Zongsheng, der für seine Verfehlungen verbannt worden war, 
+退藏¶深山，	hatte sich tief in die Berge zurückgezogen. 
+念曰︰	Er sagte zu sich:
+「我今百歲，	"Ich bin nun schon hundert Jahre alt,
+八十為非，	80 Jahre davon sind verloren,
+二十年來，	aber seit 20 Jahren 
+方¶歸佛道。	folge ich nun dem Weg Buddhas.
+性雖愚昧，	Obwohl ich vielleicht von Natur aus nicht sehr begabt bin,
+行絕瑕疵，	habe ich doch in keiner Weise gegen die Regeln des Verhaltens verstoßen.
+不能禦難，	Dennoch konnte ich dieses Unglück nicht vermeiden.
+生何¶如死？」	Wäre es nicht der Tod besser für mich, als weiterzuleben?"
+言訖，	Nachdem er den Gedanken vollendet hatte,
+即自投崖，	stürzte er sich von einem steilen Fels,
+俄有一神人以手捧承，	aber es war gerade ein himmlisches Wesen zugegen, das ihn mit seinen Händen auffing
+¶置于巖石之上，	und sanft auf einen Felsen absetzte,
+安然無損。	ohne daß er im Geringsten verletzt war.
+宗勝曰︰	Zongsheng sagte:
+「我忝沙門，	"Ich bin der Ehre, ein Mönch zu sein nicht mehr wert,
+¶當與正法為主，	eines Meisters der wahren Lehre,
+不能抑絕王非，	da es mir nicht gelang, den König von seinen Verfehlungen abzuhalten.
+是以捐身自<pb:ZB6q0003_T_003-0218c>¶責，	Daher wollte ich die Verantwortung dafür übernehmen und meinen Körper aufgeben.
+何神祐助，	Wer bist du, himmlisches Wesen, das mir zur Hilfe kam,
+一至於斯？	wie kamst du dazu, mich auf diese Weise zu retten?
+願垂一語，	Bitte gib mir ein Wort,
+以保餘年。」¶	das mich für den Rest meiner Jahre trösten wird.
+
+於是神人乃說偈曰︰¶	Daraufhin sprach das himmlische Wesen folgenden Vers:
+#+BEGIN_VERSE
+　師壽於百歲，	"Als du, oh Meister, hundert Lebensjahre vollendet hattest,
+　八十而造非。¶	erkanntest du, daß du achtzig Jahre lang verfehlt hattest.
+　為近至尊故，	Da du nun der am meisten verehrte Ehrwürdige werden wolltest,
+　熏修而入道。¶	betratest du den Pfad der Hauslosigkeit.
+　雖具少智慧，	Aber im Verhältnis zu deiner geringen Weisheit,
+　而多有彼我。¶	legtest du großen Wert auf die Unterschiede zwischen dir und anderen.
+　所見諸賢等，	Wenn du weisen Männern und ehrwürdigen Einsiedlern begegnest,
+　未嘗生珍敬。¶	dann fehlt es dir noch an Respekt und Ehrfurcht.
+　二十年功德，	Du hast zwanzig Jahre lang Verdienste erworben,
+　其心未恬靜。¶	aber dein Geist ist noch nicht zur Ruhe gekommen.
+　聰明輕慢故，	Wegen deiner Intelligenz und deiner Respektlosigkeit,
+　而獲至於此。¶	bist du nun an den Punkt gekommen, wo ich dich auf diese Weise retten mußte.
+　得王不敬者，	Derjenige, der bei Königen in Ungnade fällt,
+　當感果如是。¶	wird unweigerlich solche Früchte ernten.
+　自今不疎怠，	Wenn du nun heute diese geistige Trägheit aufgibst,
+　不久成奇智。¶	dann wirst du schon bald die wunderbare Weisheit verwirklichen.
+　諸聖悉存心，	Dann werden alle Heiligen und Weisen dich ehren
+　如來亦復爾。	und du wirst sein wie der Tathāgata selbst.
+#+END_VERSE¶
+
+宗勝聞偈欣然，	Da Zongsheng dies hörte,
+即於巖間宴坐。	trat er zwischen den Felsen in eine tiefe Meditation ein.
+時異見王復¶問波羅提曰︰	Inzwischen fragte der König, der [früher] häretische Ansichten hatte Paradhi:
+「仁者智辯，	"Ehrwürdiger, von wem haben Sie Ihre bewundernswerte Weisheit und Beredsamkeit gelernt?"
+當師何人？」
+答曰︰	Paradhi antwortete:
+「我所¶出家，	Ich habe im 
+即娑羅寺烏沙婆三藏為授業師。	Tempel Śāla durch den Vinaya Meister Usaba die Ordination emfpangen und wurde so ein hausloser Mönch.
+其出¶世師者，	Später empfing ich Belehrung durch
+即大王叔菩提達磨是也。」	Bodhidharma, der ein Onkel ihrer Majestät ist."
+王聞師名，	Als der König den Namen des Lehrers hörte,
+¶驚駭久之，	war er tief bewegt und rief schließlich aus:
+曰︰
+「鄙薄忝嗣王位，	"Obwohl ich dieser Würde in keiner Weise wert bin, war es mir vergönnt den Königsthron zu erben,
+而趣邪背正，	und so habe mich hinreissen lassen, falschen Lehren zu folgen,
+忘¶我尊叔。」	und meinen um so vieles würdigeren Onkel ganz vergessen."
+遽勅近臣，	Er befahl seinen Ministern,
+特加迎請。	zu eilen und Bodhidharma mit einer Ehreneskorte zum Palast zu geleiten.
+師即隨使而至，¶	Der Meister kam auch sogleich
+為王懺悔往非。	und ließ den König seine Sünden bekennen und bereuen.
+王聞規誡，	Der König hörte die Predigt
+泣謝于師，	und dankte Bodhidharma unter Tränen.
+又詔宗¶勝歸國，	Er erliess auch ein Edikt, das Zongsheng einlud, aus der Verbannung zurückzukehren.
+大臣奏曰︰	Der oberste Minister berichtete nun:
+「宗勝被謫投崖，	"Zongsheng ist von einem hohen Felsen gesprungen
+今已亡矣！」	und hat nach eigenem Willen den Tod gesucht."
+¶王告師曰︰	Der König berichtete dies Bodhidharma und sagte:
+「宗勝之死，	"Der Tod von Zongsheng
+皆自於吾，	ist ganz allein meine Schuld.
+如何大慈，	Kann ich denn Mitleid finden,
+令¶免斯罪？」	um von dieser Schuld vergeben zu werden?"
+師曰︰	Der Meister antwortete:
+「宗勝今在巖間宴息，	"Zongsheng ist unverletzt und sitzt auf einem Felsen in meditativer Versenkung.
+但遣使召，	Wenn Ihre Majestät einen Botschafter schickt,
+¶當即至矣。」	so wird er zur Hauptstadt zurückkehren."
+
+王即遣使入山，	Der König beauftragte nun einen Boten, in die Berge zu gehen
+果見宗勝端居禪¶寂。	und in der Tat saß Zongsheng in tiefer Versenkung auf einem Fels.
+宗勝蒙召，	Nachdem er die Botschaft gehört hatte, 
+乃曰︰	sagte er:
+「深媿王意，	"Ich bin tief beschämt über die Großzügigkeit des Königs,
+貧道誓處巖泉。	aber ich armer Mönch gelobe an diesem Ort inmitten von Felsen und Quellen zu bleiben.
+¶且王國賢德如林，	In der königlichen Hauptstadt gibt es Weise und Ehrwürdiger zahlreich wie [die Bäume] im Wald,
+達磨是王之叔，	allen voran Bodhidharma, der Onkel des Königs
+六眾所師，	und Lehrer der sechs Sekten,
+¶波羅提法中龍象，	dann ist dort Paradhi, der Drachen-Elefant der Versammlung,
+願王崇仰二聖，	ich bitte den König, diese beiden zu ehren
+以福皇基。」	und damit dem Reich aufs beste zu dienen."
+¶使者復命未至，	Noch bevor der Botschafter zurückgekehrt war,
+師謂王曰︰	fragte Bodhidharma den König:
+「知取得宗勝否？」	"Wissen Ihre Majestät ob Zongsheng zurückkehren wird?"
+王¶曰︰	Der König antwortete:
+「未知。」	"Ich weiß es noch nicht."
+師曰︰	Da sagte Bodhidharma:
+「一請未至，	"Auf die erste Aufforderung wird er nicht kommen,
+再命必來。」	wenn Sie aber darauf bestehen und einen weiteren Botschafter senden, so wird er kommen."
+
+良久，	Nach einer Weile
+使¶還，	kam in der Tat der Botschafter
+果如師語。	und bestätigte die Worte Bodhidharmas.
+師遂辭王曰︰	Nun nahm Bodhidharma seinen Abschied vom König und sagte:
+「當善修德，	"Majestät, üben Sie Ihre Tugend wohl,
+不久疾¶作，	denn in kurzer Zeit wird Sie eine Krankheit befallen.
+吾且去矣。」	Ich werde nun gehen."
+經七日，	Nach sieben Tagen 
+王乃得疾，	wurde der König in der Tat sehr krank
+國醫診治，	und aus dem ganzen Land wurden Ärzte herbeigerufen,
+有<pb:ZB6q0003_T_003-0219a>¶加無瘳。	aber es gelang ihnen nicht, die Krankheit zu heilen.
+貴戚近臣，	Verwandte und Minister
+憶師前記，	erinnerten sich sogleich der Vorhersage
+急發使告師曰︰	und sandten eilig einen Botschafter zu Bodhidharma mit folgender Nachricht:"
+「¶王疾，	"Der König ist schwer krank,
+殆至彌留，	und scheint dem Tode nah.
+願叔慈悲，	Wir bitten Sie, haben sie erbarmen
+遠來軫救。」	und kommen Sie zurück um ihm zu helfen.
+
+
+師即至¶王所，	So kam Bodhidharma wieder zum König
+慰問其疾。	und erkundigte sich nach seiner Krankheit.
+時宗勝再承王召，	Zu jener Zeit hatte Zongsheng gerade auf die zweite Bitte des Königs hin
+即別巖間。	seine Wohnung zwischen den Felsen aufgegeben.
+¶波羅提久受王恩，	Auch Paradhi, der lange die Gunst des Königs genossen hatte, 
+亦來問疾。	kam um sich nach seinem Befinden zu erkundigen.
+波羅提曰︰	Paradhi sagte:
+「當何¶施為，	"Was können wir tun,
+令王免苦？」	um den König von seinen Leiden zu befreien?"
+
+師即令太子為王宥罪施恩，	Bodhidharma empfahl nun dem Kronprinzen, im Auftrag des Königs [Verbrechern] ihre Schuld zu vergeben, gute Taten zu vollbrigen,
+¶崇奉僧寶。	und die Gemeinschaft der Mönche zu ehren.
+復為王懺悔云︰	Der Kronprinz legte auch für den König ein Sündenbekenntnis ab und sagte:
+「願罪消滅！」	"Mögen alle Verfehlungen vergehen!"
+如是者¶三，	Nachdem dies dreimal vollzogen war,
+王疾有間。	verbesserte sich der Zustand des Königs.
+
+師心念︰	Bodhidharma dachte nun bei sich:
+「震旦緣熟，	"Meine Verbindungen zum Morgenlande sind nun reif,
+行化時至。」	es wird Zeit für mich, meine Aufgaben dort wahrzunehmen."
+乃¶先辭祖塔，	Er ging zunächst zum Stupa seines Meisters
+次別同學，	und verabschiedete sich dann von seinen Freunden und Schülern,
+然至王所慰而勉之曰︰	schließlich ging er auch zum König und sagte:
+「¶當勤修白業，	"Majestät, streben Sie danach, gute Taten zu vollbringen
+護持三寶，	und behüten Sie die drei Schätze.
+吾去非晚，	Ich werde noch vor dem Abend gehen,
+一九即迴。」	aber nach neun Jahren noch einmal wiederkehren."
+
+¶王聞師言，	Der König hörte diese Worte Bodhidharmas
+涕淚交集，	und unter Tränen und Schluchzen
+曰︰	sprach er:
+「此國何罪，	"Was für Schuld hat unser Land auf sich geladen,
+彼土何祥？	was für ein Glück hat jenes Land?
+¶叔既有緣，	Aber ich sehe, verehrter Onkel, daß Sie schon eine karmische Verbindung mit jenem Land haben
+非吾所止，	und daß ich sie nicht zurückhalten kann.
+唯願不忘父母之國，	Ich bitte nur, daß Sie das Land ihrer Eltern nicht vergessen
+事¶畢早回。」	und zurückkommen, sobald Ihre Mission dort vollbracht ist."
+王即具大舟，	Der König stellte nun ein großes Schiff zur Verfügung,
+實以眾寶，	belud es mit Schätzen
+躬率臣寮，	und kam mit seinen Ministern selbst zum Hafen,
+送¶至海壖。	um Bodhidharma bis zum Hafen zu geleiten.
+**** 
+師汎重溟凡三周寒暑，	Bodhidharma segelte auf dem Meer für drei volle Winter und Sommer,
+達于南海，	dann erreichte er das südchinesische Meer
+實¶梁普通八年丁未歲九月二十一日也。	und landete dort am 21. Tag des 9. Monats im 8. Jahr der Ära Putong der Liang Dynastie.
+廣州¶刺史蕭昂具主禮迎接。	Xiao Ang, der Präfekt von Kanton, empfing ihn mit seiner königlichen Würde entsprechendem Ritual
+:zhu:
+蕭昂 [xiao1yang4] see [[mandoku:hist:LIANG:0072a04][梁書 LIANG:0072a04]] ff and [[mandoku:hist:LIANG:0177a14][梁書 LIANG:0177a14]]; [[mandoku:hist:NANSHI:1353a11][南史 NANSHI:1353a11]]
+:end:
+表聞武帝。	und berichtete Kaiser Wu von der Ankunft Bodhidharmas.
+帝覽奏遣¶使齎詔迎請。	Als der Kaiser davon hörte, sandte er einen Botschafter, um ihn an den Hof zu bitten.
+十月一日至金陵	Am 1. Tag des 10. Monats erreichte er die Hauptstadt Jinling
+:zhu:
+金陵 [jin4ling2] Das heutige Nanjing.
+:end:
+(嵩禪師以梁僧寶唱續法記為據作¶正宗記言。
+:zhu:
+嵩禪師 [song1tan2shi1] diese Anmerkung ist im DCS text nicht enthalten.  Nur im Kommentar erwähnen.
+:end:
+達磨以梁武普通元年庚子歲至此土。
+其年乃後魏明帝正光元年也。
+若如此則與後入滅啟壙等年皆相¶合。
+若據此稱。
+普通八年丁未歲九月二十一日至南海。
+十月一日至金陵則甚誤也。
+蓋普通八年三月已改為大通元¶年。
+則九月不應尚稱普通八年也。
+南海者今廣州也。
+去金陵數千里。
+刺史奏聞而武帝詔迎。
+豈可十日之間便至金¶陵耶。
+又按南史蕭昂本傳。
+不言昂為廣州刺史。
+但王茂傳末有廣州長史蕭昂。
+然不知何年在任。
+今止可云○達于¶南海實梁普通元年。
+廣州刺史具主禮迎接，
+表聞武帝。
+帝覽奏，
+遣使齎詔迎請，
+十月一日，
+至金陵)
+。
+
+帝問¶曰︰	Der Kaiser fragte ihn:
+「朕即位已來，	"Seit meiner Thronbesteigung habe ich
+造寺、	Tempel errichtet,
+寫經、	Sutren abschreiben lassen
+度僧不可勝紀，	und die Ordinierung zahlloser Mönche gestattet.
+有¶何功德？」	Nun sagen Sie mir bitte, wieviel Verdienst habe ich mir dadurch erworben?"
+師曰︰	Bodhidharma antwortete:
+「並無功德。」	"Keinerlei Verdienst."
+帝曰︰	Der Kaiser fragte verwundert:
+「何以無功德？」	"Wie kann es sein, daß es keinen Verdienst dafür gibt?"
+
+¶師曰︰	Bodhidharma antwortete:
+「此但人天小果，	"Solche Dinge sind untergeordnete Angelegenheiten in der menschlichen und himmlischen Welt,
+有漏之因，	und sie sorgen für karmische Überbleibsel [die eine Loslösung von Geburt und Tod verhindern]
+:zhu:
+有漏 [you4lou4] terminus technicus
+:end:
+如影隨形，	Es ist so wie ein Schatten, der der Form folgt,
+雖¶有非實。」	aber selbst keine wirkliche Existenz hat."
+
+帝曰︰	Der Kaiser fragte:
+「如何是真功德？」	Wie kann man dann aber wahre Verdienste erwerben?"
+
+答曰︰	Bodhidharma antwortete:
+「淨智妙圓，	"Die reine Weisheit ist auf wundervolle Weise in sich rund und vollständig,
+¶體自空寂，	und ihre materielle Existenz ist von sich aus leer und nichtig.
+如是功德，	Wenn es Verdienst gibt,
+不以世求。」	so ist er nicht mit weltlichen Mitteln zu erreichen."
+帝又問︰	Der Kaiser fragte weiter:
+「如何¶是聖諦第一義？」	"Was ist das erste Prinzip der heiligen Lehre?"
+師曰︰	Bodhidharma antwortete:
+「廓然無聖。」	"Offene Weite, nichts von heilig."
+帝曰︰	Der Kaiser fragte nun:
+「對朕者¶誰？」	"Wer ist es, der so zu mir spricht?!"
+師曰︰	Bodhidharma antwortete:
+「不識。」	"Ich habe keine Ahnung."
+帝不領悟。	Der Kaiser verstand nicht.
+
+師知機不契，	Bodhidharma wusste, daß seine Auffassungsgabe nicht ausreichte
+是月<pb:ZB6q0003_T_003-0219b>¶十九日，	und so verließ er ihn am 19. Tag desselben Monats,
+潛迴(廣燈迴作過字)江北。	indem er heimlich den Yangzi überquerte und sich nach Norden wandte.
+:zhu:
+潛迴 [qian2hui2]  
+:end:
+十一月二十三日，	Am 23. Tag des 11. Monats
+屆¶于洛陽，	erreichte er Loyang,
+當後魏孝明	dort war es das 10. Jahr der Ära Taihe des Kaisers Xiaoming der späteren Wei Dynastie.
+太和十年也
+(當云後魏孝明正光元年也。
+¶若據太和十年乃後魏文帝時是年即南齊武帝永明四年丙寅歲也)。
+**** 少林寺
+寓止于嵩山少林¶寺，	Er lebte nun im Shaolin Tempel auf dem Berg Songshan
+面壁而坐，	und saß mit dem Gesicht zur Wand gewandt,
+終日默然。	den ganzen Tag, ohne ein Wort.
+人莫之測，	Die Menschen konnten sich keinen Reim darauf machen
+謂之壁觀¶婆羅門。	und nannten ihn den wandbeschauenden Brahmanen
+
+時有僧神光者，	Zu jener Zeit lebte dort ein Mönch namens Shenguang,
+曠達之士也，	der war ein Gelehrter von hohem Rang
+久居伊¶洛，	und lebte schon lange in Luoyang.
+博覽群書，	Er hatte alle möglichen Schriften und Bücher studiert
+善談玄理，	und liebte es, über das verborgene Prinzip zu debattieren.
+每歎曰︰	Er pflegte seufzend zu sagen:
+「孔、老之教，	"Die Lehren von Konfuzius und Laotse
+禮¶術風規；	handeln von Ritualen und Regeln der Etikette
+《莊》、《易》之書，	Das Buch von Zhuangzi und das Buch der Wandlungen
+未盡妙理。	reichen auch nicht an das verborgene Prinzip heran.
+近聞，	Nun hörte ich,
+達磨大士¶住止少林，	der große Meister Bodhidharma, der Residenz im Shaolin Tempel bezogen hat,
+至人不遙，	sei ein Weiser wie er selten zu finden ist,
+當造玄境。」	und hat wohl die Grenze zum Verborgenen durchbrochen."
+乃往彼，	Daraufhin suchte er ihn auf
+晨夕¶參承。	[und hoffte] auf Unterweisung von der Morgendämmerung bis zum Abend.
+
+師常端坐面牆，	Bodhidharma saß aber nur mit dem Gesicht zur Wand
+莫聞誨勵。	und würde ihm keinerlei Unterweisung geben.
+光自惟曰︰	Shenguang sagte nun zu sich selbst:
+「昔¶人求道，	"Menschen in früheren Zeiten, die den Weg erlangen wollten,
+敲骨取髓，	zerbrachen ihre Knochen um das Mark zu erlangen,
+刺血濟饑，	oder stachen in ihre Adern, um hungrige [Tiere] zu retten,
+布髮掩泥，	breiteten Haare über die Straße, um den Staub zu bedecken,
+投崖¶飼虎，	oder sprangen von einem Felsen, um eine Tigerin zu füttern.
+古尚若此，	In allen Zeiten gab es solche Beispiele,
+我又何人？」	was bin ich denn für ein Mensch?"
+
+其年十二月九日¶夜，	Im selben Jahr in der Nacht des 9. Tages des 12. Monats,
+天大雨雪，	kam ein heftiger Sturm und es fiel viel Schnee.
+光堅立不動。	Shenguang stand eisern ohne sich zu bewegen.
+遲明，	Bei Tagesanbruch
+積雪過膝，	war so viel Schnee gefallen, daß er ihm zum Knie reichte.
+師¶憫而問曰︰	Nun fragte Bodhidharma voller Mitleid:
+「汝久立雪中，	"Warum stehst du denn so lange aufrecht im Schnee,
+當求何事？」	was ist es, das du suchst?"
+光悲淚曰︰	Mit Tränen in den Augen sagte Shenguang:
+「¶惟願和尚慈悲，	"Bitte, verehrter Meister, haben Sie Mitleid mit mir,
+開甘露門，	öffnen Sie das Tor des süßen Nektar,
+:zhu:
+甘露門 [gan1lu4men2] amṛta-dvāra, das erreichen des Abwerfens von Leben und Tod.
+cf.  + 《法華經‧化城喻品》：『普智天人尊，哀愍群萌類。能開甘露門，廣度於一切。』
+:end:
+廣度群品。」	das alle Wesen der Erde befreien wird!"
+:zhu:
+群品 [qun2pin3] alle lebenden Wesen
+:end:
+師曰︰	Bodhidharma antwortete:
+「諸¶佛無上妙道，	"Der höchste Pfad der Buddhas 
+曠劫精勤，	kann nur nach Äonen von konzentrierter und strenger Übung
+難行能行，	unter den größten Schwierigkeiten
+非忍而忍。	und nach Erdulden des nicht Erduldbaren erreicht werden.
+¶豈以小德小智，	Wie könnte jemand wie ich, mit geringer Tugend und geringem Wissen,
+輕心慢心，	mit nachlässigem Geist, der schwer von Begriff ist,
+欲冀真乘？	sich die Hoffnung erlauben, das wahre Fahrzeug zu erlangen?
+徒勞勤¶苦！」	Danach zu streben wäre ein vergebliches Bemühen!"
+
+光聞師誨勵，	Shenguang hörte diese Unterweisung des Meisters,
+潛取利刀，	nahm heimlich ein scharfes Messer,
+自斷左臂，	und schnitt sich den linken Arm ab,
+置于師¶前。	diesen brachte er vor den Meister.
+師知是法器，	Bodhidharma erkannte nun, daß er eine große Begabung für das Dharma hatte
+乃曰︰	und sagte:
+「諸佛最初求道，	"Alle Buddhas, die den höchsten Weg zu erlangen suchten,
+為法忘¶形，	begannen indem sie um des Dharma willen die Form vergaßen.
+汝今斷臂吾前，	Nun hast du deinen Arm abgeschnitten und vor mich gebracht.
+求亦可在。」	Das zeigt, daß du möglicherweise so einen starken Wunsch in dir hast."
+師遂因與易名¶曰慧可。	Er änderte nun seinen Namen und nannte ihn fortan Huike.
+
+光曰︰	Shenguang fragte:
+「諸佛法印，	"Kann ich nun von den Dharmasiegeln des Buddha hören?"
+:zhu:
+法印 [fa4yin4] 
+ **** 0101: 佛教語。判定佛法的標準。主要有〈三法印〉：〈諸行無常〉、〈諸法無我〉和〈涅槃寂靜〉。 
+ **** 【例文】
+  + 《大智度論》卷二二：『通達無礙者，得佛法印故通達無礙，如得王印則無所留難。』
+
+:end:
+可得聞乎？」
+師曰︰	Der Meister sagte:
+「諸佛¶法印，	"Die Dharmasiegel des Buddha
+匪從人得。」	sind nicht etwas, das man von anderen erlangen kann."
+:zhu:
+匪 [fei3] Bandit, Dieb; Häufig in der Chanschule gebraucht.
+:end:
+光曰︰	Nun sagte Shenguang:
+「我心未寧，	"Mein Geist ist nicht in Ruhe,
+乞師與安。」	ich bitte Sie, verehrter Meister, beruhigen Sie ihn"
+師¶曰︰	Bodhidharma antwortete:
+「將心來，	"Dann bring' deinen Geist her,
+與汝安。」	ich werde ihn schon beruhigen."
+曰︰	Shenguang antwortete:
+「覓心了不可得。」	"Ich suchte nach ihm, kann ihn aber nicht finden."
+師曰︰	Daraufhin sagte Bodhidharma:
+「我¶與汝安心竟。」	"Ich habe deinen Geist schon beruhigt."
+**** 
+後孝明帝聞師異跡。	Später hörte Kaiser Xiaoming der Liang von den Wundern, die Bodhidharma vollbrachte.
+遣使齎詔¶徵，	Er sandte einen Botschafter um ihn in den Palast einzuladen.
+前後三至，	Dreimal kam dieser Botschafter,
+師不下少林。	aber Bodhidharma lehnte es ab, den Shaolin Tempel zu verlassen.
+帝彌加欽尚，	Dies erhöhte den Respekt, den der Kaiser für ihn hatte nur noch mehr,
+就賜¶摩衲袈裟二領、	und er sandte als Geschenke eine doppelt gewebte Robe,
+金鉢、	eine goldene Schale,
+銀水瓶、	eine Karaffe aus Silber
+繒帛等，	und Stoffe aus Seide.
+師牢讓¶三返，	Wiederum lehnte der Meister dreimal ab,
+帝意彌堅，	dies erhöhte die Achtung des Kaisers erneut.
+師乃受之。	Schließlich nahm Bodhidharma die Geschenke an.
+自爾，	Von diesem Zeitpunkt an,
+緇白之眾倍¶加信向。	wuchs die Zahl der bei ihm Versammelten, sowohl Angehörige des Sangha, als auch Laien, um ein Vielfaches.
+迄九年已，	Nachdem neun Jahre vergangen waren,
+欲西返天竺，	wünschte Bodhidharma nach Westen zurückzukehren in sein indisches Heimatland
+乃命門人曰︰	und er sprach folgendermaßen zu seinen Jüngern:
+「¶時將至矣，	"Der Zeitpunkt für meine Heimkehr ist gekommen.
+汝等蓋各言所得乎？」	Jeder von euch zeige mir, was er erreicht hat."
+
+時門人道副¶對曰︰	Einer der Jünger namens Daofu antwortete:
+「如我所見，	"So wie ich es sehe,
+不執文字，	so kann es nicht durch Schriftzeichen,
+不離文字，	aber auch nicht ohne Schriftzeichen
+而為道<pb:ZB6q0003_T_003-0219c>¶用。」	erlangt werden, dies ist das Wirken des Dao."
+
+師曰︰	Bodhidharma sagte:
+「汝得吾皮。」	"Du hast meine Haut erlangt."
+
+尼總持曰︰	Eine Nonne namens Zongchi sagte:
+「我今所解，	"So wie ich es verstehe,
+如慶¶喜見阿閦佛國，	ist es wie ein Blick, den Ānanda in das Reich des Buddha Akṣobhya tat,
+:zhu:
+慶喜 [qing4xi3]  Ānanda
+阿閦 [e3chu4]  Akṣobhya
+:end:
+一見更不再見。」	ein einziger Blick, der nicht wiederholt werden kann."
+
+師曰︰	Bodhidharma sagte:
+「汝得吾¶肉。」	"Du hast mein Fleisch erlangt."
+
+道育曰︰		Daoyu sagte nun:
+「四大本空，	"Die vier Elemente sind alle leer,
+五陰非有，	und auch die fünf Skandhas existieren nicht.
+:zhu:
+五陰 [wu3yin4] == 0101: 梵語 pañca-skandha，巴利語 pañca khandhā。又作五陰、五眾、五聚。三科之一。蘊，音譯作塞健陀，乃積聚、類別之意。即類聚一切有為法之五種類別。 [一]色蘊（梵 rūpa-skandha），即一切色法之類聚。 [二]受蘊（梵 vedanā-skandha），苦、樂、捨、眼觸等所生之諸受。 [三]想蘊（梵 saṃjñā-skandha），眼觸等所生之諸想。 [四]行蘊（梵 saṃskāra-skandha），除色、受、想、識外之一切有為法，亦即意志與心之作用。 識蘊（梵 vijñāna-skandha），即眼識等諸識之各類聚。 
+:end:
+而我見處，	So wie ich es sehe,
+無¶一法可得。」	gibt es kein Dharma, das zu erreichen wäre."
+
+師曰︰	Nun sagte Bodhidharma:
+「汝得吾骨。」	"Du hast meine Knochen erlangt"
+
+最後，	Als letzter
+慧可禮拜後，	machte Huike die traditionelle Verbeugung,
+¶依位而立。	und blieb auf seinem Platz stehen.
+師曰︰	Bodhidharma sagte:
+「汝得吾髓。」	"Du hast mein Mark erlangt."
+乃顧慧可而告¶之曰︰	Während er auf Huike zurückblickte sagte Bodhidharma:
+「昔如來以正法眼付迦葉大士，	"Vor langer Zeit übergab der Tathāgata das wahre Auge des Dharma an Mahākasyapa.
+展轉囑¶累而至於我。	Seit dem ist es in ununterbrochener Reihe weitergegeben worden und gelangte schließlich zu mir.
+我今付汝，	Heute gebe ich es an dich weiter,
+汝當護持，	und du mußt es gut bewahren.
+并授汝袈¶裟，	Außerdem werde ich dir diese Robe geben,
+以為法信，	die als Symbol des Glaubens in das Dharma dient,
+各有所表，	Beides hat seine Bedeutung,
+宜可知矣。」	die du kennen sollst."
+
+可曰︰	Huike sagte nun:
+「請師¶指陳。」	"Ich bitte Sie, verehrter Meister, erläutern Sie mir die Bedeutung."
+
+師曰︰	Bodhidharma sagte:
+「內傳法印，	"Indem du innerlich das Siegel des Dharma trägst,
+以契證心；	wird dein Geist dadurch selbst Bestätigung erfahren.
+外付袈裟，	Indem du nach außen hin die Robe trägst,
+以¶定宗旨。	wirst du die Überlieferung festigen.
+後代澆薄，	In späteren Zeiten, wenn das Verstehen schwach geworden ist,
+疑慮競生，	und Zweifel entstehen,
+云吾西天之人，	dann wird man sagen 'Er war ein Inder
+¶言汝此方之子，	und du ein Sohn dieses Landes - 
+憑何得法？	wie kann da das Dharma übertragen werden?
+以何證之？	wo ist der Beweis?'
+汝今受¶此衣法，	Da du nun diese Robe und das Dharma erhältst,
+却後難生，	kannst Du, immer wenn Zweifel darüber entstehen,
+但出此衣，	diese Robe hervorholen,
+并吾法偈，	und zusammen mit meinen Worten
+用以¶表明其化無礙。	wirst du damit alle Zweifel zerstreuen können.
+至吾滅後二百年，	Nach etwa zweihundert Jahren nach meinem Tod,
+衣止不傳，	wird es Zeit, die Weitergabe der Robe zu beenden,
+¶法周沙界，	dann wird das Dharma überall in dieser Welt, zahllos wie Körner des Sandes, verbreitet sein.
+明道者多，	Dann werden viele vom Weg gehört haben,
+行道者少；	aber wenige werden ihn wirklich praktizieren.
+說理者多，	Viele werden darüber disputieren,
+通¶理者少。	aber nur wenige werden ihn wirklich verstanden haben.
+潛符密證，	Es wird aber tausende oder zehntausende geben,
+千萬有餘，	die ihm geheimen den Weg praktizieren und untereinander im Geheimen davon Zeugnis ablegen.
+汝當闡揚，	Wenn du die Lehre verbreitest und erläuterst,
+勿輕¶未悟，	dann sehe die noch nicht Erleuchteten nicht gering an,
+一念迴機，	in einem einzigen Moment könnte sich eine Gelegenheit ergeben,
+便同本得。	alles zu verändern und mit der ursprünglichen [Natur] eins zu werden.
+聽吾偈曰︰¶	Höre meinen Vers:
+#+BEGIN_VERSE
+『吾本來茲土，	'Ich kam ursprünglich in dieses Land,
+　傳法救迷情。¶	um das Dharma zu verbreiten und Verlorene zu retten.
+　一華開五葉，	eine Blume wird fünf Blütenblätter öffnen
+　結果自然成』	und die Frucht wird von selbst reifen.'"
+#+END_VERSE¶
+
+師又曰。	
+吾有楞伽經四卷。	"Ich habe eine Ausgabe des Laṅkāvatārasūtra in vier Rollen,
+亦用付汝，	die werde ich dir geben,
+(此蓋依寶林傳之說¶也。
+:zhu:
+diese Anmerkung nicht in DCS Ausgabe.  
+:end:
+按宣律師續高僧傳。
+可大師傳云。
+初達磨以楞伽經授可曰。
+我觀漢地唯有此經。
+仁者依行自得度世。
+若如傳所¶言。
+則是二祖未得法時。
+達磨授楞伽使觀之耳。
+今傳燈乃於付法傳衣之後言。
+師又曰︰	
+吾有《楞伽經》四卷，
+亦用付¶汝。
+則恐誤也。
+兼言吾有。
+則似世間未有也。
+此但可依馬祖所言云。
+又引楞伽經文。
+以印眾生心地。
+則於理無害耳。)¶
+即是如來心地要門，	darin findet sich die Essenz der Lehre vom Geistesgrund, die der Tathāgata gelehrt hat,
+令諸眾生開示悟入。	sie verhilft allen Lebewesen zu geistiger Entwicklung und ermöglicht ihnen schließlich die Erleuchtung zu erfahren.
+吾¶自到此，	Seit ich in dieses Land gekommen bin,
+凡五度中毒，	wurde ich fünfmal vergiftet,
+我常自出而試之，	und jedesmal habe ich mir das Gift vorgenommen und untersucht.
+置石¶石裂。	Wenn ich es auf einen Stein legte, brach der Stein.
+緣吾本離南印，	Ich hatte die karmische Aufgabe meine Heimat, das südliche Indien, zu verlassen 
+來此東土，	und hierher in die östlichen Länder zu kommen,
+見赤縣神州¶有大乘氣象，	denn ich sah, daß hier in diesem göttlichen Land eine große Bereitschaft für die Aufnahme der Lehren des Mahāyāna besteht.
+遂踰海越漠，	So überquerte ich das Meer und durchquerte Wüsten,
+為法求人，	für einen Menschen, der auf der Suche nach dem Dharma war.
+際會未¶諧，	Bisher fand ich nur Menschen,
+如愚若訥，	die stotternden Idioten glichen.
+今得汝傳授，	Aber heute gelang es mir, das Dharma an dich weiterzugeben
+吾意已終	und damit ist meine Absicht vollbracht.
+(別記云。	(Eine andere Aufzeichnung gibt folgendes wieder:
+師初居少林¶寺九年。	Bodhidharma lebte zunächst neun Jahre im Shaolin Tempel.
+為二祖說法秖教曰：	Dort unterwies er den zweiten Patriarchen Huike folgendermaßen:
+外息諸緣內心無喘。	"Unterbreche alle Verbindungen mit der Außenwelt, und achte nicht auf das, was sich im innern des Geistes abspielt.
+心如牆壁可以入道。	Wenn der Geist wie eine Wand ist, dann bist du bereit, in den Weg einzutreten."
+慧可種種說心性理。	Huike kannte zwar eine Menge Theorien des Geistes,
+道未契。	aber den Weg hatte er noch nicht gekostet. 
+師秖遮其非	Bodhidharma kümmerte sich nur um seine Fehler
+<pb:ZB6q0003_T_003-0220a>
+¶不為說無念心體。	und erläuterte ihm nicht die Lehre von der Substanzlosigkeit der inneren Wahrnehmung.
+慧可曰。	Huike sagte:
+我已息諸緣。	"Ich habe schon alle Verbindungen mit der Außenwelt unterbrochen."
+師曰。	Bodhidharma antwortete:
+莫不成斷滅去否。	"Ist es dir gelungen, daß alles vollkommen verschwindet?"
+可曰。	Huike sagte:
+不成斷滅。	"Noch ist nicht alles vollkommen verschwunden."
+師曰。	Bodhidharma sagte:
+何以驗之云不斷滅。	"Wie kannst du beweisen, daß nicht alles vollkommen verschwunden ist?"
+可¶曰。	Huike antwortete:
+了了常知故。	"Ich merke es ganz klar die ganze Zeit über,
+言之不可及。	aber es gelingt mir nicht, es in Worte zu fassen.
+師曰。	Bodhidharma sagte:
+此是諸佛所傳心體，	"Das ist die Essenz der Übertragung von Geist zu Geist aller Buddhas,
+更勿疑也。」)	daran kann kein Zweifel bestehen.")
+
+**** 千聖寺
+言已，	Nach diesen Worten
+乃與徒眾¶往禹門千聖寺。	ging Bodhidharma mit seinen Anhängern zum Qiansheng Tempel in Yumen.
+止三日，	Dort hielt er sich drei Tage auf.
+有期城太守揚衒之¶，	Der Befehlshaber jener Kommandatur namens Yang Xuanzhi
+早慕佛乘，	war seit langem ein Bewunderer des buddhistischen Fahrzeugs.
+問師曰︰	Er fragte den Meister:
+「西天五印，	"Im Westen, im Lande der fünf Teile Indiens,
+師承為祖，	wie wird man Patriarch durch die Authorisierung eines Meisters
+其道¶如何？」	und erhält die Überlieferung des Weges?"
+師曰︰	Bodhidharma antwortete:
+「明佛心宗，	"Wenn man die Schule des Buddhaherzens versteht
+:zhu:
+佛心宗 [fu2xin1zong1] anderer name für Chan
+:end:
+行解相應，	und die Praxis dem Verstehen entspricht,
+名之曰祖。」	dann wird man ein Patriarch genannt.
+
+又¶問︰	Yang fragte weiterhin:
+「此外如何？」	"Und was gibt es sonst noch?"
+
+師曰︰	Bodhidharma antwortete:
+「須明他心，	"Er muß in der Lage sein, den Geist anderer zu verstehen,
+知其今古，	und muß seine Gegenwart und Vergangenheit kennen.
+不厭¶有無，	Er kümmert sich nicht um Sein oder Nicht-Sein
+於法無取，	und begnügt sich nicht mit dem Dharma.
+不賢不愚，	Er ist nicht weise und auch nicht dumm,
+無迷無悟，	nicht verblendet aber auch nicht erleuchtet.
+若能是¶解，	Jemand der dies versteht
+故稱為祖。」	verdient es wohl, ein Patriarch genannt zu werden."
+
+又曰︰	Yang sagte nun:
+「弟子歸心三寶，	"Obwohl ich schon vor vielen Jahren meine Zuflucht zu den drei Schätzen genommen habe,
+亦有年矣，
+¶而智慧昏蒙，	ist meine Weisheit doch von Wolken bedeckt
+尚迷真理。	und ich bin mir nicht klar über die Wahrheit.
+適聽師言，	Obwohl ich heute die Gelegenheit habe, Ihre Lehre zu hören, O Meister,
+罔知收措。¶	weiß ich doch nicht, wie ich sie empfangen soll.
+願師慈悲，	Ich bitte Sie Meister, haben Sie Mitleid mit mir
+開示宗旨。」	und zeigen Sie mir den Kern der Lehre!"
+
+師知懇到，	Bodhidharma erkannte seinen ernsthaften Wunsch 
+即說偈曰︰¶	und sprach den folgenden Vers:
+#+BEGIN_VERSE
+　亦不覩惡而生嫌，	"Wenn er Übles sieht, entwickelt er doch keinen Hass darauf,
+　亦不觀善而勤措，¶	Wenn er Gutes sieht, so will er es doch nicht ansammeln.
+　亦不捨智而近愚，	Er verwirft keine Weisen und nähert sich auch nicht Dummen,
+　亦不拋迷而就悟。¶	Er verwirft die Verblendung nicht und sucht auch nicht nach Erleuchtung.
+　達大道兮過量，	Er erreicht den großen Weg und übertrifft ihn,
+　通佛心兮出度，¶	er durchdringt den Geist Buddhas und geht noch darüber hinaus.
+　不與凡聖同躔，	Er tritt nicht in die Spuren von gewöhnlichen Menschen oder Heiligen,
+　超然名之曰祖。	der all dies überschreitet, der wird Patriarch genannt.
+#+END_VERSE¶
+
+衒之聞偈，	Da Xuanzhi diesen Vers hörte,
+悲喜交并曰︰	wechselten sich tiefe Empfindungen der Trauer und Freude ab, schließlich sagte er:
+「願師久住世間，	"Ich bitte Sie, Meister, bleiben Sie in der Welt
+化導¶群有。」	und führen Sie die Lebewesen für immer."
+
+師曰︰	Bodhidharma antwortete:
+「吾即逝矣！	"Ich werde bald gehen
+不可久留。	und kann nicht mehr lange bleiben.
+根性萬差，	Da die Natur auf zehntausendfache Weise Unterschiede hervorbringt,
+多¶逢患難。」	habe ich viele Schwierigkeiten überstanden."
+
+衒之曰︰	Xuanzhi fragte:
+「未審何人？	"Wer hat Ihnen etwas angetan?
+弟子為師除得。」	Ich will gerne alle auslöschen für Sie, Meister."
+
+師¶曰︰	Bodhidharma sagte:
+「吾以傳佛祕密，	"Da ich das Dharma Buddhas heimlich übertragen habe,
+利益迷途，	habe ich denen genützt, die falschen Wegen folgen.
+害彼自安，	Wer anderen schadet, kann selbst nicht sicher sein,
+必無¶此理。」	wie könnte das auch anders sein."
+
+衒之曰︰	Xuanzhi sagte:
+「師若不言，	"Meister, wenn Sie nicht davon sprechen,
+何表通變觀照之力？」	woher könnte ich Mittel nehmen, die Situation zu ändern?"
+
+¶師不獲已，	Der Meister konnte nun nicht an sich halten
+乃為讖曰︰	und machte folgende Voraussage:
+#+BEGIN_VERSE
+「江槎分玉浪，	"Ein Floss auf dem Fluss durchschneidet die jadenen Wellen,
+管炬開金¶鎖。	und eine Flamme durchschneidet sogar Metall.
+五口相共行，	Fünf Münder werden zusammen üben
+九十無彼我。」	neun oder zehn halten nicht zu mir."
+#+END_VERSE
+
+衒之聞語，	Xuanzhi hörte diese Worte,
+莫究¶其端，	konnte sie aber nicht begreifen.
+默記于懷，	Ohne etwas zu sagen bemühte er sich, sie genau im Gedächtnis zu behalten,
+禮辭而去。	verbeugte sich und ging.
+師之所讖，	Die Vorhersage des Meisters
+雖當時¶不測，	wurde zu diesem Zeitpunkt nicht verstanden,
+而後皆符驗。	später zeigte sich aber ihre Bedeutung.
+**** 魏氏奉釋
+時魏氏奉釋，	Zu jener Zeit unterstützte die regierende Wei Dynastie den Buddhismus
+禪俊如林。	und Männer, die in Meditation geübt waren, waren zahlreich wie Bäume im Wald.
+光¶統律師、	Vinaya Meister Guangtong
+流支三藏者，	und Tripitaka Meister Bodhiruci
+乃僧中之鸞鳳也。	wurden als die beiden außergewöhnlichsten unter den Mönchen angesehen.
+:zhu:
+鸞鳳 [luan2feng4] ② 〈trad.〉 distinguished talents
+:end:
+覩師¶演道，	Sie sahen, wie Bodhidharma den Weg erläuterte,
+斥相指心。	indem er die Formen verwarf und auf den Geist verwies.
+每與師論議，	Jedesmal, wenn sie mit dem Meister debattierten,
+是非鋒起，	waren die Argumente für und wieder [so hitzig] wie ein aufgescheuchter Bienenschwarm.
+師遐¶振玄風，	Bodhidharma erweckte auch den entferntesten Wind der Mysterien
+普施法雨。	und brachte ihn dazu, den Regen des Dharma zu bringen.
+而偏局之量，	Aber ihre Fähigkeit reichte nicht aus,
+自不堪任，	um dies auch nur einmal zu vollbringen.
+競¶起害心，	Neid erhob sich in ihnen und sie trachteten danach, ihm zu schaden
+數加毒藥。	und viele Male versuchten sie ihn zu vergiften.
+至第六度，	Beim sechsten Mal,
+以化緣已畢，	da Bodhidharma ja seine Mission vollbracht 
+傳¶法得人，	und das Dharma übertragen hatte,
+遂不復救之。	machte er keinen Versuch sich zu retten.
+端居而逝，	In aufrechter Meditationshaltung ging er hinüber,
+即後魏孝明¶帝太和十九年丙辰歲十月五日也	dies war am 5. Tag des 10. Monats im  19. Jahr der Ära Taihe unter der Regierung des Kaisers Xiaoming der späteren Wei Dynastie.
+(依續法記。
+則十月五日
+<pb:ZB6q0003_T_003-0220b>
+¶乃孝莊帝永安元年。
+即梁大通二年戊申歲。
+其年即明帝武泰元年也。
+二月明帝崩。
+四月莊帝即位。
+改元建義。
+至¶九月又改永安也。
+後云。
+汝主已厭世。
+謂是歲明帝崩也。
+據傳燈云。
+丙辰歲即東魏文帝大統二年。
+西魏靜帝天平¶三年。
+梁大同二年。
+與厭世之說全乖也。
+又太和十九年。
+乃後魏文帝時。
+即南齊明帝建武二年乙亥歲。
+殊相遼邈¶耳)。
+其年十二月二十八日，	Im 12. Monat desselben Jahres
+葬熊耳山。，	wurde er am Ershan beigesetzt
+起塔於定¶林寺。	und am Dinglin Tempel wurde ihm zu Ehren ein Stupa errichtet.
+
+後三歲，	Drei Jahre später
+魏宋雲奉使西域迴，	sandten die Wei einen Botschafter nahmens Song Yun in die westlichen Gebiete.
+遇師于葱¶嶺，	In den Congling Bergen begegnete dieser dem Meister
+:zhu:
+葱嶺 [cong1ling3] Berge in der Gegend des Pamir, Himalaya?
+:end:
+見手携隻履，	Er sah, wie er in einer Hand einen Sandalen trug 
+翩翩獨逝，	und elegant und in Einsamkeit seiner Wege ging.
+雲問︰	Song Yun fragte:
+「師何往？」	"Meister, wohin gehen Sie?"
+
+師¶曰︰	Bodhidharma antwortete:
+「西天去。」	"Ich gehe nach Westen."
+又謂雲曰︰	Und noch einmal wandte er sich an Song Yun:
+「汝主已厭世。」	"Euer Herr hat die Welt verlassen."
+
+雲聞之茫¶然，	Song Yun war sehr überrascht, dies zu hören.
+
+別師東邁。	Nachdem er Boddhidharma verlassen und nach Osten zurückgekehrt war,
+暨復命，	um von seiner Mission zu berichten,
+即明帝已登遐矣！	hörte er, daß Kaiser Xiaoming schon gestorben war!
+而¶孝莊即位，	Nachdem der Nachfolger, Kaiser Xiaozhuang den Thron bestiegen hatte,
+雲具奏其事，	berichtete Song Yun ihm in allen Einzelheiten, was sich zugetragen hatte.
+帝令啟壙，	Der Kaiser befahl, das Grab zu öffnen,
+唯空棺，	aber es enthielt nur einen leeren Sarg,
+¶一隻革履存焉	indem sich eine einzelne, lederne Sandale fand.
+(若依續法記。
+則後三歲乃莊帝永安三年庚戌歲。
+當梁武中大通二年也。
+其¶年十二月莊帝方崩。
+奉使迴時帝尚在耳。
+若據傳燈。
+則後三歲乃已未歲。
+即西魏文帝大統五年。
+東魏靜帝興和元¶年。
+當梁武大同五年也。
+如此則豈復有孝莊帝耶。
+又稱宋雲遇師於葱嶺。
+尤誤也。
+宋雲使西域迴時。
+已在魏明帝正¶光年中矣。
+然則遇師於葱嶺者。
+蓋是魏末別遣使往西域迴耳○但當云。
+後三歲魏使有自西域迴者。
+遇師於葱嶺。
+¶見手携隻履翩翩獨逝。
+問師何往。
+曰西天去。
+又謂使曰。
+汝主已厭世。
+使聞之茫然別師東邁。
+暨復命即明帝已登¶遐矣。
+而孝莊即位。
+奉使具奏其事。
+帝令啟壙。
+唯空棺一隻革履存焉)。
+舉朝為之驚歎，	Der ganze Hof war aufs höchste erstaunt
+奉¶詔取遺履，	und die Sandale wurde mit einem kaiserlichen Boten
+於少林寺供養。	zum Shaolin Tempel gesandt und bekam dort ein Objekt der Verehrung.
+至唐開元十五年¶丁卯歲，		Dort blieb sie bis zum 15. Jahr der Ära Kaiyuan der Tang Dynastie, 
+為信道者竊在五臺華嚴寺。	als sie von einem Verehrer gestohlen und in den Huayan Tempel in den Wutai Bergen gebracht wurde.
+今不知¶所在。	Wo sie sich heute befindet ist nicht bekannt.
+
+初，梁武遇師，	Zuerst war Kaiser Wu der Liang Dynastie dem Meister Boddhidharma begegnet,
+因緣未契，	aber ihre Beziehung war nicht harmonisch.
+及聞化行魏邦，	Später hörte dieser von Boddhidharmas Wirken im Reich der Wei
+¶遂欲自撰師碑，	und hatte die Absicht, eine Stele für ihn zu verfassen,
+而未暇也。	diese Absicht wurde aber niemals verwirklicht.
+後聞宋雲事，	Nachdem er nun von Song Yuns Bericht hörte,
+乃成¶之。	verfasste er eine Stele.
+代宗諡圓覺大師，	[Zu einem späteren Zeitpunkt] gab Kaiser Daizong [der Tang] ihm den posthumen Ehrennamen 'Meister der vollkommenen Erleuchtung'
+塔曰空觀。	und nannte seinen Stupa 'Beobachtung der Leere'.
+師自魏丙辰¶歲告寂，	Seit dem Jahr seines Todes in der Zeit der Wei Dynastie
+迄皇宋景德元年甲辰，	bis zum ersten Jahr der Ära Jingde unserer Song Dynastie,
+得四百六十¶七年矣	sind insgesamt 467 Jahre vergangen.
+(當云自魏至庚子歲告寂。
+迄皇宋景德元年甲辰得四百七十五年矣。
+凡此年代之差。
+皆由寶¶林傳錯誤而楊文公不復考究耳)。¶
+*** 第二十九祖慧可大師	29. Patriarch Huike
+    CLOSED: [2011-08-31 Wed 16:00]
+**** 
+第二十九祖慧可大師者，	Der 29. Patriarch Huike
+武牢人也，	stammte aus Wulao,
+姓姬氏。	sein Familienname war Ji.
+¶父寂，	Als sein Vater alleine
+未有子時，	und noch ohne Kinder war,
+嘗自念言︰	da dachte er bei sich:
+「我家崇善，	"Unsere Familie hat immer das Gute respektiert,
+豈無令¶子？」	warum sollten wir nicht ein Kind haben können?"
+禱之既久，	Er betete lange auf diese Weise.
+一夕，	Eines Nachts
+感異光照室，	bemerkte er einen merkwürdigen Glanz, der das Zimmer durchdrang,
+其母因而懷¶妊。	und seine Frau wurde in der Folge schwanger.
+及長，	Wegen des
+遂以照室之瑞，	glückverheißendes Omen des erleuchteten Zimmers,
+名之曰光。	wurde er Guang (Glanz) genannt.
+
+
+自幼志氣<pb:ZB6q0003_T_003-0220c>¶不群，	Schon von Kindheit an hatte er Interessen, die ihn von anderen Kindern unterschieden,
+博涉詩書，	er studierte viel, etwa das /Buch der Lieder/ oder das /Buch der Dokumente/,
+尤精玄理，	besonders interessierten ihn aber die mysteriösen Prinzipien,
+而不事家產，	während ihn familiäre Angelegenheiten und Finanzen nicht interessierten.
+好遊¶山水，	Gerne erging er sich in Bergen und an Flüssen,
+後覽佛書。	später wandte er sich vor allem buddhistischen Werken zu.
+超然自得，	Er lebte unabhängig als Einsiedler,
+即抵洛陽龍門香¶山，	und ging schließlich zum Longmen Tempel in Luoyang,
+依寶靜禪師出家，	wo er unter dem Chan-Meister Baojing die ersten Gelübde als hausloser Mönch ablegte,
+受具於永穆寺。	volle Ordination erlangete er dann im Yongmu Tempel.
+浮游講¶肆，	Schließlich reiste er zu allen buddhistischen Stätten 
+遍學大小乘義。	und lernte alles über das große und kleine Fahrzeug.
+
+
+年三十二，	Im Alter von 32 Jahren
+却返香山，	kam er zurück zu dem Tempel am Xiang Berg,
+終日¶宴坐。	und blieb dort den ganzen Tag in sitzender Meditation.
+又經八載，	Nachdem auf diese Weise acht Jahre vergangen waren,
+於寂默中，	hatte er während seiner Meditation eine Vision,
+倏見一神人，	plötzlich sah er ein göttliches Wesen,
+謂曰︰	der sagte zu ihm:
+「¶將欲受果，	"Du wünscht die große Frucht zu erreichen,
+何滯此耶？	warum bleibst du dann hier?
+大道匪遙，	Der große Weg ist nicht weit,
+汝其南矣。」	wende dich nach Süden."
+光¶知神助，	Da Guang erkannte, daß er göttliche Hilfe bekommen hatte,
+因改名神光。	nannte er sich von nun an Shenguang ('göttlicher Glanz').
+
+翌日，	Am folgenden Tag
+覺頭痛如刺，	fühlte er stechende Schmerzen im Kopf,
+其師¶欲治之，	als aber sein Meister diese behandeln wollte,
+空中有聲曰︰	sagte eine Stimme von oben:
+「此乃換骨，	"Die Knochen sind dabei sich zu verändern,
+:zhu:
+換骨 [huan4gu3] def0101: v.o. ① 〈Dao.〉 change mortal into immortal bones ② effect a basic/fundamental change
+:end:
+非常痛也。」	das ist kein gewöhnlicher Schmerz."
+光¶遂以見神事白於師。	Nun berichtete Shenguang dem Meister davon, daß er ein göttliches Wesen gesehen hatte.
+
+師視其頂骨，	Der Meister untersuchte nun den Schädelknochen genauer.
+即如五峯¶秀出矣，	Es sah aus, als hätten sich fünf Gipfel erhoben.
+乃曰︰	Daher sagte er:
+「汝相吉祥，	"Das ist ein gutes Vorzeichen,
+當有所證，	für das du bald einen Beweis haben wirst.
+神令汝南¶者，	Die göttliche Anweisung, daß du nach Süden gehen sollst,
+斯則少林達磨大士必汝之師也。」	bedeutet das der große Meister Bodhidharma im Shaolin Tempel dein Lehrer sein wird."
+
+光受教，	Nachdem er diese Unterweisung bekommen hatte,
+¶造于少室。	begab er sich zum Berg Shaoshi,
+:zhu:
+少室 [shao4shi4] Der Berg, an dem das Tempelkloster Shaolin liegt.
+:end:
+其得法、	und erhielt die Überlieferung des Dharma,
+傳衣事跡，	die durch Übertragung der Robe bestätigt wurde,
+〈達磨章〉	im /Abschnitt von Bodhidharma/
+具之矣。¶	werden die Details genau berichtet.
+
+**** 
+自少林託化西歸，	Nachdem er von Bodhidharma die Überlieferung empfangen hatte und dieser nach Westen zurückgekehrt war,
+大師繼闡玄風，	Huike fuhr fort in seinen Unterweisungen der geheimnisvollen Lehre fort
+:zhu:
+玄風 [xuan4feng4] 玄談的風尚。 // Begriff des Xuantan??
+:end:
+博求法嗣。¶	und suchte nach einem Dharma Erben.
+
+至北齊天平二年	Im zweiten Jahr der Ära Taiping der nördlichen Qi Dynastie,
+(當作天保二年乃辛未歲也。
+天平東魏年號二年乙卯也)
+有¶一居士，	erschien ein buddhistischer Laie,
+年踰四十，	im Alter von etwa vierzig Jahren.
+不言名氏，	Er gab seinen Namen nicht,
+聿來設禮，	aber sein Benehmen verriet Bildung.
+而問¶師曰︰	er fragte den Meister:
+「弟子身纏風恙，	"Mein Körper ist von krankhaftem Wind befallen,
+:zhu:
+風恙 [feng4yang4]  Krankheit in der chinesischen Medizin, 
+:end:
+請和尚懺罪。」	ich bitte Sie verehrter Mönch, bitte bekennen Sie die Sünden für mich."
+
+師曰︰	Huike sagte:
+「將罪¶來，	"Wenn du mir deine Sünden bringst,
+與汝懺。」	dann werde ich sie für dich bekennen."
+
+居士良久云︰	Der Laie blieb eine Weile still und sagte dann:
+「覓罪不可得。」	"Ich habe überall gesucht, kann aber die Sünden nicht finden!"
+
+師曰︰	Daraufhin antwortete Huike:
+「¶我與汝懺罪竟，	"Nun habe ich deine Sünden für dich bekannt.
+宜依佛法僧住。」	Du solltest nun gemäß der Lehre Buddhas wie ein Mönch leben."
+
+曰︰	Er sagte:
+「今見和尚，	"Da ich Sie sehe, verehrter Mönch,
+¶已知是僧，	verstehe ich was der Sangha ist,
+未審何名佛法？」	was ich nicht verstehe ist, was ist es das man die Lehre Buddhas nennt?"
+
+師曰︰	Huike antwortete:
+「是心是佛，	"Dieser Geist ist Buddha,
+是¶心是法，	dieser Geist ist auch die Lehre
+法佛無二，	Lehre und Buddha sind nicht zwei,
+僧寶亦然。」	auch mit dem [dritten] Schatz, dem Sangha verhält es sich ebenso."
+
+
+曰︰	Der Laie meinte:
+「今日始知罪¶性不在內，	"Heute verstehe ich zum ersten Mal, daß die Essenz der Sünde nicht innen 
+不在外，	nicht außen,
+不在中間。	und auch nicht in der Mitte ist.
+如其心然，	Ebenso verhält es sich mit dem Geist
+佛法¶無二也。」	und der Lehre Buddhas, welche nichts verschiedenes sind."
+
+大師深器之，	Huike erkannte seine Befähigung zum Verstehen der Lehre
+即為剃髮︰	und beschnitt ihm die Haare, dabei sagte er:
+:zhu:
+剃髮 [ti4fa4]  und machte ihn damit zum Novizen.
+:end:
+「云是吾寶也！	"Du bist mein Schatz.
+¶宜名僧璨。」	Ich nenne dich von nun an Sengcan."
+其年三月十八日，	Am 18. Tag des 3. Monats desselben Jahres,
+於光福寺受具。	empfing er im Guangfu Tempel die volle Ordination.
+¶自茲，	Von da an
+疾漸愈。	erholte er sich langsam von seiner Krankheit.
+
+執侍經二載，	Hernach diente er Huike für zwei Jahre als Aufwärter.
+大師乃告曰︰	Schließlich sagte er zu ihm:
+「菩提¶達磨	"Bodhidharma,
+(舊本云達磨菩提)
+遠自竺乾以正法眼藏密付於¶吾，	kam aus dem fernen Indien und Gandhara um das Geheimnis des Wahren Dharma Auges an mich zu übermitteln,
+吾今授汝，	dieses übergebe ich nun an dich,
+并達磨信衣，	zusammen mit der Robe des Glaubens von Bodhidharma.
+汝當守護，	Du sollst sie gut behüten
+無令斷¶絕，	und darauf achten, daß die [Überlieferung] nicht abbricht.
+聽吾偈曰︰¶	Höre meinen Vers:
 
 #+BEGIN_VERSE
-「　師壽於百歲
-　八十而造非¶
-　為近至尊故
-　熏修而入道¶
-　雖具少智慧
-　而多有彼我¶
-　所見諸賢等
-　未嘗生珍敬¶
-　二十年功德
-　其心未恬靜¶
-　聰明輕慢故
-　而獲至於此¶
-　得王不敬者
-　當感果如是¶
-　自今不疎怠
-　不久成奇智¶
-　諸聖悉存心
-　如來亦復爾
+『本來緣有地，	'Da es zu Beginn durch karmische Verbindung Boden gibt,
+　因地種華生。¶	werden aus Samen auf diesem Boden Blumen wachsen.
+　本來無有種，	Wenn es nicht zuerst einen Samen gäbe,
+　華亦不曾生。』」	dann könnte auch keine Blume entstehen.'"
 #+END_VERSE
-」¶
-
-宗勝聞偈欣然。即於巖間宴坐。時異見王復¶
-問波羅提曰。仁者智辯當師何人。答曰。我所¶
-出家。即娑羅寺烏沙婆三藏為授業師。其出¶
-世師者即大王叔菩提達磨是也。王聞師名¶
-驚駭久之。曰。鄙薄忝嗣王位。而趣邪背正忘¶
-我尊叔。遽勅近臣特加迎請。師即隨使而至。¶
-為王懺悔往非。王聞規誡泣謝于師。又詔宗¶
-勝歸國。大臣奏曰。宗勝被謫投崖。今已亡矣。¶
-王告師曰。宗勝之死皆自於吾。如何大慈令¶
-免斯罪。師曰。宗勝今在巖間宴息。但遣使召¶
-當即至矣。王即遣使入山果見宗勝端居禪¶
-寂。宗勝蒙召乃曰。深媿王意。貧道誓處巖泉。¶
-且王國賢德如林。達磨是王之叔。六眾所師。¶
-波羅提法中龍象。願王崇仰二聖以福皇基。¶
-使者復命。未至師謂王曰。知取得宗勝否。王¶
-曰。未知。師曰。一請未至。再命必來。良久使¶
-還果如師語。師遂辭王曰。當善修德不久疾¶
-作。吾且去矣。經七日王乃得疾。國醫診治有
-<pb:ZB6q0003_T_003-0219a>¶
-加無瘳。貴戚近臣憶師前記。急發使告師曰。¶
-王疾殆至彌留。願叔慈悲遠來軫救。師即至¶
-王所慰問其疾。時宗勝再承王召。即別巖間。¶
-波羅提久受王恩亦來問疾。波羅提曰。當何¶
-施為令王免苦。師即令太子為王宥罪施恩¶
-崇奉僧寶。復為王懺悔云。願罪消滅。如是者¶
-三。王疾有間。師心念。震旦緣熟行化時至。乃¶
-先辭祖塔。次別同學。然至王所慰而勉之曰。¶
-當勤修白業護持三寶。吾去非晚一九即迴。¶
-王聞師言涕淚交集。曰此國何罪彼土何祥。¶
-叔既有緣非吾所止。唯願不忘父母之國。事¶
-畢早回。王即具大舟實以眾寶。躬率臣寮送¶
-至海壖。師汎重溟凡三周寒暑達于南海。實¶
-梁普通八年丁未歲九月二十一日也。廣州¶
-刺史蕭昂具主禮迎接。表聞武帝。帝覽奏遣¶
-使齎詔迎請。十月一日至金陵(嵩禪師以梁僧寶唱續法記為據作¶
-正宗記言。達磨以梁武普通元年庚子歲至此土。其年乃後魏明帝正光元年也。若如此則與後入滅啟壙等年皆相¶
-合。若據此稱。普通八年丁未歲九月二十一日至南海。十月一日至金陵則甚誤也。蓋普通八年三月已改為大通元¶
-年。則九月不應尚稱普通八年也。南海者今廣州也。去金陵數千里。刺史奏聞而武帝詔迎。豈可十日之間便至金¶
-陵耶。又按南史蕭昂本傳。不言昂為廣州刺史。但王茂傳末有廣州長史蕭昂。然不知何年在任。今止可云○達于¶
-南海實梁普通元年。廣州刺史具主禮迎接。表聞武帝。帝覽奏遣使齎詔迎請。十月一日至金陵)。帝問¶
-曰。朕即位已來。造寺寫經度僧不可勝紀。有¶
-何功德。師曰。並無功德。帝曰。何以無功德。¶
-師曰。此但人天小果有漏之因。如影隨形雖¶
-有非實。帝曰。如何是真功德。答曰。淨智妙圓¶
-體自空寂。如是功德不以世求。帝又問。如何¶
-是聖諦第一義。師曰。廓然無聖。帝曰。對朕者¶
-誰。師曰。不識。帝不領悟。師知機不契。是月
-<pb:ZB6q0003_T_003-0219b>¶
-十九日潛迴(廣燈迴作過字)江北。十一月二十三日屆¶
-于洛陽當後魏孝明太和十年也(當云後魏孝明正光元年也。¶
-若據太和十年乃後魏文帝時是年即南齊武帝永明四年丙寅歲也)。寓止于嵩山少林¶
-寺。面壁而坐終日默然。人莫之測。謂之壁觀¶
-婆羅門。時有僧神光者。曠達之士也。久居伊¶
-洛。博覽群書善談玄理。每歎曰。孔老之教禮¶
-術風規。莊易之書未盡妙理。近聞。達磨大士¶
-住止少林。至人不遙。當造玄境。乃往彼晨夕¶
-參承。師常端坐面牆。莫聞誨勵。光自惟曰。昔¶
-人求道敲骨取髓刺血濟饑。布髮掩泥投崖¶
-飼虎。古尚若此。我又何人。其年十二月九日¶
-夜天大雨雪。光堅立不動。遲明積雪過膝。師¶
-憫而問曰。汝久立雪中。當求何事。光悲淚曰。¶
-惟願和尚慈悲。開甘露門廣度群品。師曰。諸¶
-佛無上妙道。曠劫精勤。難行能行非忍而忍。¶
-豈以小德小智輕心慢心。欲冀真乘徒勞勤¶
-苦。光聞師誨勵。潛取利刀自斷左臂。置于師¶
-前。師知是法器。乃曰。諸佛最初求道為法忘¶
-形。汝今斷臂吾前。求亦可在。師遂因與易名¶
-曰慧可。光曰。諸佛法印可得聞乎。師曰諸佛¶
-法印匪從人得。光曰。我心未寧。乞師與安。師¶
-曰。將心來與汝安。曰覓心了不可得。師曰。我¶
-與汝安心竟。後孝明帝聞師異跡。遣使齎詔¶
-徵前後三至。師不下少林。帝彌加欽尚。就賜¶
-摩衲袈裟二領。金鉢銀水瓶繒帛等。師牢讓¶
-三返。帝意彌堅。師乃受之。自爾緇白之眾倍¶
-加信向。迄九年已欲西返天竺。乃命門人曰。¶
-時將至矣。汝等蓋各言所得乎。時門人道副¶
-對曰。如我所見。不執文字不離文字而為道
-<pb:ZB6q0003_T_003-0219c>¶
-用。師曰。汝得吾皮。尼總持曰。我今所解如慶¶
-喜見阿閦佛國。一見更不再見。師曰。汝得吾¶
-肉。道育曰。四大本空五陰非有。而我見處無¶
-一法可得。師曰。汝得吾骨。最後慧可禮拜後¶
-依位而立。師曰。汝得吾髓。乃顧慧可而告¶
-之曰。昔如來以正法眼付迦葉大士。展轉囑¶
-累而至於我。我今付汝。汝當護持。并授汝袈¶
-裟以為法信。各有所表宜可知矣。可曰。請師¶
-指陳。師曰。內傳法印以契證心。外付袈裟以¶
-定宗旨。後代澆薄疑慮競生。云吾西天之人。¶
-言汝此方之子。憑何得法以何證之。汝今受¶
-此衣法。却後難生但出此衣并吾法偈。用以¶
-表明其化無礙。至吾滅後二百年。衣止不傳¶
-法周沙界。明道者多。行道者少。說理者多。通¶
-理者少。潛符密證千萬有餘。汝當闡揚勿輕¶
-未悟。一念迴機便同本得。聽吾偈曰。¶
-
-#+BEGIN_VERSE
-「　吾本來茲土
-　傳法救迷情¶
-　一華開五葉
-　結果自然成
-#+END_VERSE
-」¶
-
-師又曰。吾有楞伽經四卷。亦用付汝(此蓋依寶林傳之說¶
-也。按宣律師續高僧傳。可大師傳云。初達磨以楞伽經授可曰。我觀漢地唯有此經。仁者依行自得度世。若如傳所¶
-言。則是二祖未得法時。達磨授楞伽使觀之耳。今傳燈乃於付法傳衣之後言。師又曰。吾有楞伽經四卷。亦用付¶
-汝。則恐誤也。兼言吾有。則似世間未有也。此但可依馬祖所言云。又引楞伽經文。以印眾生心地。則於理無害耳)。¶
-即是如來心地要門。令諸眾生開示悟入。吾¶
-自到此凡五度中毒。我常自出而試之。置石¶
-石裂。緣吾本離南印來此東土。見赤縣神州¶
-有大乘氣象。遂踰海越漠為法求人。際會未¶
-諧如愚若訥。今得汝傳授吾意已終(別記云。師初居少林¶
-寺九年。為二祖說法秖教曰外息諸緣內心無喘。心如牆壁可以入道。慧可種種說心性理。道未契。師秖遮其非
-<pb:ZB6q0003_T_003-0220a>¶
-不為說無念心體。慧可曰。我已息諸緣。師曰。莫不成斷滅去否。可曰。不成斷滅。師曰。何以驗之云不斷滅。可¶
-曰。了了常知故。言之不可及。師曰。此是諸佛所傳心體。更勿疑也)言已乃與徒眾¶
-往禹門千聖寺止三日。有期城太守揚衒之¶
-早慕佛乘。問師曰。西天五印師承為祖。其道¶
-如何。師曰。明佛心宗行解相應。名之曰祖。又¶
-問。此外如何。師曰。須明他心知其今古。不厭¶
-有無於法無取。不賢不愚無迷無悟。若能是¶
-解故稱為祖。又曰。弟子歸心三寶亦有年矣。¶
-而智慧昏蒙尚迷真理。適聽師言罔知收措。¶
-願師慈悲開示宗旨。師知懇到。即說偈曰。¶
-
-#+BEGIN_VERSE
-「　亦不覩惡而生嫌
-　亦不觀善而勤措¶
-　亦不捨智而近愚
-　亦不拋迷而就悟¶
-　達大道兮過量
-　通佛心兮出度¶
-　不與凡聖同躔
-　超然名之曰祖
-#+END_VERSE
-」¶
-
-衒之聞偈悲喜交并曰。願師久住世間化導¶
-群有。師曰。吾即逝矣不可久留。根性萬差多¶
-逢患難。衒之曰。未審何人。弟子為師除得。師¶
-曰。吾以傳佛祕密利益迷途。害彼自安必無¶
-此理。衒之曰。師若不言。何表通變觀照之力。¶
-師不獲已乃為讖曰。江槎分玉浪。管炬開金¶
-鎖。五口相共行。九十無彼我。衒之聞語。莫究¶
-其端。默記于懷禮辭而去。師之所讖。雖當時¶
-不測。而後皆符驗。時魏氏奉釋禪俊如林。光¶
-統律師流支三藏者乃僧中之鸞鳳也。覩師¶
-演道斥相指心。每與師論議是非鋒起。師遐¶
-振玄風普施法雨而偏局之量自不堪任。競¶
-起害心數加毒藥。至第六度。以化緣已畢傳¶
-法得人。遂不復救之端居而逝。即後魏孝明¶
-帝太和十九年丙辰歲十月五日也(依續法記。則十月五日
-<pb:ZB6q0003_T_003-0220b>¶
-乃孝莊帝永安元年。即梁大通二年戊申歲。其年即明帝武泰元年也。二月明帝崩。四月莊帝即位。改元建義。至¶
-九月又改永安也。後云。汝主已厭世。謂是歲明帝崩也。據傳燈云。丙辰歲即東魏文帝大統二年。西魏靜帝天平¶
-三年。梁大同二年。與厭世之說全乖也。又太和十九年。乃後魏文帝時。即南齊明帝建武二年乙亥歲。殊相遼邈¶
-耳)。其年十二月二十八日葬熊耳山。起塔於定¶
-林寺。後三歲魏宋雲奉使西域迴。遇師于葱¶
-嶺。見手携隻履翩翩獨逝。雲問。師何往。師¶
-曰。西天去。又謂雲曰。汝主已厭世。雲聞之茫¶
-然。別師東邁。暨復命。即明帝已登遐矣。而¶
-孝莊即位。雲具奏其事。帝令啟壙。唯空棺¶
-一隻革履存焉(若依續法記。則後三歲乃莊帝永安三年庚戌歲。當梁武中大通二年也。其¶
-年十二月莊帝方崩。奉使迴時帝尚在耳。若據傳燈。則後三歲乃已未歲。即西魏文帝大統五年。東魏靜帝興和元¶
-年。當梁武大同五年也。如此則豈復有孝莊帝耶。又稱宋雲遇師於葱嶺。尤誤也。宋雲使西域迴時。已在魏明帝正¶
-光年中矣。然則遇師於葱嶺者。蓋是魏末別遣使往西域迴耳○但當云。後三歲魏使有自西域迴者。遇師於葱嶺。¶
-見手携隻履翩翩獨逝。問師何往。曰西天去。又謂使曰。汝主已厭世。使聞之茫然別師東邁。暨復命即明帝已登¶
-遐矣。而孝莊即位。奉使具奏其事。帝令啟壙。唯空棺一隻革履存焉)。舉朝為之驚歎奉¶
-詔取遺履。於少林寺供養。至唐開元十五年¶
-丁卯歲。為信道者竊在五臺華嚴寺。今不知¶
-所在。初梁武遇師因緣未契。及聞化行魏邦。¶
-遂欲自撰師碑而未暇也。後聞宋雲事乃成¶
-之。代宗諡圓覺大師。塔曰空觀。師自魏丙辰¶
-歲告寂。迄皇宋景德元年甲辰。得四百六十¶
-七年矣(當云自魏至庚子歲告寂。迄皇宋景德元年甲辰得四百七十五年矣。凡此年代之差。皆由寶¶
-林傳錯誤而楊文公不復考究耳)。¶
-
-*** 第二十九祖慧可大師
-第二十九祖慧可大師者武牢人也。姓姬氏。¶
-父寂未有子時。嘗自念言。我家崇善豈無令¶
-子。禱之既久。一夕感異光照室。其母因而懷¶
-妊。及長遂以照室之瑞。名之曰光。自幼志氣
-<pb:ZB6q0003_T_003-0220c>¶
-不群。博涉詩書尤精玄理。而不事家產好遊¶
-山水。後覽佛書超然自得。即抵洛陽龍門香¶
-山。依寶靜禪師出家受具。於永穆寺浮游講¶
-肆。遍學大小乘義。年三十二却返香山。終日¶
-宴坐又經八載。於寂默中倏見一神人。謂曰。¶
-將欲受果何滯此耶。大道匪遙。汝其南矣。光¶
-知神助因改名神光。翌日覺頭痛如刺。其師¶
-欲治之。空中有聲曰。此乃換骨非常痛也。光¶
-遂以見神事白於師。師視其頂骨即如五峯¶
-秀出矣。乃曰。汝相吉祥當有所證。神令汝南¶
-者。斯則少林達磨大士必汝之師也。光受教¶
-造于少室。其得法傳衣事跡。達磨章具之矣。¶
-自少林託化西歸。大師繼闡玄風博求法嗣。¶
-至北齊天平二年(當作天保二年乃辛未歲也。天平東魏年號二年乙卯也)有¶
-一居士年踰四十不言名氏。聿來設禮而問¶
-師曰弟子身纏風恙。請和尚懺罪。師曰。將罪¶
-來與汝懺。居士良久云。覓罪不可得。師曰。¶
-我與汝懺罪竟。宜依佛法僧住。曰今見和尚¶
-已知是僧。未審何名佛法。師曰。是心是佛。是¶
-心是法。法佛無二。僧寶亦然。曰今日始知罪¶
-性不在內不在外不在中間。如其心然佛法¶
-無二也。大師深器之。即為剃髮。云是吾寶也。¶
-宜名僧璨。其年三月十八日於光福寺受具。¶
-自茲疾漸愈。執侍經二載。大師乃告曰。菩提¶
-達磨(舊本云達磨菩提)遠自竺乾以正法眼藏密付於¶
-吾。吾今授汝并達磨信衣。汝當守護無令斷¶
-絕。聽吾偈曰。¶
-
-#+BEGIN_VERSE
-「　本來緣有地
-　因地種華生¶
-　本來無有種
-　華亦不曾生
-#+END_VERSE
-」
 <pb:ZB6q0003_T_003-0221a>¶
+**** 
 
-大師付衣法已。又曰。汝受吾教宜處深山。未¶
-可行化當有國難。璨曰。師既預知。願垂示誨。¶
-師曰。非吾知也。斯乃達磨傳般若多羅懸記¶
-云。心中雖吉外頭凶是也。吾校年代正在于¶
-茲。當諦思前言勿罹世難。然吾亦有宿累。今¶
-要酬之。善去善行俟時傳付。大師付囑已。即¶
-於鄴都隨宜說法。一音演暢四眾歸依。如是¶
-積三十四載。遂韜光混跡變易儀相。或入諸¶
-酒肆。或過於屠門。或習街談。或隨廝役。人問¶
-之曰。師是道人何故如是。師曰。我自調心何¶
-關汝事。又於筦城縣匡救寺三門下。談無上¶
-道聽者林會。時有辯和法師者。於寺中講涅¶
-槃經。學徒聞師闡法稍稍引去。辯和不勝其¶
-憤。興謗于邑宰翟仲侃。仲侃惑其邪說。加師¶
-以非法。師怡然委順。識真者謂之償債。時年¶
-一百七歲。即隋文帝開皇十三年癸丑歲三¶
-月十六日也(皓月供奉。問長沙岑和尚。古德云。了即業障本來空。未了應須償宿債。只如師子尊¶
-者二祖大師。為什麼得償債去。長沙云。大德不識本來空。彼云。如何是本來空。長沙云。業障是。又問。如何是¶
-業障。長沙云。本來空是。彼無語。長沙便示一偈云。假有元非有。假滅亦非無。涅槃償債義。一性更無殊)後¶
-葬於磁州滏陽縣東北七十里。唐德宗諡大¶
-祖禪師。自師之化至皇宋景德元年甲辰。得¶
-四百一十三年(當作一十二年)。¶
+大師付衣法已，	Huike übergab ihm die Robe des Dharma
+又曰︰	und sagte:
+「汝受吾教，	"Nachdem du meine Lehre empfangen hast,
+宜處深山，	solltest du dich tief in den Bergen verbergen,
+未¶可行化，	und noch nicht anfangen, die Lehre zu verbreiten,
+當有國難。」	zunächst wird ein Unglück geschehen.
 
-**** 僧那禪師
-僧那禪師姓馬氏。少而神俊通究墳典。年二¶
-十一講禮易於東海。聽者如市。暨南徂相部¶
-學眾隨至。會二祖說法。與同志十人投祖出¶
-家。自爾手不執筆永捐世典。唯一衣一鉢¶
-一坐一食奉頭陀行。既久侍於祖後謂門人¶
-慧滿曰。祖師心印非專苦行。但助道耳。若契¶
-本心發隨意真光之用。則苦行如握土成金。
-<pb:ZB6q0003_T_003-0221b>¶
-若唯務苦行。而不明本心。為憎愛所縛。則苦¶
-行如黑月夜履于險道。汝欲明本心者。當審¶
-諦推察。遇色遇聲。未起覺觀時心何所之。是¶
-無耶是有耶。既不墮有無處所。則心珠獨朗¶
-常照世間。而無一塵許間隔。未嘗有一剎那¶
-頃斷續之相。故我初祖兼付楞伽經四卷。謂¶
-我師二祖曰。吾觀震旦唯有此經可以印心。¶
-仁者依行自得度世。又二祖凡說法竟。乃曰。¶
-此經四世之後變成名相。深可悲哉。我今付¶
-汝宜善護持。非人慎勿傳之。付囑已師乃遊¶
-方。莫知其終。¶
+璨曰︰	Sengcan antwortete:
+「師既預知，	"Meister, da du bereits davon weißt,
+願垂示誨。」	erzähle mir davon, damit ich es vermeiden kann."
 
-**** 向居士
-向居士。幽棲林野木食㵎飲。北齊天保初。聞¶
-二祖盛化乃致書通好曰。影由形起響逐聲來。¶
-弄影勞形不識形為影本。揚聲止響不知聲¶
-是響根。除煩惱而趣涅槃。喻去形而覓影。離¶
-眾生而求佛果。喻默聲而尋響。故知迷悟一¶
-途愚智非別。無名作名。因其名則是非生矣。¶
-無理作理。因其理則爭論起矣。幻化非真誰¶
-是誰非。虛妄無實何空何有。將知得無所得¶
-失無所失。未及造謁聊申此意。伏望答之(弄影¶
-當作棄影。唯恐當時筆誤耳。蓋第三十卷鎮國大師答皇太子問心要云。若求真去妄。猶棄影勞形。若體妄即真。似¶
-處陰休影。此用莊子之說。勞形謂走而避影也)。二祖大師命筆迴示曰。備¶
-觀來意皆如實。真幽之理竟不殊。本迷摩尼¶
-謂瓦礫。豁然自覺是真珠。無明智慧等無異。¶
-當知萬法即皆如。愍此二見之徒輩。申辭措¶
-筆作斯書。觀身與佛不差別。何須更覓彼無¶
-餘。居士捧披祖偈乃伸禮覲。密承印記。¶
+¶師曰︰	Huike sagte:
+「非吾知也，	"Ich habe selbst keine Kenntnis davon,
+斯乃達磨傳般若多羅懸記¶云	es ist eine Prophezeiung von Prajñātārā, die Bodhidharma mitgebracht hat, sie lautet:
+『心中雖吉外頭凶』	'Obwohl das innere des Geistes glückverheißend ist, ist doch die äußere Gestalt nicht glückverheißend'
+:zhu:
+心中雖吉外頭凶 [xin1zhong4wei4ji2wai4tou2xiong1] // von der Form her erinnert dies sehr an das Yijing.
+:end:
+是也。
+吾校年代，	Nach meiner Beurteilung des Zeitpunktes, 
+正在于¶茲，	wird es wohl zu deiner Zeit eintreten.
+當諦思前言，	Du solltest diese Prophezeiung gut im Geiste behalten,
+勿罹世難。	auf diese Weise kannst du dem Schaden entgehen.
+然吾亦有宿累，	Ich werde dagegen von schlechten Konstellationen heimgesucht
+今¶要酬之，	und muß mich dem stellen.
+善去善行，	Lebe wohl und gehe in Frieden,
+俟時傳付。」	zu einem späteren Zeitpunkt, verbreite die Lehre."
 
-**** 慧滿禪師
-相州隆化寺慧滿禪師。滎陽人也。姓張氏。始¶
-於本寺遇僧那禪師開示。志存儉約唯蓄二
-<pb:ZB6q0003_T_003-0221c>¶
-鍼。冬則乞補夏乃捨之。自言一生心無怯怖¶
-身無蚤虱睡而不夢。常行乞食住無再宿。所¶
-至伽藍則破柴製履。貞觀十六年於洛陽會¶
-善寺側。宿古墓中遇大雪。旦入寺見曇曠法¶
-師。曠怪所從來。師曰。法有來耶。曠遣尋來處。¶
-四邊雪積五尺許。曠曰。不可測也。尋聞有括¶
-錄事。諸僧逃隱。師持鉢周行聚落無所滯礙。¶
-隨得隨散索爾虛閑。有請宿齋者。師曰。天下¶
-無僧方受斯請也。又嘗示人曰。諸佛說心令¶
-知心。相是虛妄。今乃重加心相。深違佛意。又¶
-增論議殊乖大理。故常齎楞伽經四卷。以為¶
-心要。如說而行。蓋遵歷世之遺付也。後於陶¶
-冶中無疾坐化。壽七十許。¶
 
+大師付囑已，	Nachdem Huike so gesprochen hatte,
+即¶於鄴都隨宜說法，	ging er ins Gebiet der alten Stadt Ye und verbreite dort die Lehre in einer Weise, wie sie seinen Schülern angemessen war.
+一音演暢，	Wenn er mit seiner einen Stimme sprach,
+四眾歸依。	dann folgten im Mönche, Nonnen, männliche und weibliche Laien gleichermaßen.
+如是¶積三十四載，	Nachdem er dies 34 Jahre lang getan hatte,
+遂韜光混跡，	versuchte er seinen Glanz zu bedecken
+變易儀相，	und legte gewöhnliche Kleidung an.
+或入諸¶酒肆，	Nun ging er manchmal in Weinstuben,
+或過於屠門，	oder er ging auf den Schlachtermarkt,
+或習街談，	manchmal nahm er nur am lokalen Gerede teil,
+或隨廝役。	oder nahm sogar manuelle Arbeit an.
+人問¶之曰︰	Wenn die Leute ihn fragten:
+「師是道人，	"Warum benehmen Sie sich so, verehrter Meister, 
+何故如是？」	der Sie doch ein Mann des Weges sind?"
+師曰︰	So pflegte der Meister zu antworten:
+「我自調心，	"Ich stimme meinen Geist auf verschiedene Umgebungen ein.
+何¶關汝事？」	Was ist daran wohl deine Sache?"
+
+又於筦城縣匡救寺三門下。	Auch vor dem Tempeltor des Kuangjiu Tempels in Guancheng hielt er eine Predigt,
+談無上¶道，	und sprach von dem höchsten Weg.
+聽者林會。	Die Menge seiner Zuhörer glich bald einem dicken Wald.
+時有辯和法師者，	Zur selben Zeit lehrte der Ehrenwerte Mönch Bian im innern des Tempels
+於寺中講《涅¶槃經》，	über das /Nirvana Sutra/,
+學徒聞師闡法，	aber allmählich verließen ihn seine Zuhörer, 
+稍稍引去。	um stattdessen die Predigt von Huike zu hören.
+辯和不勝其¶憤，	Bian wurde darüber wütend
+興謗于邑宰翟仲侃。	und schwärzte ihn bei dem Distrikt-Magistraten Di Zhongkan an.
+仲侃惑其邪說，	Der Magistrat wurde durch diese Anschuldigungen irregeführt
+加師¶以非法，	und verhaftete Huike.
+師怡然委順。	Huike ließ sich aber durch diese Entwicklung nicht aus der Ruhe bringen.
+識真者，	Diejenigen, die sich in solchen Dingen auskennen, 
+謂之償債。	nahmen an, dieses passiere um karmische Schulden abzutragen.
+時年¶一百七歲，	Dies ereignete sich, als Huike 107 Jahre alt war,
+即隋文帝開皇十三年癸丑歲三¶月十六日也。	am 16. Tag des 3. Monats im 13. Jahr der Ära Kaihuang des Kaisers Wen der Sui Dynastie .
+
+(皓月供奉。	(Als Haoyue [später] dem Patriarchen seine Ehre bekundete,
+問長沙岑和尚︰	fragte er Meister Chen aus Changsha:
+「古德云︰	"Ein alter Weiser sagte:
+『了即業障本來空，	'Wer die karmischen Blockaden versteht, für den sind sie ursprünglich leer,
+未了應須償宿債。』	wer sie nicht erkennt, der muß alle aufgehäuften Schulden zurückzahlen.'
+只如師子尊¶者、	Da waren etwa der Ehrwürdige Aryasimha
+二祖大師，	und der zweite Patriarch,
+為什麼得償債去？」	warum mußten diese ihre karmischen Schulden begleichen?"
+
+長沙云︰	Changsha antwortete:
+「大德不識本來空。」	"Verehrtester, du verstehst die Bedeutung von 'ursprünglich leer' nicht."
+彼云︰	Nun fragte er wiederum:
+「如何是本來空？」	"Was heißt denn 'ursprünglich leer'?"
+長沙云︰	Changsha antwortete:
+「業障是。」	"Das ist die karmische Blockade."
+又問︰	Und weiter fragte er:
+「如何是¶業障？」	"Und was hat es mit den karmischen Blockaden auf sich?"
+長沙云︰	Changsha sagte: 
+「本來空是。」	"Die sind ursprünglich leer."
+彼無語。	Daraufhin sagte Haoyue nichts mehr.
+
+長沙便示一偈云︰	Nun rezitierte Changsha folgenden Vers:
+「假有元非有，	"Obwohl ein lebendiges Wesen ist nur ein vorübergehender Zusammenschluss, der vorher nicht existierte,
+假滅亦非無。	Auch wenn dieser vorübergehende Zusammenschluss wieder zu nichts wird,
+涅槃償債義，	Die Bedeutung von Nirvana und dem Begleichen von karmischer Schuld,
+一性更無殊。)」	liegt in der Einen Natur, ohne einen Unterschied.")
+後¶葬於磁州滏陽縣東北七十里。	Der Patriarch wurde schließlich etwa 70 Kilometer nordöstlich in Cizhou, Präfektur Fuyang, beerdigt. 
+唐德宗諡大¶祖禪師。	Der Kaiser Dezong der Tang gewährte ihm den Ehrentitel 'Großer Patriarch der Chan-Meister'
+自師之化，	Vom Zeitpunkt des Todes des Patriarchen, 
+至皇宋景德元年甲辰，	bis heute zum ersten Jahr der Ära Jingde der Song Dynastie,
+得¶四百一十三年	sind 413 Jahre vergangen.
+(當作一十二年)。¶
+*** 僧那禪師
+僧那禪師，
+姓馬氏。
+少而神俊，
+通究墳典。
+年二¶十一，
+講《禮》、
+《易》於東海，
+聽者如市。
+暨南徂相部，
+¶學眾隨至。
+會二祖說法，
+與同志十人投祖出¶家。
+自爾，
+手不執筆，
+永捐世典，
+唯一衣一鉢，
+¶一坐一食，
+奉頭陀行。
+
+既久侍於祖，
+後謂門人¶慧滿曰︰
+「祖師心印，
+非專苦行，
+但助道耳。
+若契¶本心，
+發隨意真光之用，
+則苦行如握土成金；
+<pb:ZB6q0003_T_003-0221b>
+¶若唯務苦行，
+而不明本心，
+為憎愛所縛，
+則苦¶行如黑月夜，
+履于險道。
+汝欲明本心者，
+當審¶諦推察，
+遇色遇聲，
+未起覺觀時，
+心何所之？
+是¶無耶？
+是有耶？
+既不墮有無處所，
+則心珠獨朗，
+¶常照世間，
+而無一塵許間隔，
+未嘗有一剎那¶頃斷續之相。
+故我初祖兼付《楞伽經》四卷，
+謂¶我師二祖曰︰
+『吾觀震旦，
+唯有此經可以印心。
+¶仁者依行，
+自得度世。』
+又二祖凡說法竟，
+乃曰︰
+『¶此經四世之後，
+變成名相，
+深可悲哉！』
+我今付¶汝，
+宜善護持，
+非人慎勿傳之。」
+付囑已，
+師乃遊
+¶方，
+莫知其終。
+¶
+*** 向居士
+向居士，
+幽棲林野，
+木食㵎飲。
+北齊天保初，
+聞¶二祖盛化，
+乃致書通好，
+曰︰
+「影由形起，
+響逐聲來。
+¶弄影勞形，
+不識形為影本；
+揚聲止響，
+不知聲¶是響根。
+除煩惱而趣涅槃，
+喻去形而覓影；
+離¶眾生而求佛果，
+喻默聲而尋響。
+故知迷悟一¶途，
+愚智非別。
+無名作名，
+因其名，
+則是非生矣；
+¶無理作理，
+因其理，
+則爭論起矣。
+幻化非真，
+誰¶是誰非？
+虛妄無實，
+何空何有？
+將知得無所得，
+¶失無所失。
+未及造謁，
+聊申此意，
+伏望答之
+(弄影¶當作棄影。
+唯恐當時筆誤耳。
+蓋第三十卷鎮國大師答皇太子問心要云。
+若求真去妄。
+猶棄影勞形。
+若體妄即真。
+似¶處陰休影。
+此用莊子之說。
+勞形謂走而避影也)。」
+
+二祖大師命筆迴示曰︰
+「備¶觀來意皆如實，
+真幽之理竟不殊。
+本迷摩尼¶謂瓦礫，
+豁然自覺是真珠。
+無明智慧等無異，
+¶當知萬法即皆如。
+愍此二見之徒輩，
+申辭措¶筆作斯書。
+觀身與佛不差別，
+何須更覓彼無¶餘？」
+
+居士捧披祖偈，
+乃伸禮覲，
+密承印記。
+¶
+*** 相州隆化寺慧滿禪師
+相州隆化寺慧滿禪師，
+滎陽人也，
+姓張氏。
+始¶於本寺遇僧那禪師開示，
+志存儉約，
+唯蓄二
+<pb:ZB6q0003_T_003-0221c>
+¶鍼，
+冬則乞補，
+夏乃捨之。
+自言︰
+「一生心無怯怖，
+¶身無蚤
+虱，
+睡而不夢。」
+常行乞食，
+住無再宿，
+所¶至伽藍，
+則破柴製履。
+
+貞觀十六年，
+於洛陽會¶善寺側，
+宿古墓中。
+遇大雪，
+旦入寺，
+見曇曠法¶師。
+曠怪所從來，
+師曰︰
+「法有來耶？」
+
+曠遣尋來處，
+¶四邊雪積五尺許，
+曠曰︰
+「不可測也。」
+
+尋聞有括¶錄事，
+諸僧逃隱。
+師持鉢，
+周行聚落，
+無所滯礙，
+¶隨得隨散，
+索爾虛閑。
+有請宿齋者，
+師曰︰
+「天下¶無僧，
+方受斯請也。」
+
+
+又嘗示人曰︰
+「諸佛說心，
+令¶知心。
+相是虛妄。
+今乃重加心相，
+深違佛意，
+又¶增論議，
+殊乖大理。」
+故常齎《楞伽經》四卷。
+以為¶心要，
+如說而行，
+蓋遵歷世之遺付也。
+後於陶¶冶中，
+無疾坐化，
+壽七十許。¶
 *** 第三十祖僧璨大師
-第三十祖僧璨大師者。不知何許人也。初以¶
-白衣謁二祖。既受度傳法。隱于舒州之皖公¶
-山。屬後周武帝破滅佛法。師往來太湖縣司¶
-空山。居無常處積十餘載。時人無能知者。至¶
-隋開皇十二年壬子歲。有沙彌道信。年始十¶
-四。來禮師曰。願和尚慈悲乞與解脫法門。師¶
-曰。誰縛汝。曰無人縛。師曰。何更求解脫乎。¶
-信於言下大悟服勞九載。後於吉州受戒侍¶
-奉尤謹。師屢試以玄微。知其緣熟乃付衣法。¶
-偈曰。¶
+第三十祖僧璨大師者，
+不知何許人也。
+初以¶白衣謁二祖，
+既受度傳法，
+隱于舒州之皖公¶山。
+屬後周武帝破滅佛法，
+師往來太湖縣司¶空山，
+居無常處。
+積十餘載，
+時人無能知者。
+至¶隋開皇十二年壬子歲，
+有沙彌道信，
+年始十¶四，
+來禮師曰︰
+「願和尚慈悲，
+乞與解脫法門。」
 
+師¶曰︰
+「誰縛汝？」
+
+曰︰
+「無人縛。」
+
+師
+曰︰
+「何更求解脫乎？」
+¶信於言下大悟，
+服勞九載。
+
+後於吉州受戒，
+侍¶奉尤謹。
+師屢試以玄微，
+知其緣熟，
+乃付衣法，
+¶偈曰︰¶
 #+BEGIN_VERSE
-「　華種雖因地
-　從地種華生¶
-　若無人下種
-　華地盡無生
-#+END_VERSE
-」¶
 
-師又曰。昔可大師付吾法。後往鄴都行化三¶
-十年方終。今吾得汝何滯此乎。即適羅浮山¶
-優游二載。却旋舊址逾月。士民奔趨大設¶
-檀供。師為四眾廣宣心要訖。於法會大樹下
-<pb:ZB6q0003_T_003-0222a>¶
-合掌立終。即隋煬帝大業二年丙寅十月十¶
-五日也。唐玄宗諡鑑智禪師覺寂之塔。至皇¶
-宋景德元年甲辰歲。凡四百載矣。初唐河南¶
-尹李常。素仰祖風深得玄旨天寶乙酉歲。遇¶
-荷澤神會問曰。三祖大師葬在何處。或聞入¶
-羅浮不迴。或說終於山谷。未知孰是。會曰。璨¶
-大師自羅浮歸山谷。得月餘方示滅。今舒州¶
-見有三祖墓。常未之信也。會謫為舒州別駕。¶
-因詢問山谷寺眾僧曰。聞寺後有三祖墓是¶
-否。時上坐慧觀對曰。有之。常欣然與寮佐¶
-同往瞻禮。又啟壙取真儀闍維之。得五色舍¶
-利三百粒。以百粒出己俸建塔焉。百粒寄荷¶
-澤神會。以徵前言。百粒隨身。後於洛中私第¶
-設齋以慶之。時有西域三藏犍那等在會中。¶
-常問三藏。天竺禪門祖師多少。犍那答曰。自¶
-迦葉至般若多羅。有二十七祖。若敘師子尊¶
-者傍出達磨達四世。二十二人。總有四十九¶
-祖。若從七佛至此璨大師。不括橫枝凡三十¶
-七世。常又問。會中耆德曰。嘗見祖圖。或引五¶
-十餘祖。至於支派差殊宗族不定。或但有空¶
-名者。以何為驗。時有智本禪師者。六祖門人¶
-也。答曰。斯乃後魏初佛法淪替。有沙門曇曜。¶
-於紛紜中以素絹單錄。得諸祖名字。或忘失¶
-次第。藏衣領中隱于巖穴。經三十五載。至文¶
-成帝即位。法門中興。曇曜名行俱崇。遂為僧¶
-統。乃集諸沙門重議結集目。為付法藏傳。其¶
-間小有差互。即曇曜抄錄時怖懼所致。又經¶
-一十三年。帝令國子博士黃元真與北天竺¶
-三藏佛陀扇多吉弗煙等。重究梵文甄別宗
-<pb:ZB6q0003_T_003-0222b>¶
-旨次敘師承。得無𧘱謬也。¶
+　華種雖因地，
+　從地種華生。¶
 
+　若無人下種，
+　華地盡無生。
+#+END_VERSE¶
+
+師又曰︰
+「昔可大師付吾法，
+後往鄴都行化，
+三¶十年方終。
+今吾得汝，
+何滯此乎？」
+即適羅浮山，
+¶優游二載，
+却旋舊址。
+
+逾月，
+士民奔趨，
+大設¶檀供。
+師為四眾廣宣心要訖，
+於法會大樹下
+<pb:ZB6q0003_T_003-0222a>
+¶合掌立終，
+即隋煬帝大業二年丙寅十月十¶五日也。
+唐玄宗諡鑑智禪師覺寂之塔。
+至皇¶宋景德元年甲辰歲，。
+凡四百載矣。
+
+初唐河南¶尹李常，
+素仰祖風，
+深得玄旨。
+天寶乙酉歲，
+遇¶荷澤神會，
+問曰︰
+「三祖大師葬在何處？
+或聞入¶羅浮不迴，
+或說終於山谷，
+未知孰是。」
+
+會曰︰
+「璨¶大師自羅浮歸山谷，
+得月餘方示滅，
+今舒州¶見有三祖墓。」
+常未之信也。
+
+會謫為舒州別駕。
+¶，因詢問山谷寺眾僧曰︰
+「聞寺後有三祖墓，
+是¶否？」
+
+
+時上坐慧觀對曰︰
+「有之。」
+常欣然與寮佐¶同往瞻禮，
+又啟
+壙取真儀闍維之，
+得五色舍¶利三百粒。
+以百粒出己俸建塔焉，
+百粒寄荷¶澤神會。
+以徵前言，
+百粒隨身，
+後於洛中私第¶設齋以慶之。
+
+時有西域三藏犍那等在會中，
+¶常問三藏︰
+「天竺禪門祖師多少？」
+
+犍那答曰︰
+「自¶迦葉至般若多羅。
+有二十七祖。
+若敘師子尊¶者傍出達磨達四世。
+二十二人，
+總有四十九¶祖。
+若從七佛至此璨大師，
+不括橫枝，
+凡三十¶七世。」
+
+常又問。
+會中耆德曰︰
+「嘗見祖圖，
+或引五¶十餘祖，
+至於支派差殊，
+宗族不定，
+或但有空¶名者，
+以何為驗？」
+
+時有智本禪師者，
+六祖門人¶也，
+答曰︰
+「斯乃後魏初，
+佛法淪替，
+有沙門曇曜，
+¶於紛紜中以素絹單錄，
+得諸祖名字，
+或忘失¶次第，
+藏衣領中，
+隱于巖穴。
+經三十五載，
+至文¶成帝即位，
+法門中興，
+曇曜名行俱崇，
+遂為僧¶統，
+乃集諸沙門，
+重議結集，
+目。為《付法藏傳》。
+其¶間小有差互，
+即曇曜抄錄時怖懼所致。
+又經¶一十三年，
+帝令國子博士黃元真與北天竺¶三藏佛陀扇多
+、吉弗煙等，
+重究梵文，
+甄別宗
+<pb:ZB6q0003_T_003-0222b>
+¶旨，
+次敘師承，
+得無𧘱謬也。」
+¶
 *** 第三十一祖道信大師
-第三十一祖道信大師者。姓司馬氏世居河¶
-內。後徙於蘄州之廣濟縣。師生而超異。幼慕¶
-空宗諸解脫門。宛如宿習既嗣祖風。攝心無¶
-寐脇不至席者。僅六十年。隋大業十三載。領¶
-徒眾抵吉州。值群盜圍城七旬不解。萬眾惶¶
-怖。師愍之教令念摩訶般若。時賊眾望雉堞¶
-間。若有神兵。乃相謂曰。城內必有異人。不可¶
-攻矣。稍稍引去。唐武德甲申歲。師却返蘄春¶
-住破頭山。學侶雲臻。一日往黃梅縣路逢一¶
-小兒。骨相奇秀異乎常童。師問曰。子何姓。答¶
-曰姓即有不是常姓。師曰。是何姓。答曰。¶
-是佛性。師曰。汝無性耶。答曰。性空故。師默¶
-識其法器。即俾侍者至其家。於父母所乞令¶
-出家。父母以宿緣故殊無難色。遂捨為弟子。¶
-名曰弘忍(舊本無名曰弘忍四字。今此添入。若不言名。以至付法傳衣者。是何人耶。兼後有忍¶
-曰二字。亦自不明耳)以至付法傳衣。偈曰。¶
+第三十一祖道信大師者，
+姓司馬氏。
+世居河¶內，
+後徙於蘄州之廣濟縣。
+師生而超異，
+幼慕¶空宗諸解脫門，
+宛如宿習。
+既嗣祖風，
+攝心無¶寐，
+脇不至席者，
+僅六十年。
 
+隋大業十三載，
+領¶徒眾抵吉州，
+值群盜圍城，
+七旬不解，
+萬眾惶¶怖。
+師愍之，
+教令念摩訶般若，
+時賊眾望雉堞¶間。
+若有神兵，
+乃相謂曰︰
+「城內必有異人，
+不可¶攻矣。」
+稍稍引去。
+
+唐武德甲申歲，
+師却返蘄春，
+¶住破頭山，
+學侶雲臻。
+一日，
+往黃梅縣，
+路逢一¶小兒，
+骨相奇秀，
+異乎常童，
+師問曰︰
+「子何姓？」
+
+答¶曰︰
+「姓即有不是常姓。」
+
+師曰︰
+「是何姓？」
+
+答曰︰
+「¶是佛性。」
+
+「
+」，、、
+「」。
+師曰︰
+「汝無性耶？」
+
+答曰︰
+「性空故。」
+
+師默¶識其法器，
+即俾侍者至其家，
+於父母所，
+乞令¶出家。
+父母以宿緣故，
+殊無難色，
+遂捨為弟子，
+¶名曰弘忍
+(舊本無名曰弘忍四字。
+今此添入。
+若不言名。
+以至付法傳衣者。
+是何人耶。
+兼後有忍¶，
+曰二字。
+亦自不明耳)
+以至付法傳衣。
+偈曰︰¶
 #+BEGIN_VERSE
-「　華種有生性
-　因地華生生¶
-　大緣與信合
-　當生生不生
-#+END_VERSE
-」¶
 
-遂以學徒委之。一日告眾曰。吾武德中遊廬¶
-山。登絕頂望破頭山。見紫雲如蓋下有白氣¶
-橫分六道。汝等會否。眾皆默然。忍曰。莫是和¶
-尚他後橫出一枝佛法否。師曰善。後貞觀癸¶
-卯歲。太宗嚮師道味欲瞻風彩。詔赴京師。上¶
-表遜謝前後三返。竟以疾辭。第四度命使曰。¶
-如果不起即取首來。使至山諭旨。師乃引頸¶
-就刃神色儼然。使異之迴以狀聞。帝彌加歎¶
-慕。就賜珍繒以遂其志。迄高宗永徽辛亥歲¶
-閏九月四日。忽垂誡門人曰。一切諸法悉皆
-<pb:ZB6q0003_T_003-0222c>¶
-解脫。汝等各自護念流化未來。言訖安坐而¶
-逝壽七十有二。塔于本山。明年四月八日塔¶
-戶無故自開。儀相如生。爾後門人不敢復閉。¶
-代宗諡大醫禪師慈雲之塔。自圓寂至皇宋¶
-景德元年甲辰。凡三百五十六載(當云三百五十四載)。¶
+　華種有生性，
+　因地華生生。¶
+　大緣與信合，
+　當生生不生。
+#+END_VERSE¶
 
-*** 第三十二祖弘忍大師
-第三十二祖弘忍大師者蘄州黃梅人也。姓¶
-周氏。生而岐嶷。童遊時逢一智者。歎曰。此子¶
-闕七種相不逮如來。後遇信大師得法嗣化。¶
-於破頭山咸亨中有一居士。姓盧名慧能。自¶
-新(舊本誤作鄿字)州來參謁師。問曰。汝自何來曰嶺¶
-南師曰。欲須何事。曰唯求作佛。師曰。嶺南¶
-人無佛性。若為得佛。曰人即有南北佛性豈¶
-然。師知是異人。乃訶曰。著槽厰去。能禮足而¶
-退。便入碓坊服勞於杵臼之間。晝夜不息經¶
-八月。師知付授時至。遂告眾曰。正法難解不¶
-可徒記吾言持為己任。汝等各自隨意述一¶
-偈。若語意冥符。則衣法皆付。時會下七百餘¶
-僧。上座神秀者。學通內外眾所宗仰。咸共推¶
-稱云。若非尊秀疇敢當之。神秀竊聆眾譽不¶
-復思惟。乃於廊壁書一偈云。¶
+遂以學徒委之。
+一日，
+告眾曰︰
+「吾武德中遊廬¶山，
+登
+絕頂，
+望破頭山，
+見紫雲如蓋，
+下有白氣，
+¶橫分六道，
+汝等會否？」
+眾皆默然。
 
+忍曰︰
+「莫是和¶尚他後橫出一枝佛法否？」
+
+師曰︰
+「善。」
+
+後，
+貞觀癸¶卯歲，
+太宗嚮師道味，
+欲瞻風彩，
+詔赴京師。
+上¶表遜謝，
+前後三返，
+竟以疾辭。
+第四度命使曰︰
+「¶如果不起，
+即取首來。」
+使至山諭旨，
+師乃引頸¶就刃，
+神色儼然。
+使異之，
+迴以狀聞。
+帝彌加歎¶慕，
+就賜珍繒，
+以遂其志。
+
+
+迄高宗永徽辛亥歲¶閏九月四日，
+忽垂誡門人曰︰
+「一切諸法悉皆
+<pb:ZB6q0003_T_003-0222c>
+¶解脫，
+汝等各自護念，
+流化未來。」
+言訖，
+安坐而¶逝，
+壽七十有二，
+塔于本山。
+明年四月八日，
+塔¶戶無故自開，
+儀相如生。
+爾後，
+門人不敢復閉。
+¶代宗諡大醫禪師慈雲之塔。
+自圓寂至皇宋¶景德元年甲辰，
+凡三百五十六載
+(當云三百五十四載)。¶
+*** 第三十二祖弘忍大師	32. Patriarch Hongren
+    CLOSED: [2011-08-31 Wed 16:00]
+第三十二祖弘忍大師者，	Der Große Meister Hongren, 32. Patriarch [der Übertragung seit Śakyamūni],
+蘄州黃梅人也，	stammte aus Huangmei in Qizhou,
+姓¶周氏。	sein bürgerlicher Familienname war Zhou.
+生而岐嶷。	Von Geburt an war er ein besonders begabtes Kind.
+童遊時，	Einmal, als er beim Spielen war,
+逢一智者。	traf er einen weisen Mann,
+歎曰︰	der seufzend sagte:
+「此子¶闕七種相，	"Diesem Kind fehlen sieben [der 32] Merkmale [des Tathāgata],
+不逮如來。」	daher kommt er wohl nicht an den Tathāgata heran."
+
+後遇信大師，	Später traf er den großen Meister Daoxin
+得法嗣，	und erhielt die Übertragung der Lehre,
+化¶於破頭山。	er lehrte in dem Tempel am Berg Potou.
+
+咸亨中，	Während der Ära Xianpeng
+:zhu:
+咸亨 [xian2xiang3] Ära der Tang, 690-694, unter Gaozong
+:end:
+有一居士，	kam ihn ein Laie besuchen, 
+姓盧名慧能，	der stammte aus Lu und trug den persönlichen Namen Huineng.
+自¶新(舊本誤作鄿字)州來參謁師。	Er war aus Xinzhou herübergekommen um dem Meister seine Aufwartung zu machen.
+問曰︰	Hongren fragte:
+「汝自何來？」	"Wo kommst du her?"
+
+曰︰	Huineng antwortete:
+「嶺¶南。」	"Aus Lingnan."
+
+師曰︰	Hongren fragte weiter:
+「欲須何事？」	"Was wünscht du?"
+
+曰︰	Huineng antwortete:
+「唯求作佛。」	"Alles was ich wünsche ist, ein Buddha zu werden."
+
+師曰︰	Hongren sagte:
+「嶺南¶人無佛性，	"Leute aus Lingnan haben keine Buddhanatur,
+若為得佛？」	wie kannst du hoffen ein Buddha zu werden?"
+
+曰︰	Huineng sagte:
+「人即有南北，	"Im Bereich der Menschen gibt es [Unterschiede zwischen] Süd und Nord,
+佛性豈¶然？」	aber wie könnte das die Buddhanatur betreffen?"
+
+師知是異人，	Hongren merkte, daß es sich um einen sehr begabten Menschen handelte,
+乃訶曰︰	aber er lachte ihn aus und rief:
+「著槽厰去！」	"Geh doch ab in die Küche [und mach dich dort nützlich!]"
+
+能禮足而¶退，	Huineng verbeugte sich tief vor den Füßen des Meisters
+便入碓坊，	und ging sogleich zu den Wirtschaftsgebäuden.
+服勞於杵臼之間，	Dort arbeitete er unermüdlich mit Mörser und Stössel,
+晝夜不息。	für acht Monate Tag und Nacht,
+經¶八月，	ohne eine Pause.
+
+師知付授時至，	Als Hongren fühlte, daß der Zeitpunkt gekommen war, an dem er die Lehre weiterzugeben hätte,
+遂告眾曰︰	verkündete er seiner Versammlung:
+「正法難解，	"Das Wahre Dharma ist schwer zu verstehen,
+不¶可徒記吾言，	ihr könnt nicht einfach wiedergeben, was ich gesagt habe,
+持為己任。	sondern müßt es selbst erfahren.
+汝等各自隨意述一¶偈，	Jeder von euch soll einen Vers machen, der euer Verständnis der Lehre zeigt.
+若語意冥符，	Wessen Vers das beste Verständnis zeigt,
+則衣法皆付。」	der wird die Übertragung von Robe und Lehre bekommen."
+
+時會下七百餘¶僧，	Zu jener Zeit waren mehr als 700 Mönche in der Versammlung,
+上座神秀者，	der Vorsteher Shenxiu,
+學通內外，	dessen Gelehrsamkeit buddhistische und weltliche Schriften umfasste,
+眾所宗仰，	wurde von allen als der Träger der Lehre angesehen.
+咸共推¶稱云︰	Sie sagten untereinander:
+「若非尊秀，	Wer außer dem verehrten Shenxiu
+疇敢當之？」	wird es wohl wagen [einen Vers zu verfassen]?"
+神秀竊聆眾譽，	Shenxiu wußte, daß er heimlich von allen favorisiert wurde
+不¶復思惟，	und ohne weiter nachzudenken
+乃於廊壁書一偈，	schrieb er den folgenden Vers an die Mauer der Halle:
+云︰¶
 #+BEGIN_VERSE
-「　身是菩提樹
-　心如明鏡臺¶
-　時時勤拂拭
-　莫遣有塵埃
+　身是菩提樹，	Der Körper ist wie ein Bodhi-Baum,
+　心如明鏡臺。¶	der Geist ein heller Spiegel.
+　時時勤拂拭，	Wische den Spiegel nur ständig ab,
+　莫遣有塵埃。	und laß kein Staubkorn darauf ansammeln.
 #+END_VERSE
-」¶
+¶
 
-師因經行忽見此偈。知是神秀所述。乃讚歎¶
-曰。後代依此修行亦得勝果。其壁本欲令處¶
-士盧珍繪楞伽變相。及見題偈在壁。遂止不¶
-畫各令誦念。能在碓坊忽聆誦偈。乃問同學。¶
-是何章句。同學曰。汝不知和尚求法嗣。令各¶
-述心偈。此則秀上座所述。和尚深加歎賞。必¶
-將付法傳衣也能曰。其偈云何。同學為誦。能
-<pb:ZB6q0003_T_003-0223a>¶
-良久曰。美則美矣。了則未了。同學訶曰。庸流¶
-何知勿發狂言。能曰。子不信耶。願以一偈和¶
-之。同學不答相視而笑。能至夜密告一童子¶
-引至廊下。能自秉燭。令童子於秀偈之側寫¶
-一偈云。¶
+師因經行，	Als der Meister dort vorüberging,
+忽見此偈，	war er überrascht, diesen Vers zu sehen.
+知是神秀所述，	Er erkannte es als Werk von Shenxiu
+乃讚歎¶曰︰	und pries es mit den folgenden Worten:
+「後代依此修行，	"Wenn spätere Generationen in dieser Weise praktizieren,
+亦得勝果。」	so werden sie sicherlich die besten Ergebnisse erlangen."
 
+其壁本欲令處¶士盧珍繪楞伽變相，	Diese Mauer war eigentlich für ein Gemälde zu einem Thema aus dem /Lañkāvatāra Sūtra/ gedacht, daß der bekannte Maler Lu Chen schon begonnen hatte.
+及見題偈在壁，	Als dieser nun das Gedicht an der Mauer sah, 
+遂止不¶畫，	unterbrach er seine Arbeit an dem Gemälde,
+各令誦念。	und alle Angehörigen des Tempels wurden dazu angehalten, daß Gedicht zu rezitieren.
+能在碓坊，	Huineng, [an seinem Platz] in den Wirtschaftsgebäuden
+忽聆誦偈，	konnte es nicht vermeiden, das Gedicht zu hören.
+乃問同學︰	Er fragte seine Mitbrüder:
+「¶是何章句？」	Was ist denn das für eine Strophe?"
+
+同學曰︰	Sie antworteten:
+「汝不知和尚求法嗣，	"Weißt du nicht, daß der Meister nach seinem Dharma-Erben sucht
+令各¶述心偈？	und alle aufgefordert hat, ein Gedicht zu schreiben, daß den erreichten Geisteszustand widerspiegelt?
+此則秀上座所述，	Dies ist das Gedicht des Vorstehers Shenxiu,
+和尚深加歎賞，	der Meister lobte es sehr für seine Tiefe
+必¶將付法傳衣也。」	und sicherlich wird er die Übertragung der Lehre erhalten."
+
+能曰︰	Huineng sagte:
+「其偈云何？」	"Wie geht der Vers nochmal?"
+同學為誦。	Die Mitbrüder rezitierten es noch einmal für ihn.
+
+能<pb:ZB6q0003_T_003-0223a>¶良久曰︰	Huineng schwieg eine Weile und sagte dann:
+「美則美矣，	"Es ist zwar ein schöner Vers,
+了則未了！」	aber er hat doch die Wahrheit noch nicht erreicht."
+
+同學訶曰︰	Da fragten ihn die Mitbrüder:
+「庸流¶何知？	"Wie kann ein gewöhnlicher Mann wie du so etwas sagen?
+勿發狂言！」	Rede nicht so ein dummes Zeug!"
+
+能曰︰	Huineng sagte:
+「子不信耶？	"Ihr glaubt mir also nicht?
+願以一偈和¶之。」	ich würde schon gerne einen Vers machen, der daneben bestehen kann."
+同學不答，	Die Mitbrüder antworteten nicht,
+相視而笑。	sondern sahen einander an und lachten.
+
+能至夜，	Nach Einbruch der Dunkelheit bat Huineng
+密告一童子¶引至廊下，	heimlich einen Jungen, ihn zu dem Gang zu bringen [wo der Vers geschrieben stand].
+能自秉燭，	Huineng hielt die Laterne hoch
+令童子於秀偈之側寫¶一偈，	und bat den Jungen, neben den Vers von Shenxiu folgenden Vers zu schreiben:
+云︰¶
 #+BEGIN_VERSE
-「　菩提本非樹
-　心鏡亦非臺¶
-　本來無一物
-　何假拂塵埃
+　菩提本非樹，	Bodhi ist eigentlich kein Baum
+　心鏡亦非臺。¶	und der Spiegel des Geistes hat keinen Ständer.
+　本來無一物，	Ursprünglich gibt es kein einziges Ding,
+　何假拂塵埃？	wo sollte sich da wohl Staub ansammeln?
 #+END_VERSE
-」¶
+¶
 
-大師後見此偈云。此是誰作亦未見性。眾聞¶
-師語遂不之顧。逮夜乃潛令人自碓坊召能¶
-行者入室。告曰。諸佛出世為一大事故。隨機¶
-小大而引導之。遂有十地三乘頓漸等旨。以¶
-為教門。然以無上微妙祕密圓明真實正法眼¶
-藏。付于上首大迦葉尊者。展轉傳授二十八¶
-世。至達磨屆于此土。得可大師。承襲以至于¶
-吾。今以法寶及所傳袈裟用付於汝。善自保¶
-護無令斷絕。聽吾偈曰。¶
+大師後見此偈云︰	Als Meister Hongren später diesen Vers sah, sagte er
+「此是誰作？	"Wessen Vers ist denn das?
+亦未見性。」	der Autor hat noch nicht die Einsicht in seine eigene Natur erlangt."
+眾聞¶師語，	Nachdem die Versammelten diese Worte des Meisters gehört hatten,
+遂不之顧。	achtete niemand mehr auf diesen Vers.
+逮夜，	Tief in der Nacht aber, 
+乃潛令人自碓坊召能¶行者入室，	schickte der Meister heimlich einen Boten zu den Wirtschaftsgebäuden und bat Huineng in sein Zimmer zu kommen.
 
+告曰︰	Diesem eröffnete er nun:
+「諸佛出世，	"Alle Buddhas, die in die Welt kamen,
+為一大事故，	sind wegen dieser einen Hauptsache gekommen,
+隨機¶小大而引導之，	und sie haben die Menschen gemäß ihrer Fähigkeit angeleitet.
+遂有十地、	Obwohl es die Lehren der zehn Stadien [des Fortschritts eines Boddhisattva],
+三乘、	der drei Fahrzeuge
+頓漸等旨，	und die Lehre von plötzlicher und allmählicher Erleuchtung
+以¶為教門。	gibt,
+然以無上微妙祕密圓明真實正法眼¶藏。	so ist doch die höchste und wunderbarste, vollkommene Lehre die der Schatzkammer des Wahren Dharma-Auges,
+付于上首大迦葉尊者，	die dem Hauptschüler Buddhas, Mahākasyapa übertragen wurde
+展轉傳授二十八¶世，	und von da an [in Indien] über 28 Generationen weitergegeben wurde,
+至達磨屆于此土，	bis Bodhidharma sie in unser Land brachte.
+得可大師。	Von ihm erhielt Huike die Übertragung,
+承襲，	die schließlich
+以至于¶吾。	bis auf mich gekommen ist.
+今以法寶及所傳袈裟用付於汝，	Heute werde ich den Schatz der Lehre und die Robe an dich weitergeben,
+善自保¶護，	behandele sie gut, bewahre sie
+無令斷絕，	und lass die Übertragung nicht abreissen.
+聽吾偈曰︰¶	Höre meinen Vers:
 #+BEGIN_VERSE
-「　有情來下種
-　因地果還生¶
-　無情既無種
-　無性亦無生
-#+END_VERSE
-」¶
+『有情來下種，	Lebewesen kommen und säen Samen,
+　因地果還生。¶	zusammen mit dem Boden bringen sie Leben hervor.
+　無情既無種，	ohne Lebewesen würde es keine Samen geben
+　無性亦無生。』」	und ohne das Wirken der Natur kein Leben."
+#+END_VERSE¶
 
-能居士跪受衣法。啟曰。法則既授衣付何人。¶
-師曰。昔達磨初至人未知信。故傳衣以明得¶
-法。今信心已熟。衣乃爭端止於汝身不復傳¶
-也。且當遠隱俟時行化。所謂授衣之人命如¶
-懸絲也。能曰。當隱何所。師曰。逢懷即止。遇¶
-會且藏。能禮足已捧衣而出。是夜南邁大眾¶
-莫知。忍大師自此不復上堂凡三日。大眾疑¶
-怪致問。祖曰。吾道行矣。何更詢之。復問衣法¶
-誰得耶。師曰。能者得。於是眾議盧行者名能。¶
-尋訪既失。懸知彼得即共奔逐。忍大師既付¶
-衣法。復經四載。至上元二年(乙亥歲乃唐高宗時也。至肅宗時復有
+
+能居士跪受衣法，	Der Laie Huineng kniete nieder um die Robe zu empfangen.
+啟曰︰	Schließlich fragte er:
+「法則既授，	"Das Dharma wurde immer weitergegeben,
+衣付何人？」	aber warum gibt es diese Robe?"
+
+¶師曰︰	Hongren antwortete:
+「昔達磨初至，	"Als Bodhidharma zuerst hier ankam,
+人未知信，	da hatten die Menschen noch kein Vertrauen,
+故傳衣以明得¶法。	daher wurde die Robe als Beweis für die Übermittlung der Lehre gegeben.
+今信心已熟，	Heutzutage ist dieses Vertrauen schon gegeben,
+衣乃爭端，	aber die Weitergabe der Robe mag zu Konflikten führen,
+止於汝身，	daher möge sie bei dir bleiben
+不復傳¶也。	und nicht weiter übertragen werden.
+且當遠隱，	Du wirst dich zunächst verbergen müssen
+俟時行化，	und später anfangen, die Lehre zu verbreiten.
+所謂授衣之人，	Da du die Robe empfangen hast,
+命如¶懸絲也。」	ist dein Leben in Gefahr, als hättest du eine Schlinge um den Hals."
+
+能曰︰	Huineng fragte:
+「當隱何所？」	"Wo soll ich mich verbergen?"
+
+師曰︰	Hongren antwortete:
+「逢懷即止，	"Wenn du in den Bezirk Huai kommst, bleibe dort für eine Weile,
+遇¶會且藏。」	später solltest du dich eine Zeitlang im Bezirk Hui verstecken."
+
+能禮足已，	Huineng verbeugte sich zu seinen Füssen,
+捧衣而出。	nahm die Robe und ging hinaus.
+是夜南邁，	Noch in derselben Nacht wandte er sich nach Süden
+大眾¶莫知。	und in der Versammlung wußte niemand davon.
+
+忍大師自此不復上堂凡三日，	In den folgenden drei Tagen hielt Meister Hongren keine Predigten für die Versammlung.
+大眾疑¶怪致問，	Die Mönche wunderten sich und fragten ihn nach dem Grund dafür,
+祖曰︰	Hongren sagte nur:
+「吾道行矣！	"Meine Lehre ist schon gegangen,
+何更詢之？」	was hätte es für einen Zweck, danach zu fragen?"
+
+復問︰	Dennoch fragten sie weiter:
+「衣法¶誰得耶？」	"Wer hat denn nun die Übertragung der Robe und des Dharma erlangt?"
+
+師曰︰	Hongren antwortete:
+「能者得。」	"Huineng hat sie bekommen."
+
+於是眾議盧行者名能，	Die Mönche sagten nun untereinander, daß es sich um den Laien aus Lu namens Huineng handelte,
+¶尋訪既失，	als sie aber nach ihm suchten,
+懸知彼得，	wußte niemand, wo er zu finden war,
+即共奔逐。	aber alle versuchten, seinen Aufenthaltsort herauszufinden.
+**** 
+忍大師既付¶衣法，	Nachdem etwa vier Jahre seit der Übertragung von Robe und Lehre vergangen waren,
+復經四載，
+至上元二年	im 2. Jahr der Ära Shangyuan [zur Zeit von Kaiser Gaozong der Tang Dynastie],
+(乙亥歲乃唐高宗時也。
+至肅宗時復有，
 <pb:ZB6q0003_T_003-0223b>¶
-上元年號。其二年歲在辛丑也)。忽告眾曰。吾今事畢時可行矣。¶
-即入室安坐而逝。壽七十有四。建塔於黃梅¶
-之東山。代宗皇帝諡大滿禪師法雨之塔。自¶
-大師滅度至皇宋景德元年甲辰。凡三百三¶
-十年。¶
-景德傳燈錄卷第三¶
+上元年號。
+其二年歲在辛丑也)。
+忽告眾曰︰	sagte er eines Tages zu den Mönchen der Versammlung:
+「吾今事畢，	"Mein Werk hier ist vollbracht,
+時可行矣。」	es ist Zeit für mich zu gehen."
+¶即入室，	Er ging in sein Zimmer,
+安坐而逝，	setzte sich in die Meditationspositur und verließ diese Welt. 
+壽七十有四。	Er war 74 Jahre alt.
 
+建塔於黃梅¶之東山，	Sein Stupa wurde auf der östlichen Erhebung des Huangmei Berges errichtet.
+代宗皇帝諡大滿禪師法雨之塔。	Kaiser Daizong verlieh ihm den posthumen Ehrentitel /Chan Meister der großen Erfüllung/ und nannte seinen Stupa den /Stupa des Dharma Regens/.
+自¶大師滅度至皇宋景德元年甲辰，	Seit dem Tode des Meisters bis zum ersten Jahr der Ära Jingde unserer Song Dynastie 
+凡三百三¶十年。	sind 330 Jahre vergangen.
+
+
+¶景德傳燈錄卷第三
+
+¶

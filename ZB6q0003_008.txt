@@ -1,31 +1,28 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2012/02/29 
+#+DATE: 2009/03/08 
 #+TITLE: Taisho Tripitaka, Electronic version, No. 2076 景德傳燈錄
-#+PROPERTY: CBETA_ID T51n2076
-#+PROPERTY: ID ZB6q0003
+#+PROPERTY: ID T51n2076
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2076
-#+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_000-0196b>¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:ZB6q0003_T_008-0256b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS 【CBETA】
+#+PROPERTY: LASTPB <pb:ZB6q0003_T_008-0256b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
-¶
-¶
+¶¶
+景德傳燈錄卷第八
 
- 景德傳燈錄卷第八¶
-¶
+¶¶
+  
+******* 懷讓禪師第二世
 
-   懷讓禪師第二世下五十六人(馬祖法嗣)
-¶
+下五十六人
+(馬祖法嗣)¶
   * 汾州無業禪師
   * 澧州大同廣澄禪師¶
   * 池州南泉普願禪師
   * 五臺鄧隱峯禪師¶
   * 溫州佛嶴和尚
   * 烏臼和尚¶
-  * 潭州石霜山大善和尚
-<pb:ZB6q0003_T_008-0256c>¶
+  * 潭州石霜山大善和尚<pb:ZB6q0003_T_008-0256c>¶
   * 石臼和尚
   * 本谿和尚¶
   * 石林和尚
@@ -61,7 +58,8 @@
   * 洪州水老和尚¶
   * 浮杯和尚
   * 潭州龍山和尚¶
-  * 襄州居士龐蘊(已上四十三人見錄)¶
+  * 襄州居士龐蘊
+(已上四十三人見錄)¶
   * 天目山明覺禪師
   * 王屋山行明禪師¶
   * 京兆智藏禪師
@@ -74,792 +72,3020 @@
   * 安豐山懷空禪師
   * 羅浮山道行禪師¶
   * 廬山法藏禪師¶
-  * 呂后山寧賁禪師(已上一十三人無機緣語句不錄)¶
+  * 呂后山寧賁禪師
+(已上一十三人無機緣語句不錄)¶
+******* 懷讓禪師第二世法嗣
 
-:PROPERTIES:
-:head: 懷讓禪師第二世法嗣
+
+<pb:ZB6q0003_T_008-0257a>
+¶
+
+
+*** 汾州無業禪師	Chan Meister Wuye aus Fenzhou
+汾州無業禪師者，	Chan Meister Wuye aus Fenzhou
+商州上洛人也，	stammte aus Shangluo in Shangzhou,
+姓杜氏。	sein Familienname war Du.
+**** 
+初，¶母李氏聞空中言︰	Noch vor seiner Geburt hörte seine Mutter, eine geborene Li, eine Stimme in der Luft, die fragte:
+「寄居得否？」	"Kann man denn auch woanders wohnen?"
+乃覺有娠。	Da bemerkte sie, daß sie schwanger war.
+誕生¶之夕，	Am Abends seiner Geburt
+神光滿室。	erfüllte ein göttlicher Glanz den Raum.
+
+俯及丱歲，	Noch in seinen Kindheitsjahren wandte er oft seinen Blick nach oben,
+行必直視，	wenn er ging war sein Blick nach geradeaus nach vorn gerichtet
+坐即跏¶趺。	und wenn er saß, so saß er mit gekreuzten Beinen.
+:zhu:
+跏趺 [jia1fu1] Meditationshaltung
 :END:
 
-<pb:ZB6q0003_T_008-0257a>¶
+九歲依開元寺志本禪師受大乘經，	Mit neun Jahren lernte er von Chan Meister Zhiben am Kaiyuan Tempel Mahāyana Sutren.
+五行¶俱下，	Er konnte 5 Zeilen auf einmal lesen
+諷誦無遺。	und konnte sie rezitieren, ohne noch einmal hinzuschauen.
+十二落髮，	Im Alter von 12 Jahren ließ er seine Haare scheren [und bekam ein Novize],
+二十受具戒於襄¶州幽律師。	mit 20 Jahren erhielt er die volle Ordination durch den Vinaya Meister You in Xiangzhou.
 
-******* 汾州無業禪師
-汾州無業禪師者。商州上洛人也。姓杜氏。初¶
-母李氏聞空中言寄居得否。乃覺有娠。誕生¶
-之夕神光滿室。俯及丱歲行必直視坐即跏¶
-趺。九歲依開元寺志本禪師受大乘經。五行¶
-俱下諷誦無遺。十二落髮。二十受具戒於襄¶
-州幽律師。習四分律疏。才終便能敷演。每¶
-為眾僧講涅槃大部。冬夏無廢。後聞馬大師¶
-禪門鼎盛。特往瞻禮。馬祖覩其狀貌瓌偉語¶
-音如鐘。乃曰。巍巍佛堂其中無佛。師禮跪而¶
-問曰。三乘文學麁窮其旨。常聞禪門即心是¶
-佛。實未能了。馬祖曰。只未了底心即是。更無¶
-別物。師又問。如何是祖師西來密傳心印。祖¶
-曰。大德正鬧在。且去別時來。師才出。祖召¶
-曰。大德。師迴首。祖云。是什麼。師便領悟禮¶
-拜。祖云。遮鈍漢禮拜作麼(雲居錫拈云。什麼處是汾州正閙)自¶
-得旨尋詣曹谿禮祖塔及廬嶽天台遍尋聖迹。¶
-自洛抵雍憩西明寺。僧眾舉請充兩街大德。¶
-師曰。非吾本志也。後至上黨。節度使李抱¶
-真重師名行旦夕瞻奉。師常有倦色。謂人曰。¶
-吾本避上國浩穰。今復煩接君俟。豈吾心哉。¶
-乃之縣上抱腹山。未久又往清涼金閣寺。重¶
-閱大藏周八稔而畢。復南下至于西河。刺史¶
-董叔纏請住開元精舍。師曰。吾緣在此矣。繇¶
-是雨大法雨垂二十載(廣語具別錄)并汾緇白無不¶
-嚮化。凡學者致問。師多答之云。莫妄想。唐憲¶
-宗屨遣使徵召。師皆辭疾不赴。暨穆宗即位¶
-思一瞻禮。乃命兩街僧錄靈阜等。齎詔迎請。¶
-至彼作禮曰。皇上此度恩旨不同常時。願和¶
-尚且順天心。不可言疾也。師微笑曰。貧道何
-<pb:ZB6q0003_T_008-0257b>¶
-德累煩世主。且請前行吾從別道去矣。乃沐¶
-身剃髮。至中夜告弟子惠愔等曰。汝等見聞¶
-覺知之性。與太虛同壽不生不滅。一切境界¶
-本自空寂。無一法可得。迷者不了即為境惑。¶
-一為境惑流轉不窮。汝等當知。心性本自有¶
-之。非因造作。猶如金剛不可破壞。一切諸法¶
-如影如響無有實者。故經云。唯有一事實餘¶
-二即非真。常了一切空無一物當情。是諸佛¶
-用心處。汝等勤而行之。言訖跏趺而逝。荼毘¶
-日祥雲五色異香四徹。所獲舍利璨若玉珠。¶
-弟子等貯以金棺。當長慶三年十二月二十¶
-一日。葬于石塔。壽六十二。臘四十二。勅諡大¶
-達國師。塔曰澄源。¶
+習《四分律疏》，	Als er den /Kommentar zu den vierteiligen Ordensregeln/ las,
+才終，便能敷演。	konnte er die Regeln schon erläutern, obwohl er kaum das Lesen beendet hatte.
+每¶為眾僧講《涅槃》大部，	Für die Mönche der Versammlung erläuterte er das große /Nirvana Sutra/
+冬夏無廢。	im Sommer und Winter, ohne Unterlaß.
+**** 		          :grund:
+後聞馬大師¶禪門鼎盛，	Später hörte er von dem außerordentlichen Ruf, den die Chan Lehre von Mazu genoß
+特往瞻禮。	und ging um sich persönlich davon zu überzeugen.
+馬祖覩其狀貌瓌偉，	Mazu sah sich seinen wohlgestalteten Körperbau genau an
+語¶音如鐘，	und hörte seine glockengleiche Stimme.
+乃曰︰	Schließlich sagte er:
+「巍巍佛堂，	"Was für eine großartige Buddhahalle,
+其中無佛。」	nur schade, daß kein Buddha darin wohnt."
 
-******* 澧州大同廣澄禪師
-澧州大同廣澄禪師。僧問。如何是六根滅。師¶
-云。輪劍擲空(舊本作雲)無傷於物。問如何是本¶
-來人。師云。共坐不相識。僧云。恁麼即學人禮¶
-謝下去。師云。暗寫愁腸寄與誰。¶
+師禮跪而¶問曰︰	Wuye kniete sich nieder und sagte:
+「三乘文學，	"Ich habe die Werke der drei Fahrzeuge studiert
+麁窮其旨，	und kenne mich darin ganz gut aus,
+常聞禪門即心是¶佛，	aber von der Chan Lehre hörte ich nur, 'der Geist ist schon Buddha',
+實未能了。」	das kann ich nicht verstehen."
 
-******* 池州南泉普願禪師
-池州南泉普願禪師者。鄭州新鄭人也。姓王¶
-氏。唐至德二年依大隗山大慧禪師受業。三¶
-十詣嵩嶽受戒。初習相部舊章。究毘尼篇聚。¶
-次遊諸講肆。歷聽楞伽華嚴。入中百門觀精¶
-練玄義。後扣大寂之室。頓然忘筌。得遊戲三¶
-昧。一日為僧行粥次。馬大師問。桶裏是什麼。¶
-師云。遮老漢合取口作恁麼語話。自餘同參¶
-之流無敢徵詰。貞元十一年憩錫于池陽自¶
-構禪齋。不下南泉三十餘載。大和初宣城廉¶
-使陸公亘嚮師道風。遂與監軍同請下山。伸¶
-弟子之禮。大振玄綱。自此學徒不下數百。言¶
-滿諸方目為郢匠。一日師示眾云。道箇如如
-<pb:ZB6q0003_T_008-0257c>¶
-早是變也。今時師僧須向異類中行。歸宗云。¶
-雖行畜生行。不得畜生報。師云。孟八郎又恁¶
-麼去也。師有時云。文殊普賢昨夜三更每人¶
-與二十棒趁出院也。趙州云。和尚棒教誰喫。¶
-師云。且道。王老師過在什麼處。趙州禮拜而¶
-出(玄覺云。且道。趙州休去。是肯南泉不肯南泉)師擬取明日遊莊舍。其¶
-夜土地神先報莊主。莊主乃預為備。師到問¶
-莊主。爭知老僧來排辦如此。莊主云。昨夜土¶
-地報道和尚今日來。師云。王老師修行無力。¶
-被鬼神覷見。有僧便問。和尚既是善知識。為¶
-什麼被鬼神覷見。師云。土地前更下一分飯。¶
-(玄覺云。什麼處是土地前更下一分飯。雲居錫云。是賞伊罰伊。只如土地前。見是南泉。不是南泉)師有¶
-時云。江西馬祖說即心即佛。王老師不恁麼¶
-道。不是心不是佛不是物。恁麼道還有過麼。¶
-趙州禮拜而出。時有一僧隨問趙州云。上座¶
-禮拜了便出意作麼生。趙州云。汝却問取和¶
-尚。僧上問曰。適來諗上座意作麼生。師云。他¶
-却領得老僧意旨。師一日捧鉢上堂。黃檗和¶
-尚居第一座。見師不起。師問云。長老什麼年¶
-中行道。黃檗云。空王佛時。師云。猶是王老師¶
-孫在下去。師一日問黃檗。黃金為世界。白銀¶
-為壁落。此是什麼人居處。黃檗云。是聖人居¶
-處。師云。更有一人居何國土。黃檗乃叉手立。¶
-師云。道不得何不問王老師。黃檗却問。更有¶
-一人居何國土。師云。可惜許。師又別時問黃¶
-檗。定慧等學此理如何。黃檗云。十二時中不¶
-依倚一物。師云。莫是長老見處麼。黃檗云。不¶
-敢。師云。漿水價且置。草鞋錢教阿誰還。師見¶
-僧斫木。師乃擊木三下。僧放下斧子歸僧堂。
-<pb:ZB6q0003_T_008-0258a>¶
-師歸法堂。良久却入僧堂。見前僧在衣鉢下¶
-坐。師云。賺殺人。僧問。師歸丈室將何指南。¶
-師云。昨夜三更失却牛。天明失却火。師因東¶
-西兩堂各爭猫兒。師遇之白眾曰。道得即救¶
-取猫兒。道不得即斬却也。眾無對。師便斬之。¶
-趙州自外歸。師舉前語示之。趙州乃脫履安¶
-頭上而出。師曰。汝適來若在。即救得猫兒也¶
-師在方丈與杉山向火次。師云。不用指東指¶
-西。直下本分事道來。杉山插火著叉手立。師¶
-云。雖然如是。猶較王老師一線道。有僧問訊¶
-叉手而立。師云。太俗生。其僧便合掌。師云太¶
-僧生。僧無對。一僧洗鉢次。師乃奪却鉢。其僧¶
-即空手而立。師云。鉢在我手裏。汝口喃喃作¶
-麼。僧無對。師因入菜園見一僧。師乃將瓦子¶
-打之。其僧迴顧。師乃翹足。僧無語。師便歸方¶
-丈。僧隨後入問訊云。和尚適來擲瓦子打某¶
-甲。豈不是警覺某甲。師云。翹足又作麼生。僧¶
-無對(後有僧問石霜云。南泉翹足意作麼生。石霜舉手云。還恁麼無)師示眾云。王¶
-師老要賣身阿誰要買。一僧出云。某甲買。師¶
-云。他不作貴價不作賤價。汝作麼生買。僧無¶
-對(臥龍代云。屬某去也。未山代云。是何道理。趙州代云明年來與和尚縫箇布衫)師與歸宗¶
-麻谷同去參禮南陽國師。師先於路上畫一¶
-圓相云道得即去。歸宗便於圓相中坐。麻谷¶
-作女人拜。師云。恁麼即不去也。歸宗云。是什¶
-麼心行師乃相喚迴不去禮國師(玄覺云。只如南泉恁麼道。¶
-是肯底語不肯語。雲居錫云。比來去禮拜國師。南泉為什麼却相喚迴。且道古人意作麼生)師問神¶
-山。作什麼。對云。打羅。師云。手打脚打。神山¶
-云。請和尚道。師云。分明記取舉似作家(洞山別云。¶
-無脚手者。始解打羅)有一坐主辭師。師問。什麼處去。對
-<pb:ZB6q0003_T_008-0258b>¶
-云。山下去。師云。第一不得謗王老師。對云。¶
-爭敢謗和尚。師乃噴水云。多少。坐主便出去¶
-(先雲居云。非師木意。先曹山云。賴也。石霜云。不為人斟酌。長慶云。請領語。雲居錫云。坐主當時出去。是會不¶
-會)師一日掩方丈門。將灰圍却門外云。若有¶
-人道得即開。或有祇對多未愜師意。趙州云。¶
-蒼天。師便開門。師因翫月次。有僧便問。幾時¶
-得似遮箇去。師云。王老師二十年前亦恁麼¶
-來。僧云。即今作麼生。師便歸方丈。陸亘大夫¶
-問云。弟子從六合來。彼中還更有身否。師云。¶
-分明記取舉似作家。陸又謂師曰。和尚大不¶
-可思議。到處世界皆成就。師云。適來總是大¶
-夫分上事。陸異日又謂師曰。弟子亦薄會佛¶
-法。師便問大夫十二時中作麼生。陸云。寸絲¶
-不掛。師云。猶是階下漢。師又云。不見道。有道¶
-君王不納有智之臣。師上堂次。陸大夫云。請¶
-和尚為眾說法。師云。教老僧作麼生說。陸云。¶
-和尚豈無方便。師云。道他欠少什麼。陸云。為¶
-什麼有六道四生。師云。老僧不教他。陸大夫¶
-與師見人雙陸。拈起骰子云。恁麼不恁麼。只¶
-恁麼信彩去時如何。師拈起骰子云。臭骨頭¶
-十八。又問云。弟子家中有一片石。或時坐或¶
-時臥。如今擬鐫作佛還得否。師云得。大夫云。¶
-莫不得否。師云。不得不得(雲巖云坐即佛不坐即非佛。洞山云。不坐即¶
-佛坐即非佛)趙州問。道非物外物外非道。如何是物¶
-外道。師便打。趙州捉住棒云。已後莫錯打人¶
-去。師云。龍蛇易辨衲子難謾師喚院主。院¶
-主應諾。師云。佛九十日在忉利天為母說法。¶
-時優填王思佛。請目連運神通三轉攝匠人¶
-往彼雕佛像。只雕得三十一相。為什麼梵音
-<pb:ZB6q0003_T_008-0258c>¶
-相雕不得。院主問。如何是梵音相。師云。賺殺¶
-人。師問維耶。今日普請作什麼。對云。拽磨。¶
-師云。磨從爾拽。不得動著磨中心樹子。維那¶
-無語(保福代云。比來拽磨如今却不成。法眼代云。恁麼即不拽也)一日有大德。¶
-問師曰。即心是佛又不得。非心非佛又不得。¶
-師意如何。師云。大德。且信即心是佛便了。更¶
-說什麼得與不得。只如大德喫飯了從東廊¶
-上西廊下。不可總問人得與不得也。師住庵¶
-時有一僧到庵。師向其僧道。某甲上山。待到¶
-齋時做飯自喫了。送一分來山上。少時其僧¶
-自喫了。却一時打破家事就床臥。師待不見¶
-來。便歸庵見僧臥。師亦去一邊而臥。僧便起¶
-去。師住後云我往前住庵時。有箇靈利道者。¶
-直至如今不見。師拈起毬子問僧云。那箇何¶
-似遮箇。對云。不似師云。什麼處見那箇便¶
-道不似。僧云。若問某甲見處。和尚放下手中¶
-物。師云。許爾具一隻眼。陸亘大夫向師道。肇¶
-法師甚奇怪。道萬物同根是非一體。師指庭¶
-前牡丹華云。大夫時人見此一株華如夢相¶
-似。陸罔測陸又問。天王居何地位。師云。若¶
-是天王即非地位。陸云。弟子聞說天王是居¶
-初地。師云。應以天王身得度者。即現天王身¶
-而為說法。陸辭歸宣城治所。師問。大夫去彼¶
-將何治民。陸云。以智慧治民。師云。恁麼即彼¶
-處生靈盡遭塗炭去也。師入宣州。陸大夫出¶
-迎接。指城門云。人人盡喚作甕門。未審和尚¶
-喚作什麼門。師云。老僧若道。恐辱大夫風化。¶
-陸云。忽然賊來時作麼生。師云。王老師罪過。¶
-陸又問。大悲菩薩用如許多手眼作什麼。師
-<pb:ZB6q0003_T_008-0259a>¶
-云。只如國家又用大夫作什麼。師為馬大師¶
-設齋。問眾云馬大師來否。眾無對。洞山云。待¶
-有伴即來。師云。子雖後生甚堪雕琢。洞山云。¶
-和尚莫壓良為賤。師洗衣次有僧問。和尚猶¶
-有遮箇在。師拈起衣云。爭奈遮箇何(玄覺云。且¶
-道是一箇是兩箇)師問僧良欽。空劫中還有佛否。對云¶
-有。師云。是阿誰。對云。良欽。師云居何國土。¶
-無語。僧問。祖祖相傳合傳何事。師云。一二三¶
-四五。問如何是古人底。師云。待有即道。僧¶
-云。和尚為什麼妄語。師云。我不妄語。盧行¶
-者却妄語。問十二時中以何為境。師云。何不¶
-問王老師。僧云。問了也。師云。還曾與汝為境¶
-麼。僧問。青蓮不隨風火散時是什麼。師云。無¶
-風火不隨是什麼。僧無對。師却問。不思善不¶
-思惡。思總不生時。還我本來面目來。僧云。無¶
-容止可露(洞山云。還曾將示人麼)師問坐主云。爾與我講經¶
-得麼對云。某甲與和尚講經。和尚須與某甲¶
-說禪始得。師云。不可將金彈子博銀彈子去。¶
-座主云。某甲不會。師云。汝道。空中一片雲。為¶
-復釘釘住。為復藤纜著。問空中有一珠如何¶
-取得。師云。斫竹布梯空中取。僧云。空中如何¶
-布梯。師云。汝擬作麼生取。僧辭問云。學人到¶
-諸方。有人問和尚近日作麼生。未審如何祇¶
-對。師云。但向道。近日解相撲。僧云。作麼生。¶
-師云。一拍雙泯。問父母未生時鼻孔在什麼¶
-處。師云。父母已生了鼻孔在什麼處。師將順¶
-世。第一座問。和尚百年後向什麼處去。師云。¶
-山下作一頭水牯牛去。僧云。某甲隨和尚去¶
-還得也無。師云。汝若隨我即須啣取一莖草
-<pb:ZB6q0003_T_008-0259b>¶
-來。師乃示疾。大和八年甲寅十二月二十五¶
-日。凌晨告門人曰。星翳燈幻亦久矣。勿謂吾¶
-有去來也。言訖而謝。壽八十七。臘五十八。明¶
-年春入塔。¶
+馬祖曰︰	Mazu sagte:
+「只未了底心即是，	"Es ist nur so, daß der Geist das noch nicht verstanden hat,
+更無¶別物。」	es ist nicht wirklich etwas anderes."
 
-******* 五臺山隱峯禪師
-五臺山隱峯禪師者。福建邵武人也。姓鄧氏¶
-(時稱鄧隱峯)幻若不慧。父母聽其出家。初遊馬祖之¶
-門。而未能覩奧。復來往石頭雖兩番不捷(語見馬祖¶
-章)而後於馬大師言下契會。師在石頭時。問¶
-云。如何得合道去。石頭云。我亦不合道。師云。¶
-畢竟如何。石頭云。汝被遮箇得多少時耶。¶
-一日石頭和尚剗草次。師在左側叉手而立。¶
-石頭飛剗子向師面前剗一株草。師云。和尚¶
-只剗得遮箇不剗得那箇。石頭提起剗子。師¶
-接得剗子乃作剗勢。石頭云。汝只剗得那箇¶
-不解剗得遮箇。師無對(洞山代云。還有堆阜麼)師一日¶
-推土車次。馬大師展脚在路上坐。師云。請師¶
-收足。大師云。已展不收。師云。已進不退。乃¶
-推車碾過。大師脚損。歸法堂執斧子云。適來¶
-碾損老僧脚底出來。師便出於大師前引頸。¶
-大師乃置斧。師到南泉。覩眾僧參次南泉指¶
-淨缾云。銅缾是境缾中有水。不得動著境。與¶
-老僧將水來。師便拈淨缾向南泉面前瀉。南¶
-泉便休。師後到溈山。於上座頭解放衣鉢。溈¶
-山聞師叔到。先具威儀下堂內。師見來便倒¶
-作睡勢。溈山便歸。方丈師乃發去。少間溈山¶
-問侍者。師叔在否。對云已去也。溈山云。去時¶
-有什麼言語。對云。無言語。溈山云。莫道無言¶
-語其聲如雷。師以冬居衡嶽夏止清涼。唐元¶
-和中荐登五臺。路出淮西。屬吳元濟阻兵違
-<pb:ZB6q0003_T_008-0259c>¶
-拒王命。官軍與賊交鋒未決勝負。師曰。吾當¶
-去解其患。乃擲錫空中飛身而過。兩軍將士¶
-仰觀事符預夢鬪心頓息。師既顯神異。慮成¶
-惑眾遂入五臺。於金剛窟前將示滅。先問眾¶
-云。諸方遷化坐去臥去吾嘗見之。還有立化¶
-也無。眾云。有也。師云。還有倒立者否。眾云。¶
-未嘗見有。師乃倒立而化。亭亭然其衣順體。¶
-時眾議舁就荼毘屹然不動。遠近瞻視驚歎¶
-無已。師有妹為尼。時在彼乃俯近而咄曰。老¶
-兄疇昔不循法津。死更熒惑於人。於是以手¶
-推之。僨然而踣遂就闍維。收舍利入塔。¶
 
-******* 溫州佛[山*(奧-釆+米)]和尚
-溫州佛[山*(奧-釆+米)]和尚。尋常見人來。以拄杖卓地云。¶
-前佛也恁麼。後佛也恁麼。僧問。正恁麼時作¶
-麼生。師畫一圓相。僧作女人拜。師乃打之。僧¶
-問。如何是佛法大意。師云。賊也賊也。僧問。¶
-如何是異類。師敲椀云。花奴花奴喫飯來。¶
+師又問︰	Wuye fragte weiterhin:
+「如何是祖師西來密傳心印？」	"Was ist das geheime Siegel des Geistes, das Bodhidharma aus dem Westen brachte?"
 
-******* 烏臼和尚
-烏臼和尚有玄紹二上座。從江西來參師。師¶
-乃問云。二禪伯發足什麼處。僧云。江西。師以¶
-拄杖打之。玄云。久知和尚有此機要。師云。爾¶
-既不會。後面箇僧祇對看。後面僧擬近前。師¶
-便打云。信知同窠無異土。參堂去。¶
+祖¶曰︰	Mazu antwortete:
+「大德正鬧在，	"Ehrwürden, Sie machen nur unnötig Lärm,
+且去！	gehen Sie nun
+別時來。」	und kommen ein andermal wieder."
 
-******* 潭州石霜大善和尚
-潭州石霜(一作龍)大善和尚。僧問。如何是佛法¶
-大意。師云。春日鷄鳴。僧云。學人不會。師云。¶
-中秋犬吠。師上堂云。大眾出來出來。老漢有¶
-箇法要。百年後不累爾。眾云。便請和尚說。師¶
-云。不消一堆火。洞山問。几前一童子甚是了¶
-事。如今不見向甚處去也。師云。火焰上泊不¶
-得。却歸清涼世界去也。¶
+師才出，	Wuye wandte sich zum gehen,
+祖召¶曰︰	da rief Mazu plötzlich:
+「大德！」	"Ehrwürden!"
+師迴首。	Wuye wandte den Kopf.
 
-******* 石臼和尚
-石臼和尚初參馬祖。問什麼處來。師云。烏臼
-<pb:ZB6q0003_T_008-0260a>¶
-來。祖云。烏臼近日有何言句。師云。幾人於此¶
-茫然在。祖云。茫然且置。悄然一句作麼生。師¶
-乃近前三步。祖云。我有七棒寄打。烏臼。爾還¶
-甘否。師云。和尚先喫某甲後甘。却迴烏臼。¶
+祖云︰	Mazu sagte:
+「是什麼？」	"Was ist dies?"
+師便領悟，	Da verstand Wuye
+禮¶拜。	und verbeugte sich.
 
-******* 本谿和尚
-本谿和尚。龐居士問云。丹霞打侍者意在何¶
-所。師云。大老翁見人長短在。居士云。為我與¶
-師同參了。方敢借問。師云。若恁麼從頭舉來¶
-共爾商量。居士云。大老翁不可共爾說人是¶
-非。師云。念翁老年。居士云。罪過罪過。¶
+祖云︰	Mazu sagte:
+「遮鈍漢！	"Dummer Kerl,
+禮拜作麼！」	was soll diese Verbeugerei!"
 
-******* 石林和尚
-石林和尚一日龐居士來。師乃竪起拂子云。¶
-不落丹霞機試道一句。居士奪却拂子了。却¶
-自竪起拳。師云。正是丹霞機。居士云。與我不¶
-落看。師云。丹霞患啞龐翁患聾。居士云。恰是¶
-也恰是也。師無語。居士云。向道偶爾恁。師¶
-亦無語。又一日師問居士云。某甲有箇借問。¶
-居士莫惜言句。居士云。便請舉來。師云。元來¶
-惜言句。居士云。遮箇問訊不覺落他便宜。¶
-師乃掩耳而已。居士云。作家作家。¶
+(雲居錫拈云︰	(Meister Xi aus Yunju nahm diesen Vorfall auf und sagte:
+「什麼處是汾州正閙？」)	"Wo hat denn der Alte aus Fenzhou gestört?")
+**** 
+自¶得旨，	Nachdem er die Lehre verstanden hatte,
+尋詣曹谿禮祖塔及廬嶽天台，	ging Wuye nach Caoxi, um den Stupa des [sechsten] Patriarchen zu besuchen; er ging danach auch zu den Bergen Lu, [Nan]yue und Tiantai
+遍尋聖迹。	und besuchte die heiligen Stätten dort.
+¶自洛抵雍，	Auf dem Weg von Luoyang nach Yingzhou 
+憩西明寺，	rastete er im Ximing Tempel,
+僧眾舉請充兩街大德，	und die Mönche dort baten ihn, Vorsteher für beide Gebiete zu werden.
+¶師曰︰	Wuye aber lehnte ab:
+「非吾本志也。」	"Das ist nicht meine Aufgabe."
 
-******* 亮主
-亮　主(洪州西山)本蜀人也。頗講經論。因參馬祖。¶
-祖問曰。見說座主大講得經論是否。亮云。不¶
-敢。祖云。將什麼講。亮云。將心講。祖云。心如¶
-工伎兒。意如和伎者。爭解講得經。亮抗聲云。¶
-心既講不得。虛空莫講得麼。祖云。却是虛空¶
-講得。亮不肯便出將下階。祖召云。座主。亮迴¶
-首。豁然大悟禮拜。祖云。遮鈍根阿師禮拜¶
-作麼。亮歸寺告聽眾云。某甲所講經論。謂無¶
-人及得。今日被馬大師一問。平生功夫氷釋¶
-而已。乃隱西山更無消息。¶
+後至上黨，	Später ging er nach Shangdang,
+節度使李抱¶真重師名行，	wo ihn der Gouverneur Li Baozhen hoch schätzte
+旦夕瞻奉。	und ihn morgens und abends besuchen kam.
+師常有倦色，	Wuye aber sah oft gelangweilt aus
+謂人曰︰	und sagte zu anderen:
+「¶吾本避上國浩穰，	"Ich habe immer den Kontakt mit der Hauptstadt vermieden,
+今復煩接君俟。	wie könnte also der Kontakt mit ihm
+豈吾心哉？」	dem Wunsch meines Herzens entsprechen?"
 
-******* 黑眼和尚
-黑眼和尚。僧問。如何是不出世師。師云。善財
-<pb:ZB6q0003_T_008-0260b>¶
-拄杖子。問如何是佛法大意。師云。十年賣炭¶
-漢。不知秤畔星。¶
+¶乃之縣上抱腹山。	Daraufhin ging er zum Berg Baofu im Innern der Provinz
+未久，	und nicht lange später
+又往清涼金閣寺。	ging er zum Jin'ge Tempel in Qingliang.
+重¶閱大藏，	Dort verbrachte er acht Jahre damit,
+周八稔而畢。	den gesamten Text des buddhistischen Kanons zu lesen.
 
-******* 米嶺和尚
-米嶺和尚。僧問。如何是衲衣下事。師云。醜陋¶
-任君嫌。不掛雲霞色。師將示滅。乃遺一偈云。¶
+復南下至于西河，	Später ging er weiter nach Süden, bis er an den Westfluss kam,
+刺史¶董叔纏請住開元精舍，	dort lud ihn der Gouverneur Dong Shuchan ein, im Kaiyuan Tempel zu wohnen.
+師曰︰	Wuye sagte:
+「吾緣在此矣。	"Ich habe eine karmische Verbindung mit diesem Ort,
+繇¶是雨大法雨垂二十載」	da ich schon vor zwanzig Jahren hier großen Dharma-Regen ausgegossen habe."
+(廣語具別錄)	(Ausführliche Aufzeichnungen davon zirkulieren separat.)
+并汾緇白無不¶嚮化。	Laien und Mönche des Bezirks Fenzhou gleichermaßen zeigten großes Interesse an seiner Lehre.
+
+凡學者致問，	Zu den Adepten, die Fragen stellten,
+師多答之云︰	pflegte Wuye zu sagen:
+「莫妄想。」	"Hege keine vergeblichen Wünsche!"
+
+**** 
+唐憲¶宗屨遣使徵召，	Kaiser Xianzong der Tang Dynastie sandte mehrmals Botschafter zu Wuye um ihn an den Hof zu bitten,
+師皆辭疾不赴。	aber der Meister ließ sich jeweils aufgrund seiner schlechten Gesundheit entschuldigen.
+
+暨穆宗即位，	Als Kaiser Muzong dessen Nachfolge angetreten hatte,
+¶思一瞻禮，	hoffte dieser, den Meister wenigstens einmal sehen zu können.
+乃命兩街僧錄靈阜等，	Er erließ ein Edikt und befahl dem Oberaufseher der Mönche Ling Fudeng, in den beiden Distrikten (des Landes)
+齎詔迎請。	Meister Wuye zu überzeugen.
+¶至，彼作禮曰︰	Als er dort ankam, verbeugte er sich und sagte zu Wuye:
+「皇上此度恩旨，	"Der kaiserliche Wunsch ist ein anderer als beim letzten Mal,
+不同常時，	und nicht von gewöhnlicher Art.
+願和¶尚且順天心，	Ich bitte sie, verehrter Mönch, folgen Sie dem Wunsch des Himmels.
+不可言疾也。」	Diesmal können Sie nicht behaupten, krank zu sein."
+
+師微笑曰︰	Wuye sagte lachend:
+「貧道何<pb:ZB6q0003_T_008-0257b>¶德，	"Was habe ich armer Mönch denn für eine Tugend,
+累煩世主？	daß sie den Herrn der Welt so bewegt?
+且請前行，	Geh du nur schon voraus,
+吾從別道去矣。」	ich werde auf einem anderen Weg folgen."
+
+乃沐¶身剃髮。	Dann nahm er ein Bad und rasierte sich.
+至中夜，	Um Mitternacht
+告弟子惠愔等曰︰	sprach er zu Huiyin und seinen anderen Schülern:
+「汝等見聞¶覺知之性，	"Eure Fähigkeit zu sehen und zu hören
+與太虛同壽，	hat dasselbe Alter wie das Universum,
+不生不滅。	das ohne Werden und ohne Vergehen ist.
+一切境界¶本自空寂，	Von Anfang an sind alle Zustände von sich aus leer und ruhig
+無一法可得。	und es gibt nichts, das man erreichen könnte.
+迷者不了，	Aber diejenigen, die verwirrt sind, verstehen dies nicht
+即為境惑，	und sind daher durch diese Zustände verwirrt.
+¶一為境惑，	Diejenigen, die so verwirrt sind,
+流轉不窮。	durchlaufen Existenz nach Existenz ohne ein Ende.
+汝等當知，	Ihr müsst wissen,
+心性本自有¶之，	der Geist besteht ursprünglich nur aus sich selbst,
+非因造作，	er ist nicht durch irgendetwas verursacht oder hervorgebracht.
+猶如金剛不可破壞。	Er ist wie ein wertvoller Diamant, der nicht zerstört werden kann.
+一切諸法，	Alle Dinge, die existieren
+¶如影如響，	sind nur wie Schatten oder Echos,
+無有實者。	sie haben keine eigene wirkliche Substanz.
+故經云︰	Daher heißt es im Sutra:
+『唯有一事實，	'Es gibt nur eines das wirklich ist,
+餘¶二即非真。	alles andere ist nicht wirklich.
+常了一切空，	Begreife, das alles leer ist
+無一物當情。』	und das es kein Ding gibt, an das es sich zu hängen lohnte.'
+是諸佛¶用心處，	Das ist es, was alle Buddhas immer betont haben,
+汝等勤而行之。」	strengt euch an, dies auch umzusetzen!"
+言訖，	Nachdem er so gesprochen hatte,
+跏趺而逝。	setzte er sich in den Meditationssitz und ging.
+
+
+荼毘¶日，	Am Tag seiner Einäscherung
+祥雲五色，	erhob sich eine glückverheißende fünffarbige Wolke,
+異香四徹，	und ein ungewöhnlicher Duft breitete sich von seinem Raum aus in alle Richtungen aus.
+所獲舍利，	Die Reliquien, die bei der Kremation entstanden,
+璨若玉珠，	waren wie hochwertige Jade und edle Perlen,
+¶弟子等貯以金棺。	Die Schüler sammelten sie in einen goldenen Korb.
+
+當長慶三年十二月二十¶一日，	Am 21. Tag des 12. Monats des 3. Jahres der Ära Changqing
+:zhu:
+長慶 [zhang4qing4] 823
+:END:
+
+葬于石塔，	wurde seine Asche in einem Steinstupa beigesetzt.
+壽六十二，	Er war 62 Jahre alt geworden,
+臘四十二，	davon hatte er 42 Jahre im Mönchsstand verbracht.
+勅諡大¶達國師，	Durch kaiserlichen Befehl wurde ihm der posthume Ehrenname Landesmeister Dada verliehen
+塔曰澄源。¶	und sein Stupa wurde Chengyuan genannt.
+*** 澧州大同廣澄禪師
+澧州大同廣澄禪師。
+僧問︰
+「如何是六根滅？」
+
+師¶云︰
+「輪劍擲空
+(舊，
+本作雲)
+無傷於物。」
+
+問︰
+「如何是本¶來人？」
+
+師云︰
+「共坐不相識。」
+
+僧云︰
+「恁麼即學人禮¶謝下去。」
+
+師云︰
+「暗寫愁腸寄與誰？」¶
+*** 池州南泉普願禪師	Chan Meister Nanquan Puyuan aus Chizhou
+池州南泉普願禪師者，	Chan Meister Nanquan Puyuan aus Chizhou
+鄭州新鄭人也，	stammte aus Xinzheng in Zhengzhou,
+姓王¶氏。	sein Familienname war Wang.
+唐至德二年，	Im 2. Jahr der Äre Zhide der Tang Dynastie
+依大隗山大慧禪師受業。	wurde er durch Chan Meister Dahui vom Dawei Berg als Novize ordiniert.
+三¶十詣嵩嶽受戒。	Im Alter von 30 Jahren ging er zum Song Berg und erhielt dort die volle Ordination.
+
+初習相部舊章，	Er studierte zunächst den Kommentar zum Vinaya von Fali,
+:zhu:
+相部 [xiang4pou3] 0101: 　（人名）唐相州，日光寺釋法礪之號。如謂冀州為冀部也。州稱部者，是僧傳之語例。
+法礪 (569-635)
+:END:
+究毘尼篇聚。	dann machte er sich an ein genaues Studium des fünfteiligen Vinaya
+:zhu:
+毘尼篇聚 [pi2ni4pian1ju4] 
+:END:
+¶次遊諸講肆，	und schließlich ging er auf Pilgerfahrt, um bei anderen Meistern zu lernen.
+歷聽《楞伽》、	So hörte er über das /Lañkāvatāra Sūtra/,
+《華嚴》，	das /Avataṃsaka Sūtra/,
+入中、百、門觀，	und drang in die Ansichten der Traktate des /Madhyamika Sastra/, /Sata Sastra/ und /Dvadasanikaya Sastra/ ein,
+精¶練玄義。	wobei er all ihre schwer verständlichen Aspekte meisterte.
+
+後扣大寂之室，	Später klopfte er an die Tür von Mazus Raum
+頓然忘筌，	und vergaß plötzlich all diese Fischfallen
+得遊戲三¶昧。	und verlegte sich auf das 'Theaterspielen' des Samadhi.
+**** 
+一日，	Eines Tages,
+為僧行粥次，	als er den Mönchen Reissuppe servierte,
+馬大師問︰	fragte Mazu:
+「桶裏是什麼？」	"Was ist im Topf?"
+¶師云︰	Nanquan antwortete:
+「遮老漢合取口，	"Dieser Alte macht den Mund auf,
+作恁麼語話！」	was soll denn das, hier zu reden!"
+自餘同參¶之流，	Von den anderen Anwesenden
+無敢徵詰。	traute sich niemand mehr etwas zu sagen.
+
+貞元十一年，	Im 11. Jahr der Ära Zhenyuan
+:zhu:
+貞元十一 [zheng1yuan2shi2yi1] 795
+:END:
+憩錫于池陽，	beschloß er in Chiyang zu bleiben.
+自¶構禪齋，	Er baute sich dort eine Chan-Klause
+不下南泉三十餘載。	und kam für mehr als 30 Jahre nicht mehr vom Nanquan Berg herunter.
+
+大和初，	Zu Beginn der Ära Dahe
+:zhu:
+大和初 [tai4huo4chu1] ca 827
+:END:
+宣城廉¶使陸公亘，	hörte Lu Gongxuan, der Gouverneur von Xuancheng
+嚮師道風，	von der Lehre des Meisters
+遂與監軍同請下山，	und, zusammen mit dem Militärinspektor lud er ihn ein, von seinem Berg herunterzukommen,
+伸¶弟子之禮，	und vollzog das Ritual, um sein Schüler zu werden.
+大振玄綱。	Auf diese Weise wurde seine Lehrtätigkeit in Gang gesetzt
+自此學徒不下數百，	und schon bald hatten sich hunderte von Schülern und Jüngern versammelt.
+言¶滿諸方，	Er predigte an vielen Orten
+目為郢匠。	und war hoch angesehen im Lande Ying.
+**** 
+一日，	Eines Tages
+師示眾云︰	sagte er zu seiner versammelten Anhängerschaft:
+「道箇如如，	"Obwohl der Weg absolut ist,
+<pb:ZB6q0003_T_008-0257c>
+¶早是變也，	ist es doch immer dabei, sich zu ändern.
+今時師僧須向異類中行。」	Jemand, der jetzt ein Meister der Mönche ist könnte schon bald als eine andere Kreatur geboren werden."
+
+歸宗云︰	Guizong sagte:
+「¶雖行畜生行，	"Selbst wenn man wie ein Haustier leben würde,
+不得畜生報。」	so muß man doch noch lange nicht die karmischen Resultate eines Haustieres empfangen."
+
+師云︰	Nanquan antwortete:
+「孟八郎又恁¶	"Ein grober Kerl
+麼去也。」	macht was er will."
+**** 
+師有時云︰	Einmal sagte Nanquan:
+「文殊、普賢，	"Gestern um Mitternacht gab ich Mañjuśrī und Samantabhadra
+昨夜三更每人¶與二十棒，	jedem 20 Stockschläge und 
+趁出院也。」	scheuchte sie zum Tempel hinaus."
+
+趙州云︰	Zhaozhou fragte:
+「和尚棒教誰喫？」	"Meister, was haben Sie denn denen für eine Lehre gegeben mit ihrem Stock?"
+
+¶師云︰	Nanquan sagte:
+「且道。	"Sag mir,
+王老師過在什麼處？」	was hat Meister Wang wohl falsch gemacht?"
+趙州禮拜而¶出。	Zhaozhou verbeugte sich und ging hinaus.
+
+(玄覺云︰	(Xuanjiao sagte: 
+「且道。	"Sag mir,
+趙州休去，	als Zhaozhou hinausging,
+是肯南泉？	hat er Nanquan bestätigt,
+不肯南泉？」)	oder hat er Nanquan nicht bestätigt?")
+**** 
+師擬取明日遊莊舍，	Einmal beabsichtigte Nanquan am folgenden Tag den Verwalter der Tempelgelände im Dorf zu besuchen.
+其¶夜，	In der Nacht
+土地神先報莊主，	berichtete der Schutzgeist der Erde dem Verwalter davon.
+莊主乃預為備。	Der Verwalter bereitete daher alles für seinen Besucher vor.
+師到，	Als der Meister kam
+問¶莊主︰	fragte er den Verwalter:
+「爭知老僧來，	"Wusstest du schon, daß ich heute kommen würde
+排辦如此？」	und hast deshalb solche Vorbereitungen getroffen?"
+
+莊主云︰	Der Verwalter antwortete:
+「昨夜土¶地報道和尚今日來。」	"In der vergangenen Nacht kam der Schutzgeist der Erde und berichtete mir, daß Sie heute kommen würden."
+
+師云︰	Nanquan sagte:
+「王老師修行無力，	"Meister Wang hat ungenügende spirituelle Kraft,
+¶被鬼神覷見。」	wenn er sich von einem Dämon ausspionieren lässt."
+
+有僧便問︰	Ein Mönch fragte:
+「和尚既是善知識，	"Meister, sie sind doch ein fortgeschrittener Mönch,
+為¶什麼被鬼神覷見？」	warum liessen Sie es zu, daß ein Dämon hinter ihnen herspioniert?"
+
+師云︰	Nanquan antwortete:
+「土地前更下一分飯。」	"Streu ein bischen mehr Reis auf dem Boden herum [um die hungrigen Geister zu füttern]."
+
+¶
+(玄覺云︰	(Xuanjiao sagte:
+「什麼處是土地前更下一分飯？」	"Warum hat er mehr Reis auf dem Boden verstreut?"
+
+雲居錫云︰	Yunju Xi sagte:
+「是賞伊？	"Wollte er ihn belohnen
+罰伊？	oder bestrafen?
+只如土地前見，	Ist was der Erdgeist gesehen hat
+是南泉？	Nanquan,
+不是南泉？」)	oder ist es nicht Nanquan?")
+**** 
+師有¶時云︰	Nanquan sagte einmal:
+「江西馬祖說	"Meister Mazu aus Jiangxi pflegt zu sagen:
+『即心即佛』。	'Der Geist ist schon Buddha.'
+王老師不恁麼¶道，	Meister Wang sagt dies nicht, ich sage:
+『不是心，	'Es ist nicht Geist,
+不是佛，	nicht Buddha
+不是物』。	und auch keine andere Sache.'
+恁麼道還有過麼？」	Nun sagt schon, ist eine solche Lehre überzogen?"
+¶趙州禮拜而出。	Zhaozhou verbeugte sich und ging hinaus.
+
+時有一僧隨問趙州云︰	Da fragte ein Mönch Zhaozhou:
+「上座¶禮拜了便出，	"Herr Vorsteher, eben haben Sie sich verbeugt und sind hinausgegangen,
+意作麼生？」	was sollte das wohl heissen?"
+
+趙州云︰	Zhaozhou sagte:
+「汝却問取和¶尚。」	"Da mußt du schon den Meister fragen."
+
+僧上問曰︰	So fragte der Mönch Nanquan:
+「適來諗上座意作麼生？」	"Was sollte das heißen, was Vorsteher Zhaozhou eben gemacht hat?"
+
+師云︰	Nanquan sagte:
+「他¶却領得老僧意旨。」	"Er hat verstanden, was ich gemeint habe."
+**** 
+師一日捧鉢上堂，	Eines Tages nahm Nanquan seinen Platz in der Halle ein und hielt einen Stab hoch.
+黃檗和¶尚居第一座，	Huangpo, der auf dem Sitz des Vorstehers saß,
+見師不起，	sah den Meister, aber erhob sich nicht.
+:zhu:
+見師不起 [xian4shi1pi3qi3] unterließ also eine Ehrenbezeigung
+:END:
+師問云︰	Nanquan fragte:
+「長老什麼年¶中行道？」	"Ehrwürdiger, seit wieviel Jahren praktizieren Sie die Übung?
+
+黃檗云︰	Huangpo antwortete:
+「空王佛時。」	"Seit der Zeit des Buddha der Leerheit."
+:zhu:
+空王佛 [kong4yu4fu2] （佛名）過去世之一佛。空王為佛之總名，而今為一佛之名也。法華經說，釋尊與阿難共於空王佛所發心。
+:END:
+
+師云︰	Nanquan sagte daraufhin:
+「猶是王老師¶孫在。	"Du scheinst ein Enkel von Meister Wang zu sein,
+下去！」	geh hinaus!"
+**** 
+師一日問黃檗︰	Eines Tages fragte Nanquan Huangpo:
+「黃金為世界，	"Wer wohnt in einem Haus aus Gold, 
+白銀¶為壁落，	mit Fenstern aus Silber?"
+此是什麼人居處？」
+
+黃檗云︰	Huangpo antwortete:
+「是聖人居¶處。」	"Das muß wohl das Haus eines Heiligen sein."
+
+師云︰	Nanquan sagte:
+「更有一人居何國土？」	"Gibt es noch jemanden, der woanders wohnt?"
+黃檗乃叉手立。	Huangpo stand nur da und verschränkte seine Hände.
+
+¶師云︰	Nanquan fragte:
+「道不得，	"Wenn du es nicht sagen kannst,
+何不問王老師？」	warum fragst du nicht Meister Wang?"
+
+黃檗却問︰	Huangpo fragte nun also:
+「更有¶一人居何國土？」	"Gibt es noch jemanden, der woanders wohnt?"
+
+師云︰	Nanquan sagte:
+「可惜許！」	"Wie schade! Knapp verfehlt!"
+**** 
+師又別時問黃︰¶	Ein anderes Mal fragte Nanquan Huangpo:
+「檗。	"Huangpo,
+定慧等學，	warum studieren die Leute
+此理如何？」	Versenkung, Weisheit und solche Sachen?"
+
+黃檗云︰	Huangpo sagte:
+「十二時中不¶依倚一物。」	"Sie hängen nicht in jeder Stunde des Tages von dieser einen Sache ab."
+
+師云︰	Nanquan fragte:
+「莫是長老見處麼？」	"Was würdest du denn sagen, Ehrwürdiger?"
+
+黃檗云︰	Huangpo sagte:
+「不¶敢。」	"Ich wage es nicht."
+
+師云︰	Nanquan fragte:
+「漿水價且置，	"Lassen wir mal den Preis für Reissuppe beiseite,
+草鞋錢教阿誰還？」	wer wird wohl für deine Strohsandalen bezahlen?"
+:zhu:
+草鞋錢 [zao4xie2qian2] Reisekosten?
+:END:
+**** 
+師見¶僧斫木，	Nanquan sah einen Mönch, der gerade Holz spaltete.
+師乃擊木三下，	Er schlug dreimal auf das Holz,
+僧放下斧子歸僧堂。	daraufhin legte der Mönch die Axt weg und ging zu den Wohnräumen der Mönche.
+<pb:ZB6q0003_T_008-0258a>
+¶師歸法堂，	Nanquan kehrte zur Buddhahalle zurück
+良久，	und wartete eine Weile,
+却入僧堂，	schließlich ging er zur Halle der Mönche.
+見前僧在衣鉢下¶坐，	Als er dort den Mönch fand, der mit Robe und Schale dort saß,
+師云︰	sagte er:
+「賺殺人！」	"Du bist ein Betrüger!"
+**** 
+僧問︰	Ein Mönch fragte:
+「師歸丈室，	"Wenn Sie zurück in den Abtsquartieren sind,
+將何指南？」	womit leiten Sie dann die Mönche an?"
+
+¶師云︰	Nanquan sagte:
+「昨夜三更失却牛，	"Um Mitternacht habe ich meinen Ochsen verloren,
+天明失却火。」	in der Morgendämmerung ist mir auch noch das Feuer ausgegangen."
+**** 
+師因東¶西兩堂各爭猫兒，	Eines Tages traf Nanquan die Mönche der östlichen und westlichen Halle beim Streit um eine Katze an.
+師遇之，	Nanquan trat dazwischen
+白眾曰︰	und sagte ganz ruhig zu den Versammelten:
+「道得即救¶取猫兒，	"Wenn ihr es sagen könnt, ist die Katze gerettet,
+道不得即斬却也。」	wenn ihr es nicht sagen könnt, dann werde ich sie zerschneiden.
+眾無對，	Keiner der Versammelten sagte etwas,
+師便斬之。	und so schnitt Nanquan die Katze auseinander.
+
+¶趙州自外歸，	Später kam Zhaozhou von draußen zurück
+師舉前語示之，	und Nanquan erzählte ihm, was passiert war.
+趙州乃脫履安¶頭上而出，	Zhaozhou legte sich daraufhin seine Strohsandalen auf den Kopf und ging hinaus.
+師曰︰	Nanquan sagte:
+「汝適來若在，	"Wenn du nur dagewesen wärst,
+即救得猫兒也。」	dann hätte die Katze gerettet werden können!"
+**** 
+¶師在方丈與杉山向火次，	Nanquan war zusammen mit Sangshan am Feuer im Abtsquartier.
+師云︰	Er sagte:
+「不用指東指¶西，	"Zeige mir die ursprüngliche Sache,
+直下本分事道來。」	"ohne nach Westen oder Osten zu zeigen."
+杉山插火著，	Sangshan steckte die Feuerzange in die Glut
+叉手立。	und stellte sich mit gekreuzten Händen hin.
+
+師¶云︰	Nanquan fragte:
+「雖然如是，	"Auch wenn das so ist,
+猶較王老師一線道。」	es sieht so aus, als ob du den direkten Weg von Meister Wang nachahmst."
+**** 
+有僧問訊，	Ein Mönch stand mit gekreuzten Armen da
+¶叉手而立，	und wollte eine Frage stellen.
+師云︰	Nanquan sagte:
+「太俗生！」	"Wie laienhaft das aussieht!"
+其僧便合掌。	Da legte der Mönch die Hände zusammen.
+
+師云︰	Nun sagte Nanquan:
+「太¶僧生！」	"Wie mönchisch das aussieht!"
+僧無對。	Der Mönch hatte keine Antwort.
+**** 
+一僧洗鉢次，	Ein Mönch war dabei, seine Essschale zu waschen,
+師乃奪却鉢，	da schnappte Nanquan sie ihm plötzlich weg,
+其僧¶即空手而立，	und der Mönch stand mit leeren Händen da.
+師云︰	Nanquan sagte:
+「鉢在我手裏，	"Deine Schale ist in meiner Hand,
+汝口喃喃作¶麼？」	was gibt es da noch zu grummeln?"
+僧無對。	Der Mönch hatte keine Antwort.
+**** 
+師因入菜園見一僧，	Eines Tages sah Nanquan im Gemüsegarten einen Mönch
+師乃將瓦子¶打之，	und warf einen Ziegel nach ihm.
+其僧迴顧；	Als der Mönch sich umdrehte,
+師乃翹足，	hob Nanquan einen Fuß.
+僧無語；	Der Mönch wußte nichts zu sagen.
+師便歸方¶丈，	Nun ging Nanquan zurück in sein Abtsquartier.
+僧隨後入，	Der Mönch folgte ihm und trat nach ihm ein.
+問訊云︰	Er fragte:
+「和尚適來擲瓦子打某¶甲，	"Meister, Sie haben eben einen Ziegel nach mir geworfen,
+豈不是警覺某甲？」	wie kommt es, daß ich nun nicht erleuchtet bin?"
+
+師云︰	Nanquan antwortete:
+「翹足又作麼生？」	"Warum habe ich denn einen Fuß gehoben?"
+僧¶無對。	Der Mönch hatte keine Antwort.
+
+(後有僧問石霜云︰	(Später kam ein Mönch zu Shishuang und fragte ihn:
+「南泉翹足，	"Als Nanquan den Fuß hob,
+意作麼生？」	was hatte das zu bedeuten?"
+
+石霜舉手云︰	Shishuang hob seine Hände und sagte:
+「還恁麼無？」)	"War es vielleicht so?")
+**** 
+師示眾云︰	Nanquan sagte zu seiner Versammlung:
+「王¶師老要賣身，	"Meister Wang möchte sich gerne verkaufen.
+阿誰要買？」	We möchte ihn denn kaufen?"
+
+一僧出云︰	Ein Mönch trat vor und sagte:
+「某甲買。」	"Ich kaufe."
+
+師¶云︰	Nanquan sagte:
+「他不作貴價，	"Wenn sein Preis nicht teuer,
+不作賤價，	aber auch nicht billig ist,
+汝作麼生買？」	wie wirst du ihn dann kaufen?"
+僧無¶對。	Der Mönch hatte keine Antwort.
+
+
+(臥龍代云︰	Wolong sagte anstelle des Mönchs:
+「屬某去也。」	"Komm, du gehörst mir!"
+
+未山代云︰	Weishan sagte anstelle des Mönchs:
+「是何道理？」	"Was soll denn das für eine Logik sein?"
+
+趙州代云︰	Zhaozhou sagte anstelle des Mönchs:
+「明年來與和尚縫箇布衫。」)	"Komm nächstes Jahr, dann mache ich Dir eine Robe, Meister!")
+**** 
+師與歸宗、	Nanquan wollte mit Guizong,
+¶麻谷同去參禮南陽國師，	und Magu zusammen gehen, um dem Landesmeister Nanyang [Huizhong] seine Aufwartung zu machen.
+師先於路上畫一¶圓相，	Bevor sie aufbrachen, malte Nanquan auf der Strasse einen Kreis [in den Sand]
+云︰	und sagte:
+「道得即去。」	"Wenn ihr es sagten könnt, dann brechen wir auf."
+歸宗便於圓相中坐，	Guizong setzte sich daraufhin in den Kreis,
+麻谷¶作女人拜。	während Magu einen Knicks machte, wie eine Frau.
+
+師云︰	Nanquan sagte:
+「恁麼即不去也。」	"Wenn das alles ist, dann können wir nicht gehen."
+
+歸宗云︰	Guizong sagte:
+「是什¶麼心行？」	"Mit was für einem Geist sollen wir denn gehen?"
+師乃相喚迴，	Da drehte Nanquan um,
+不去禮國師。	und sie gingen nicht zum Landesmeister.
+
+(玄覺云︰	(Xuanjiao fragte:
+「只如南泉恁麼道，	"Als Nanquan so mit ihnen sprach,
+¶是肯底語？	hat er die Antwort gut geheissen,
+不肯語？」	oder hat er sie nicht gut geheissen?"
+
+雲居錫云︰	Yunju Xi sagte:
+「比來去禮拜國師，	"Ich bin letztlich auch zum Landesmeister gegangen, um ihm meine Aufwartung zu machen,
+南泉為什麼却相喚迴？	warum kehrte Nanquan aber um?
+且道古人意作麼生？」)	Sag schon, ist das der Sinn der [Lehre der] Alten?")
+**** 
+師問神¶山︰	Nanquan fragte Shenshan:
+「作什麼？」	"Was machst du denn da?"
+
+對云︰	Shenshan antwortete:
+「打羅。」	"Ich siebe."
+
+師云︰	Nanquan fragte weiter:
+「手打？脚打？」	"Siebst du mit den Händen? Oder siebst du mit den Füssen?"
+
+神山¶云︰	Shenshan sagte:
+「請和尚道。」	"Ich bitte Sie, mir das zu erklären."
+
+師云︰	Nanquan sagte:
+「分明記取，	"Merke es dir gut
+舉似作家。」	und frage bei Gelegenheit einen Experten."
+
+
+(洞山別云︰	(Dongshan sagte dazu später:
+「¶無脚手者，	"Nur wer keinen Fuß und keine Hand hat
+始解打羅。」)	versteht wirklich, wie man siebt.")
+**** 
+有一坐主辭師，	Als ein Schriftgelehrter sich von Nanquan verabschiedete,
+師問︰	fragte dieser:
+「什麼處去？」	"Wohin gehen Sie denn?"
+
+對<pb:ZB6q0003_T_008-0258b>¶云︰	Er antwortete:
+「山下去。」	"Den Berg hinunter."
+
+師云︰	Nanquan sagte:
+「第一不得謗王老師。」	"Sprechen Sie vor allem nicht schlecht von Meister Wang."
+
+對云︰	Er antwortete:
+「¶爭敢謗和尚？」	"Wie würde ich es wagen, schlecht von Ihnen zu sprechen, Meister?"
+
+師乃噴水，	Daraufhin spritzte Nanquan etwas mit Wasser 
+云︰	und sagte:
+「多少？」	"Wieviel?"
+坐主便出去。¶	Da ging der Schriftgelehrte davon.
+
+(先雲居云︰	(Der ältere Yunju sagte:
+「非師木意。」	"Das war nicht die wirkliche Absicht von Nanquan."
+
+先曹山云︰	Der ältere Caoshan sagte:
+「賴也。」	"Vertraust du ihm?"
+
+石霜云︰	Shishuang sagte:
+「不為人斟酌。」	"Er denkt nicht an andere Menschen."
+
+長慶云︰	Changqing sagte:
+「請領語。」	"Er verlangte das Verstehen von Worten."
+
+雲居錫云︰	Yunju Xi sagte:
+「坐主當時出去，	"Als der Schriftgelehrte davon ging,
+是會不¶會？」)	hat er es da verstanden?")
+**** 
+師一日掩方丈門，	Eines Tages schloß Nanquan die Tür zu seinem Abtsquartier,
+將灰圍却門外云︰	verstreute Asche vor der Tür und sagte:
+「若有¶人道得即開。」	"Wenn es jemand sagen kann, dann mache ich die Tür auf."
+或有祇對，	Obwohl es einige versuchten,
+多未愜師意。	konnte doch niemand die Anforderungen des Meisters erfüllen.
+
+
+趙州云︰	[Schließlich] sagte Zhaozhou:
+「¶蒼天！」	"Ach du lieber Himmel!"
+師便開門。	Da öffnete Nanquan die Tür.
+**** 
+師因翫月次，	Als Nanquan einmal dabei war, den Mond zu betrachten,
+有僧便問︰	da kam ein Mönch und fragte:
+「幾時¶得似遮箇去？」	"Wie lange haben sie ihn denn schon?"
+
+師云︰	Nanquan sagte:
+「王老師二十年前亦恁麼¶來。」	"Meister Wang war vor 20 Jahren schon so."
+
+僧云︰	Der Mönch sagte:
+「即今作麼生？」	"Und wie steht es jetzt?"
+師便歸方丈。	Da ging Nanquan zurück zu seinem Abtsquartier.
+**** 
+陸亘大夫¶問云︰	Magistrat Lu Xuan fragte einmal den Meister:
+「弟子從六合來，	"Ihr Schüler kommt aus den sechs Himmelsrichtungen,
+彼中還更有身否？」	ist da vielleicht noch irgendjemand da?"
+
+師云︰	Nanquan sagte:
+「¶分明記取，	"Merken Sie sich das nur gut,
+舉似作家。」	und fragen Sie bei Gelegenheit einen Experten."
+**** 
+陸又謂師曰︰	Herr Lu sagte ein anderes Mal zu Nanquan:
+「和尚大不¶可思議，	"Meister, Sie sind wirklich nicht zu verstehen,
+到處世界皆成就。」	wohin Sie auch kommen ist die Welt in Ordnung."
+
+師云︰	Nanquan sagte:
+「適來總是大¶夫分上事。」	"Was Sie da gerade gesagt haben, ist etwas, für das Sie allein verantwortlich sind!"
+**** 
+陸異日又謂師曰︰	An einem anderen Tag sagte Herr Lu zu Nanquan:
+「弟子亦薄會佛¶法。」	"Ich habe nun ein klein wenig von der Buddha-Lehre verstanden."
+
+師便問︰	Da fragte ihn Nanquan:
+「大夫十二時中作麼生？」	"Wie verbringen Sie denn die 12 Stunden des Tages?"
+
+陸云︰	Lu antwortete:
+「寸絲¶不掛。」	"Ich hänge nicht einmal einen Zoll Seide an meinen Körper."
+
+師云︰	Nanquan sagte:
+「猶是階下漢。」	"Sie scheinen noch ein Anfänger zu sein."
+師又云︰	Weiterhin sagte er:
+「不見道︰	"Haben Sie nicht gehört, 
+有道¶君王不	daß ein Meister des Weges
+納有智之臣。」	keine Intellektuellen und Minister empfängt?"
+**** 
+師上堂次，	Eines Tages, als Nanquan gerade dabei war zu seiner Versammlung zu reden,
+陸大夫云︰	sagte der Gouverneur Lu:
+「請¶和尚為眾說法。」	"Ich bitte Sie, der Versammlung eine Rede zu halten?"
+
+師云︰	Nanquan sagte:
+「教老僧作麼生說？」	"Was wollen Sie denn, das ich sage?"
+
+陸云︰	Gouverneur Lu sagte:
+「¶和尚豈無方便？」	"Warum verwenden Sie nicht 'nützliche Mittel'?"
+
+師云︰	Nanquan sagte:
+「道他欠少什麼？」	"Sagen Sie doch, was fehlt denn noch?"
+
+陸云︰	Gouverneur Lu sagte:
+「為¶什麼有六道四生？」	"Na da wären doch zum Beispiel die sechs Bereiche der Existenz oder die vier Arten von Lebewesen?"
+
+師云︰	Nanquan sagte:
+「老僧不教他。」	"So etwas lehre ich nicht."
+**** 
+陸大夫¶與師見人雙陸。	Gouverneur Lu und Nanquan sahen einigen Leuten zu, die Backgammon spielten.
+:zhu:
+雙陸 [shuang1lu4] Backgammon, während der Tang-Zeit in China eingeführt.
+:END:
+拈起骰子云︰	Lu nahm den Würfel in die Hand und sagte:
+「恁麼不恁麼，	"Mal dieses und mal jenes,
+只¶恁麼信彩去時如何？」	wenn man nur sich immer nur an jenes hält, was soll denn das?"
+
+師拈起骰子云︰	Nanquan nahm den Würfel ebenfalls in die Hand und sagte:
+「臭骨頭¶十八。」	"Stinkender Knochen mit 18"
+**** 
+又問云︰	Ein anderes Mal sagte [Gouverneur Lu]:
+「弟子家中有一片石，	"In meinem Haus gibt es einen Stein,
+或時坐，	manchmal sitzt er,
+或¶時臥，	und manchmal liegt er,
+如今擬鐫作佛，	ich versuche gerade, daraus einen Buddha zu meißeln,
+還得否？」	Ob das wohl gelingen wird?"
+
+師云︰	Nanquan antwortete:
+「得。」	"Es gelingt!"
+
+大夫云︰	Gouverneur Lu sagte:
+「¶莫不得否？」	"Was, wenn es nicht gelingt?"
+
+師云︰	Nanquan sagte:
+「不得！	"Es gelingt nicht!, 
+不得！」	Es gelingt nicht!"
+(雲巖云︰	(Yunyan sagte:
+「坐即佛，	"Wenn er sitzt, dann ist er ein Buddha,
+不坐即非佛。」	sitzt er nicht, so ist er kein Buddha."
+
+
+洞山云︰	Dongshan sagte:
+「不坐即¶佛，	"Wenn er nicht sitzt, so ist er ein Buddha,
+坐即非佛。」)	sitzt er, so ist er kein Buddha.")
+**** 
+趙州問︰	Zhaozhou fragte:
+「道非物外，	"Der Weg ist nicht ausserhalb der Dinge,
+物外非道。	die ausserhalb der Dinge ist kein Weg.
+如何是物¶外道？」	Wie steht es denn mit dem Weg ausserhalb der Dinge?"
+師便打。	Nanquan gab ihm einen Klaps.
+趙州捉住棒云︰	Zhaozhou ergriff den Stab und sagte:
+「已後莫錯打人¶去。」	"Von jetzt ab schlage keinen mehr aus Versehen!"
+
+師云︰	Nanquan sagte:
+「龍蛇易辨，	"Einen Drache von einer Schlange zu unterscheiden ist einfach,
+衲子難謾。」	aber einen Chan Mönch hinters Licht zu führen ist schwer."
+**** 
+師喚院主，	Einmal rief Nanquan nach dem Tempelmeister.
+院¶主應諾，	Der Tempelmeister antwortete.
+師云︰	Nanquan sagte:
+「佛九十日在忉利天為母說法，	"Buddha verbrachte 90 Tage im Trāyastriṃśa-Himmel um seiner Mutter die Lehre zu erklären. 
+¶時優填王思佛，	Zu der Zeit dachte König Udayana an den Buddha
+請目連運神通三轉，	und bat Maudgalyayāna, seine übernatürlichen Kräfte zu benutzen
+:zhu:
+目連 [mu4lian4] Maudgalyayāna, einer der Hauptschüler des Buddha.
+:END:
+攝匠人¶往彼雕佛像，	und den versammelten Künstlern zu helfen, ein Abbild von Buddha zu schaffen.
+只雕得三十一相，	Sie schafften es aber nur, 31 der besonderen Merkmale darzustellen,
+為什麼梵音	warum war das Merkmal der noblen Stimme 
+<pb:ZB6q0003_T_008-0258c>
+¶相雕不得？」	nicht repräsentiert?"
+
+院主問︰	Der Tempelmeister fragte:
+「如何是梵音相？」	"Was ist denn das Merkmal der noblen Stimme?"
+
+師云︰	Nanquan sagte:
+「賺殺¶人！」	"Du Betrüger!"
+**** 
+師問維耶。︰	Nanquan fragte den Tempelvorsteher:
+「今日普請作什麼？」	"Was gibt es heute für eine Arbeit zu tun?"
+:zhu:
+普請 [pu3qing4] Samu: regelmäßige Arbeit, die Teil der Übung ist.
+:END:
+
+對云︰	Er antwortete:
+「拽磨。」	"Mühlsteine herumschleppen."
+
+¶師云︰	Nanquan sagte:
+「磨從爾拽，	"Von mir aus schlepp den Mühlstein herum,
+不得動著磨中心樹子。」	aber laß den hölzernen Keil in der Mitte in Frieden."
+維那¶無語。	Der Tempelvorsteher gab keine Antwort.
+
+(保福代云︰	(Baofu antwortete an Stelle des Vorstehers:
+「比來拽磨，	"In letzter Zeit haben wir den Mühlstein zwar herumgeschleppt,
+如今却不成。」	aber dabei ist nichts herausgekommen."
+
+法眼代云︰	Fayan antwortete an Stelle des Vorstehers:
+「恁麼即不拽也。」)	"Wenn das so ist, sollten wir ihn nicht herumschleppen.")
+**** 
+一日，有大德，	Eines Tages kam ein ehrwürdiger Mönch
+¶問師曰︰	und fragte Nanquan:
+「即心是佛又不得，	"'Der Geist ist schon Buddha' verstehe ich zwar noch nicht,
+非心非佛又不得，	'Kein Geist und kein Buddha' verstehe ich aber auch nicht,
+¶師意如何？」	verehrter Meister, was ist Ihre Meinung dazu?"
+
+
+師云︰	Nanquan sagte:
+「大德！	Ehrwürdiger!
+且信即心是佛便了，	Kümmern Sie sich nicht darum, ob Sie an [den Satz] 'Der Geist ist schon Buddha' glauben oder nicht,
+更¶說什麼得與不得。	und auch nicht darum, ob Sie etwas verstehen oder nicht verstehen.
+只如大德喫飯了，	So wie Sie keine Erlaubnis brauchen, um vom östlichen Korridor zum westlichen Korridor zu gehen,
+從東廊¶上西廊下，	um dort ein Mahl einzunehmen,
+不可總問人得與不得也。」	genauso wenig brauchen Sie jemanden zu fragen, ob er versteht oder nicht versteht."
+**** 
+師住庵¶時，	Als Nanquan noch in seiner Klause wohnte,
+有一僧到庵，	kam einmal ein Mönch um ihn dort zu besuchen.
+師向其僧道︰	Nanquan sagte zu ihm:
+「某甲上山，	"Ich gehe jetzt auf den Berg,
+待到¶齋時，	kümmere du dich um das Essen.
+做飯自喫了，	Wenn du selbst gegessen hast,
+送一分來山上。」	dann schick mir einen Teil auf den Berg."
+少時，	Nach einer Weile
+其僧¶自喫了，	aß der Mönch seinen Teil,
+却一時打破家事就床臥。	dann aber zerschlug er alles Geschirr und legte sich hin.
+師待不見¶來，	Nanquan wartete auf ihn, aber da er nicht kam,
+便歸庵，	ging er schließlich zur Klause zurück,
+見僧臥，	sah den schlafenden Mönch
+師亦去一邊而臥，	und legte sich selbst daneben und schlief ebenfalls.
+僧便起¶去。	Der Mönch erhob sich daraufhin und ging davon.
+
+師住後云︰	Später sagte Nanquan dazu:
+「我往前住庵時，	"Vor vielen Jahren, als ich noch in der Klause wohnte,
+有箇靈利道者，	da kam ein gescheiter Mönch vorbei,
+¶直至如今不見。」	aber seitdem habe ich ihn nicht wieder gesehen."
+**** 
+師拈起毬子問僧云︰	Nanquan hielt einen Ball empor und fragte einen Mönch:
+「那箇何¶似遮箇？」	"Welcher ähnelt diesem hier?"
+
+對云︰	Er antwortete:
+「不似。」	"Sie ähneln sich nicht."
+
+師云︰	Nanquan sagte:	
+「什麼處見那箇便¶道不似？」	"Wohin schaust du um festzustellen, daß sie sich nicht ähneln?"
+
+僧云︰	Der Mönch antwortete:
+「若問某甲見處，	"Wenn Sie meinen Standpunkt wissen wollen,
+和尚放下手中¶物。」	dann müssen Sie wegwerfen, was Sie in der Hand halten, Meister."
+
+師云︰	Nanquan sagte:
+「許爾具一隻眼。」	"Ich muss zugeben, daß du ein Auge hast."
+
+**** 
+陸亘大夫向師道︰	Gouverneur Lu fragte Nanquan:
+「肇¶法師甚奇怪，道︰	"Meister [Seng] Chao hat folgenden merkwürdigen Ausspruch getan:
+『萬物同根，	'Alle Dinge stammen aus derselben Wurzel
+是非一體。』」	und richtig und falsch sind Eines.'"
+:zhu:
+cf auch Zhuangzi, z.B.
+ ** [[mandoku:dz:32:0523a4::萬物同根][Vol. 32, p.0523a4]]	第一萬物同根是非一  [[mandoku:meta:dz:DZ1263][《DZ1263 莊列十論》]]
+ ** [[mandoku:dz:36:0747a9::萬物同根][Vol. 36, p.0747a9]]	蝶根萬物同根是非一  [[mandoku:meta:dz:DZ1487][《DZ1487 莊子翼》]]
+ ** [[mandoku:dz:16:0164a9::萬物同根][Vol. 16, p.0164a9]]	辯也萬物同根皆自知  [[mandoku:meta:dz:DZ0743][《DZ0743 南華真經新傳》]]
+
+:END:
+師指庭¶前牡丹華云︰	Nanquan zeigte auf Pfingstrosen, die im Garten blühten und sagte:
+「大夫！	"Herr Minister,
+時人見此一株華，	Leute von heute sehen diese Blumen
+如夢相¶似。」	wie in einem Traum."
+陸罔測。	Lu verstand nicht.
+
+陸又問︰	Er fragte weiterhin:
+「天王居何地位？」	"Wo wohnen die Könige des Himmels?"
+
+師云︰	Nanquan sagte:
+「若¶是天王，	"Könige des Himmels
+即非地位。」	haben keinen Wohnsitz auf der Erde."
+
+陸云︰	Lu sagte:
+「弟子聞說天王是居¶初地。」	"Ich habe gehört, daß Könige des Himmels sich im ersten Stadium der Bodhisattvaschaft befinden."
+
+師云︰	Nanquan sagte:
+「應以天王身得度者，	"Das bezieht sich auf jemanden, der in den Körper eines himmlischen Königs inkarniert ist,
+:zhu:
+應以天王身得度者 [ying4yi3tian1yu4yuan2dei3zhai2zhu1] == Avalokitesvara.
+:END:
+即現天王身	und daher in Gestalt eines Königs des Himmels erscheint,
+¶而為說法。」	um die Lehre zu verbreiten."
+
+陸辭歸宣城治所。	Gouverneur Lu war im Begriff, zu seiner Residenz zurückzukehren.
+師問︰	Nanquan fragte:
+「大夫去彼，	"Herr Minister, nachdem Sie weggegangen sind,
+¶將何治民？」	wie werden Sie das Volk regieren?"
+
+陸云︰	Lu sagte:
+「以智慧治民。」	"Ich werde mit Weisheit regieren."
+
+師云︰	Nanquan sagte:
+「恁麼即彼¶處生靈盡遭塗炭去也。」	"Wenn Sie das tun, dann werden die Leute hier großes Leid ertragen müssen."
+**** 
+師入宣州，	Als Nanquan in Xuanzhou ankam,
+陸大夫出¶迎接，	kam Gouverneur Lu Nanquan entgegen, um ihn willkommen zu heissen.
+指城門云︰	Er zeigte auf das Schloß und sagte:
+「人人盡喚作甕門，	"Alle nennen dies das Urnentor.
+未審和尚¶喚作什麼門？」	Ich frage mich, ob Sie wohl einen besseren Namen dafür haben?"
+
+師云︰	Nanquan sagte:
+「老僧若道，	"Wenn ich einen Namen würden,
+恐辱大夫風化。」	dann, so befürchte ich, könnte das die Ehre des Herrn Ministers beeinträchtigen."
+
+¶陸云︰	Lu sagte:
+「忽然賊來時作麼生？」	"Was würden Sie dann machen, wenn Beamten sie plötzlich angreifen würden?"
+
+師云︰	Nanquan sagte:
+「王老師罪過。」¶	"Das wäre die Schuld von Meister Wang."
+
+**** 
+陸又問︰	Lu fragte weiterhin:
+「大悲菩薩用如許多手眼作什麼？」	"Der Bodhisattva der Barmherzigkeit soll viele Hände und Augen haben, wozu braucht er die?"
+
+師<pb:ZB6q0003_T_008-0259a>¶云︰	Nanquan sagte:
+「只如國家又用大夫作什麼？」	"Was macht ein Staat mit all seinen Beamten?"
+**** 
+師為馬大師¶設齋，	Nanquan richtete ein Festmahl zu Ehren [des verstorbenen] Mazu aus.
+問眾云︰	Er fragte seine Versammlung:
+「馬大師來否？」	"Wird Meister Ma denn auch da sein?"
+眾無對。	Niemand antwortete.
+
+洞山云︰	Dongshan sagte:
+「待¶有伴即來。」	"Er wird kommen, wenn ein Begleiter da ist."
+
+師云︰	Nanquan sagte:
+「子雖後生，	"Du bist zwar noch jung,
+甚堪雕琢。」	aber aus dir kann noch was werden."
+
+洞山云︰	Dongshan sagte:
+「¶和尚莫壓良為賤。」	"Meister, drücken Sie nicht das Gute, um etwas Schlechtes zu gewinnen."
+**** 
+師洗衣次，	Der Meister war beim waschen seiner Robe,
+有僧問︰	da fragte ein Mönch:
+「和尚猶¶有遮箇在？」	"Meister, haben sie immer noch diese da?"
+
+師拈起衣云︰	Nanquan hielt die Robe hoch und sagte:
+「爭奈遮箇何！」	"Leider ist es immer noch diese!"
+
+(玄覺云︰	(Xuanjiao sagte:
+「且¶道是一箇？	"War es nun eine Robe,
+是兩箇？」)	oder waren es zwei Roben?")
+**** 
+師問僧良欽︰	Nanquan fragte einen Mönch namens Liangqin:
+「空劫中還有佛否？」	"Während des leeren Äons, gab es da einen Buddha?"
+
+對云︰	Der Mönch antwortete:
+「¶有。」	"Ja, es gab einen."
+
+師云︰	Nanquan fragte:
+「是阿誰？」	"Und welcher war das?"
+
+對云︰	Der Mönch antwortete:
+「良欽。」	"Liangqin."
+
+師云︰	Nanquan fragte weiter:
+「居何國土？」	"Und in welchem Land wohnte er?"
+¶無語。	Liangqin hatte keine Antwort.
+
+**** 								       :chan:
+僧問︰	Ein Mönch fragte:
+「祖祖相傳，	"Es wird gesagt, daß es von Patriarch zu Patriarch weitergegeben wurde,
+合傳何事？」	was ist es denn, das weitergegeben wurde?"
+
+師云︰	Nanquan sagte:
+「一二三¶四五。」	"Eins, zwei, drei, vier, fünf."
+
+問︰	Er fragte weiter:
+「如何是古人底？」	"Und wie haben die Menschen es damals bekommen?"
+
+師云︰	Nanquan sagte:
+「待有即道。」	"Wenn es etwas gäbe, würde ich es dir sagen."
+
+僧¶云︰	Der Mönch sagte:
+「和尚為什麼妄語？」	"Warum lügen Sie mich an, Meister?"
+
+師云︰	Nanquan sagte:
+「我不妄語，	"Ich lüge nicht,
+盧行¶者却妄語。」	sondern im Gegenteil, es war Bruder Lu, der uns angelogen hat."
+:zhu:
+盧行者 [lu2xing4zhu1] == der sechste Patriarch
+:END:
+**** 
+問︰	Jemand fragte:	
+「十二時中以何為境？」	"Woran grenzen die 12 Stunden des Tages?"
+
+師云︰	Nanquan sagte:
+「何不¶問王老師？」	"Warum fragst du nicht Meister Wang?"
+
+僧云︰	Der Mönch sagte:
+「問了也。」	"Das habe ich schon getan!"
+
+師云︰	Nanquan sagte:
+「還曾與汝為境¶麼？」	"War da noch eine Grenze für dich?"
+**** 
+僧問︰	Ein Mönch fragte:
+「青蓮不隨風火散時是什麼？」	"Was ist der frische Lotus, bevor er von Wind und Feuer zerstreut wird?"
+
+師云︰	Nanquan antwortete:
+「無¶風火不隨是什麼？」	"Was ist es, das Wind und Feuer nicht betrifft?"
+僧無對。	Der Mönch hatte keine Antwort.
+
+師却問︰	Da fragte ihn der Mönch:
+「不思善，	"Gib mir dein ursprüngliches Gesicht zurück,
+不¶思惡，	das du hattest, bevor du geboren wurdest,
+思總不生時，	bevor du Begriffe wie 'Gut' und 'Böse' hattest."
+還我本來面目來。」
+
+僧云︰	Der Mönch sagte:
+「無¶容止可露。」	"Da gibt es kein Gesicht zu zeigen."
+
+(洞山云︰	(Dongshan sagte:
+「還曾將示人麼？」)	"Ob er es jemals jemandem gezeigt hat?"
+**** 								       :chan:
+師問坐主云︰	Nanquan fragte einmal einen Schriftgelehrten:
+「爾與我講經¶得麼？」	"Wirst du für mich ein Sutra auslegen?"
+
+對云︰	Er antwortete:
+「某甲與和尚講經，	"Gerne lege ich für Sie ein Sutra aus, Meister.
+和尚須與某甲¶說禪始得。」	Sie müssen mir aber erst erklären, was Chan ist."
+
+師云︰	Nanquan sagte:
+「不可將金彈子博銀彈子去。」	"Du solltest nicht Gold gegen Silber eintauschen."
+
+¶座主云︰	Der Schriftgelehrte sagte:
+「某甲不會。」	"Ich verstehe nicht."
+
+師云︰	Nanquan sagte:
+「汝道。	"Dann sage mir doch,
+空中一片雲，	ist eine Wolke am Himmel
+為¶復釘釘住？	an einem Platz festgenagelt,
+為復藤纜著？」	oder ist sie wie mit einem Seil angebunden?"
+
+問︰	Der Schriftgelehrte fragte:
+「空中有一珠，	"Wenn es am Himmel ein Juwel gibt,
+如何¶取得？」	wie kann ich es bekommen?"
+
+師云︰	Nanquan sagte:
+「斫竹布梯空中取。」	"Mach' dir eine Leiter aus Bambus und Stoffen und hol es dir."
+
+僧云︰	Der Mönch sagte:
+「空中如何¶布梯？」	"Wo kann ich eine Leiter in den Himmel anlehnen?"
+
+師云︰	Nanquan sagte:
+「汝擬作麼生取？」	"Wie willst du es denn greifen?"
+**** 
+僧辭，問云︰	Der Mönch wollte sich verabschieden und fragte:
+「學人到¶諸方，	"Ich werde nun an viele Orte kommen, 
+有人問︰	die Leute dort werden mich fragen:
+『和尚近日作麼生？』	'Wie geht es denn dem Meister in letzter Zeit?"
+未審如何祇¶對？」	Was soll ich denn dann antworten?"
+
+師云︰	Nanquan sagte:
+「但向道︰	"Sag ihnen einfach:
+『近日解相撲。』」	'Er hat hat in letzter Zeit das Ringkämpfen verstanden.'"
+
+僧云︰	Der Mönch fragte:
+「作麼生？」	"Wie war denn der Kampf?"
+
+¶師云︰	Nanquan sagte:
+「一拍雙泯。」	"Mit einem Schlag waren beide hinüber."
+
+**** 
+問︰	Jemand fragte:
+「父母未生時，	"Als die Eltern mich noch nicht geboren hatten,
+鼻孔在什麼¶處？」	wo war da meine Nase und mein Mund?"
+
+師云︰	Nanquan antwortete:
+「父母已生了，	"Deine Eltern sind schon geboren,
+鼻孔在什麼處？」	wo sind nun deine Nase und dein  Mund?"
+**** 
+師將順¶世，	Nanquan war im Begriff diese Welt zu verlassen,
+第一座問︰	da fragte der erste Vorsteher:
+「和尚百年後向什麼處去？」	"Wo werden Sie in hundert Jahren sein, Meister?"
+
+師云︰	Nanquan antwortete:
+「¶山下作一頭水牯牛去。」	"Ich werde ein Ochse unten am Berg sein."
+
+僧云︰	Der Mönch fragte weiter:
+「某甲隨和尚去，	"Werde ich Ihnen dahin folgen können?"
+¶還得也無？」
+
+師云︰	Nanquan antwortete:
+「汝若隨我，	"Wenn du mir folgen willst,
+即須取一莖草<pb:ZB6q0003_T_008-0259b>¶來。」	dann musst du mir ein paar Grashalme mitbringen."
+
+師乃示疾。	Nanquan wurde dann krank.
+大和八年甲寅十二月二十五¶日。	Am 25. Tag des 12. Monats im 8. Jahr der Ära Dahe
+:zhu:
+大和八年甲寅十二月二十五 [tai4huo4ba1ning4jia3yin2shi2er4yue4er4shi2wu3]  834
+:END:
+凌晨，	zur frühen Morgenstunde,
+告門人曰︰	sagte er zu seinen Schülern:
+「星翳燈幻亦久矣，	"Seit die Sterne bedeckt wurden und die Lichter dunkel wurden ist schon viel Zeit vergangen,
+勿謂吾¶有去來也。」	sagt nicht, ich wäre gegangen oder gekommen."
+言訖而謝，	Als er ausgesprochen hatte verstarb er.
+壽八十七，	Er war 87 Jahre alt geworden
+臘五十八。	und verbrachte 58 Jahre als Mönch.
+明¶年春入塔。¶	Im Frühling des neuen Jahres wurde [seine Asche] in einem Stupa beigesetzt.
+*** 五臺山隱峯禪師
+五臺山隱峯禪師者，
+福建邵武人也，
+姓鄧氏¶
+(時稱鄧隱峯)
+幻若不慧，
+父母聽其出家。
+初遊馬祖之¶門，
+而未能覩奧。
+復來往石頭，
+雖兩番不捷
+(語見馬祖¶，
+章)而後於馬大師言下契會。
+
+師在石頭時，
+問¶云︰
+「如何得合道去？」
+
+石頭云︰
+「我亦不合道。」
+
+師云︰
+「¶畢竟如何？」
+
+
+石頭云︰
+「汝被遮箇得多少時耶？」
+
+¶一日，
+石頭和尚剗草次，
+師在左側叉手而立。
+¶石頭飛剗子向師面前剗一株草，
+師云︰
+「和尚¶只剗得遮箇，
+不剗得那箇。」
+石頭提起剗子，
+師¶接得剗子，
+乃作剗勢。
+
+石頭云︰
+「汝只剗得那箇，
+¶不解剗得遮箇。」
+師無對。
+
+(洞山代云︰
+「還有堆阜麼？」)
+
+師一日¶推土車次，
+馬大師展脚在路上坐，
+師云︰
+「請師¶收足。」
+
+大師云︰
+「已展不收。」
+
+師云︰
+「已進不退。」
+乃¶推車碾過。
+
+大師脚損，
+歸法堂，
+執斧子云︰
+「適來¶碾損老僧脚底出來！」
+師便出，
+於大師前引頸，¶
+大師乃置斧。
+
+
+師到南泉，
+覩眾僧參次，
+南泉指︰
+¶
+「淨缾云。
+銅缾是境，
+缾中有水，
+不得動著境，
+與¶老僧將水來。」
+師便拈淨缾向南泉面前瀉，
+南¶泉便休。
+
+師後到溈山，
+於上座頭解放衣鉢。
+溈¶山聞師叔到，
+先具威儀下堂內。
+師見來，
+便倒¶作睡勢。
+溈山便歸。
+方丈，
+師乃發去。
+少間，
+溈山¶問侍者︰
+「師叔在否？」
+
+對云︰
+「已去也。」
+
+溈山云︰
+「去時¶有什麼言語？」
+
+對云︰
+「無言語。」
+
+溈山云︰
+「莫道無言¶語，
+其聲如雷。」
+
+師以冬居衡嶽，
+夏止清涼。
+唐元¶和中，
+荐登五臺，
+路出淮西，
+屬吳元濟阻兵違
+<pb:ZB6q0003_T_008-0259c>
+¶拒王命，
+官軍與賊交鋒，
+未決勝負。
+師曰︰
+「吾當¶去解其患。」
+乃擲錫空中，
+飛身而過，
+兩軍將士¶仰觀，
+事符預夢，
+鬪心頓息。
+
+師既顯神異，
+慮成¶惑眾，
+遂入五臺，
+於金剛窟前將示滅，
+先問眾¶云︰
+「諸方遷化，
+坐去、
+臥去，
+吾嘗見之，
+還有立化¶也無？」
+
+眾云︰
+「有也。」
+
+
+師云︰
+「還有倒立者否？」
+
+眾云︰
+「¶未嘗見有。」
+師乃倒立而化，
+亭亭然其衣順體。
+¶時眾議舁就荼毘，
+屹然不動，
+遠近瞻視，
+驚歎¶
+無已。
+
+師有妹為尼，
+時在彼，
+乃俯近而咄曰︰
+「老¶兄疇昔不循法津，
+死更熒惑於人！」
+於是以手¶推之，
+僨然而踣，
+遂就闍維，
+收舍利入塔。¶
+*** 溫州佛和尚
+溫州佛和尚，
+尋常見人來，
+以拄杖卓地云︰
+「¶前佛也恁麼，
+後佛也恁麼。」
+
+僧問︰
+「正恁麼時作¶麼生？」
+師畫一圓相，
+僧作女人拜，
+師乃打之。
+
+僧¶問︰
+「如何是佛法大意？」
+
+師云︰
+「賊也！
+賊也！」
+
+僧問︰
+「¶如何是異類？」
+
+師敲椀︰
+云
+「花奴！
+花奴！
+喫飯來。」
+¶
+
+
+*** 烏臼和尚
+烏臼和尚。
+有玄、
+紹二上座。
+從江西來參師，
+師¶乃問云︰
+「二禪伯發足什麼處？」
+
+僧云︰
+「江西。」
+師以¶拄杖打之。
+
+玄云︰
+「久知和尚有此機要。」
+
+師云︰
+「爾¶既不會，
+後面箇僧祇對看。」
+
+後面僧擬近前，
+師¶便打云︰
+「信知同窠無異土。
+參堂去！」¶
+*** 潭州石霜大善和尚
+潭州石霜(一作龍)大善和尚。
+僧問︰
+「如何是佛法¶大意？」
+
+師云︰
+「春日鷄鳴。」
+
+僧云︰
+「學人不會。」
+
+師云︰
+「¶中秋犬吠。」
+
+師上堂云︰
+「大眾！
+出來！
+出來！
+老漢有¶箇法要，
+百年後不累爾。」
+
+眾云︰
+「便請和尚說。」
+
+師¶云︰
+「不消一堆火。」
+
+
+洞山問︰
+「几前一童子，
+甚是了
+¶事，
+如今不見，
+向甚處去也？」
+
+師云︰
+「火焰上泊不¶得，
+却歸清涼世界去也。」¶
+*** 石臼和尚
+石臼和尚，
+初參馬祖。
+問︰
+「什麼處來？」
+
+師云︰
+「烏臼
+<pb:ZB6q0003_T_008-0260a>
+¶來。」
+
+祖云︰
+「烏臼近日有何言句？」
+
+師云︰
+「幾人於此¶茫然在。」
+
+祖云︰
+「茫然且置，
+悄然一句作麼生？」
+師¶乃近前三步。
+
+祖云︰
+「我有七棒寄打。
+烏臼，
+爾還¶甘否？」
+
+師云︰
+「和尚先喫，
+某甲後甘。」
+却迴烏臼。¶
+*** 本谿和尚
+本谿和尚。
+龐居士問云︰
+「丹霞打侍者，
+意在何¶所？」
+
+
+師云︰
+「大老翁見人長短在。」
+
+居士云︰
+「為我與¶師同參了，
+方敢借問。」
+
+師云︰
+「若恁麼，
+從頭舉來，
+¶共爾商量。」
+
+居士云︰
+「大老翁不可共爾說人是¶非。」
+
+師云︰
+「念翁老年。」
+
+居士云︰
+「罪過！
+罪過！」¶
+*** 石林和尚
+石林和尚。
+一日，
+龐居士來，
+師乃竪起拂子云︰
+「¶不落丹霞機，
+試道一句。」
+居士奪却拂子了，
+却¶自竪起拳。
+
+師云︰
+「正是丹霞機。」
+
+居士云︰
+「與我不¶落看。」
+
+師云︰
+「丹霞患啞，
+龐翁患聾。」
+
+居士云︰
+「恰是¶也，
+恰是也。」
+師無語。
+
+居士云︰
+「向道偶爾恁。」
+師¶亦無語。
+
+
+又一日，
+師問居士云︰
+「某甲有箇借問，
+¶居士莫惜言句。」
+
+居士云︰
+「便
+請舉來。」
+
+師云︰
+「元來¶惜言句。」
+
+居士云︰
+「遮箇問訊，
+不覺落他便宜。」
+¶師乃掩耳而已。
+
+居士云︰
+「作家，
+作家。」¶
+*** 洪州西山亮主
+亮主(洪州西山)，
+本蜀人也，
+頗講經論，
+因參馬祖，
+¶祖問曰︰
+「見說座主大講得經論，
+是否？」
+
+亮云︰
+「不¶敢。」
+
+祖云︰
+「將什麼講？」
+
+
+亮云︰
+「將心講。」
+
+祖云︰
+「心如¶工伎兒，
+意如和伎者，
+爭解講得經？」
+
+亮抗聲云︰
+「¶心既講不得，
+虛空莫講得麼？」
+
+祖云︰
+「却是虛空¶講得。」
+
+亮不肯，
+便出。
+將下階，
+祖召云︰
+「座主！」
+亮迴¶首，。
+豁然大悟，
+禮拜。
+
+祖云︰
+「遮鈍根阿師！
+禮拜¶作麼！」
+
+亮歸寺，
+告聽眾云︰
+「某甲所講經論，
+謂無¶人及得，
+今日被馬大師一問，
+平生功夫氷釋¶而已。」
+乃隱西山，
+更無消息。¶
+*** 黑眼和尚
+黑眼和尚。
+僧問︰
+「如何是不出世師？」
+
+師云︰
+「善財
+<pb:ZB6q0003_T_008-0260b>
+¶拄杖子。」
+
+問︰
+「如何是佛法大意？」
+
+師云︰
+「十年賣炭¶漢，
+不知秤畔星。」
+¶
+*** 米嶺和尚
+米嶺和尚。
+僧問︰
+「如何是衲衣下事？」
+
+師云︰
+「醜陋¶任君嫌，
+不掛雲霞色。」
+
+師將示滅，
+乃遺一偈云︰¶
+#+BEGIN_VERSE
+
+　祖祖不思議，
+　不許常住世。¶
+　大眾審思惟，
+　畢竟只遮是。
+#+END_VERSE¶
+*** 齊峯和尚
+齊峯和尚。
+一日，
+龐居士
+入院，
+師云︰
+「俗人頻頻¶入僧院，
+討箇什麼？」
+
+居士迴顧兩邊云︰
+「誰恁道？
+¶誰恁道？」
+師乃咄之。
+
+居士云︰
+「在遮裏。」
+
+師云︰
+「莫¶是當陽道麼？」
+
+居士云︰
+「背後底？」
+
+師迴首云︰
+「看看！」
+
+¶
+居士云︰
+「草賊敗！
+草賊敗！」
+師無語。
+
+居士又問︰
+「此¶去峯頂有幾里？」
+
+師云︰
+「什麼處去來？」
+
+居士云︰
+「可¶畏峻硬，
+不得問著。」
+
+師云︰
+「是多少？」
+
+居士云︰
+「一二¶三。」
+
+師云︰
+「四五六。」
+
+居士云︰
+「何不道七？」
+
+師云︰
+「纔¶道七，
+便有八。」
+
+居士云︰
+「得也，
+得也。」
+
+師云︰
+「一任添¶取。」
+居士乃咄之而去，
+師隨後咄之。¶
+*** 大陽和尚
+大陽和尚。
+伊禪師參次，
+師云︰
+「伊禪！
+近日一般¶禪師，
+向目前指教人了。
+取目前事，
+作遮箇為¶人，
+還會文彩未兆時也無？」
+
+
+伊云︰
+「擬向遮裏¶致一問。
+問和尚，
+不知可否？」
+
+師云︰
+「答汝已了，
+莫¶道可否。」
+
+伊云︰
+「還識得目前也未？」
+
+師云︰
+「是目前¶作麼生識？」
+
+伊云︰
+「要且遭人點檢。」
+
+師云︰
+「誰？」
+
+伊云︰
+「¶某甲。」
+師便咄之，
+伊退步而立。
+
+師云︰
+「汝只解瞻¶前，
+不解顧後。」
+
+伊云︰
+「雪上更加霜。」
+
+師云︰
+「彼此無¶便宜。」¶
+*** 紅螺和尚
+紅螺和尚，
+在幽州，
+有頌。
+示門人曰︰
+¶
 
 #+BEGIN_VERSE
-「　祖祖不思議
-　不許常住世¶
-　大眾審思惟
-　畢竟只遮是
-#+END_VERSE
-」¶
 
-******* 齊峯和尚
-齊峯和尚。一日龐居士入院。師云。俗人頻頻¶
-入僧院討箇什麼。居士迴顧兩邊云。誰恁道¶
-誰恁道。師乃咄之。居士云。在遮裏。師云。莫¶
-是當陽道麼。居士云背後底。師迴首云。看看。¶
-居士云。草賊敗草賊敗。師無語。居士又問。此¶
-去峯頂有幾里。師云。什麼處去來。居士云可¶
-畏峻硬不得問著。師云。是多少。居士云。一二¶
-三。師云。四五六。居士云。何不道七。師云。纔¶
-道七便有八。居士云。得也得也。師云。一任添¶
-取。居士乃咄之而去。師隨後咄之。¶
+　紅螺山子近邊夷，
+　度得之流半是奚¶。
 
-******* 大陽和尚
-大陽和尚。伊禪師參次。師云。伊禪近日一般¶
-禪師。向目前指教人了。取目前事作遮箇為¶
-人。還會文彩未兆時也無。伊云。擬向遮裏¶
-致一問。問和尚不知可否。師云。答汝已了莫¶
-道可否。伊云。還識得目前也未。師云。是目前¶
-作麼生識。伊云要且遭人點檢。師云誰。伊云。¶
-某甲。師便咄之。伊退步而立。師云。汝只解瞻¶
-前不解顧後。伊云。雪上更加霜。師云。彼此無¶
-便宜。¶
+　共語問醻全不會，
+　可憐只解那斯祁。
+#+END_VERSE¶
 
-******* 紅螺和尚
-紅螺和尚。在幽州有頌。示門人曰。¶
+*** 泉州龜洋山無了禪師
+泉州龜洋山無了禪師者，
+莆田縣壺公橫塘<pb:ZB6q0003_T_008-0260c>¶人也，
+姓沈氏。
+年七歲，
+父携入白重院，
+視之如¶家，
+因而捨愛。
+至十八，
+剃度受具靈巖寺。
+後參¶大寂禪師，
+了達祖乘，
+即還本院。
 
+院之北，
+樵采¶路絕。
+師一日策杖披榛而行，
+遇六眸巨龜，
+斯¶須而失，
+乃庵于此峯，
+因號龜洋和尚。
+一日，
+有¶虎逐鹿入庵，
+師以杖格虎，
+遂存鹿命。
+洎將示¶化，
+乃述偈曰︰¶
 #+BEGIN_VERSE
-「　紅螺山子近邊夷
-　度得之流半是奚¶
-　共語問醻全不會
-　可憐只解那斯祁
-#+END_VERSE
-」¶
 
-******* 泉州龜洋山無了禪師
-泉州龜洋山無了禪師者。莆田縣壺公橫塘
-<pb:ZB6q0003_T_008-0260c>¶
-人也。姓沈氏。年七歲父携入白重院。視之如¶
-家因而捨愛。至十八剃度受具靈巖寺。後參¶
-大寂禪師了達祖乘。即還本院。院之北樵采¶
-路絕。師一日策杖披榛而行。遇六眸巨龜。斯¶
-須而失。乃庵于此峯。因號龜洋和尚。一日有¶
-虎逐鹿入庵。師以杖格虎遂存鹿命。洎將示¶
-化乃述偈曰。¶
+　八十年來辨西東，
+　如今不要白頭翁。¶
+　非長非短非大小，
+　還與諸人性相同。¶
+　無來無去兼無住，
+　了却本來自性空。
+#+END_VERSE¶
 
+偈畢，
+儼然告寂，
+瘞于正堂。
+垂二十載，
+為山泉¶淹沒，
+門人發塔，
+見全身水中而浮。
+閩王聞之，
+¶遣使舁入府庭供養。
+忽臭氣遠聞，
+王焚香祝¶之曰︰
+「可遷龜洋舊址建塔？」
+言訖，
+異香普熏，
+傾¶城瞻禮。
+
+
+本道奏諡真寂大師，
+塔曰靈覺。
+後弟¶子慧忠遇澄汰，
+終於白衣，
+就塔之東二百步¶而葬，
+謂之東塔。
+今龜
+洋二真身，
+士民依怙，
+若¶僧伽之遺化焉。
+慧忠得法於草庵和尚，
+如本¶章述之。¶
+*** 利山和尚
+利山和尚。
+僧問︰
+「眾色歸空，
+空歸何所？」
+
+師云︰
+「舌¶頭不出口。」
+
+僧云︰
+「為什麼不出口？」
+
+師云︰
+「內外一¶如故。」
+
+僧問︰
+「不歷僧祇獲法身，
+請師直指。」
+
+
+師云︰
+「¶子承父業。」
+
+僧云︰
+「如何領會？」
+
+師云︰
+「貶剝不施。」
+
+僧¶云︰
+「恁麼即大眾有賴去。」
+
+師云︰
+「大眾且置，
+作¶麼生是法身？」
+僧無對。
+
+師云︰
+「汝問，
+我向爾道。」
+
+僧¶却問︰
+「如何是法身？」
+
+師云︰
+「空華陽焰。」
+
+僧問︰
+「如¶何是西來意？」
+
+師云︰
+「不見如何。」
+
+僧云︰
+「為什麼如¶此？」
+
+師云︰
+「只為如此。」
+¶
+*** 韶州乳源和尚
+韶州乳源和尚，
+上堂云︰
+「西來的的意，
+不妨難
+<pb:ZB6q0003_T_008-0261a>
+¶道，
+大眾莫有道得者？
+出來試道看。」
+
+有一僧出，
+¶纔禮拜，
+師便打云︰
+「是什麼時節，
+出頭來！
+(」
+
+後人舉似長慶，
+¶長慶云︰
+「不妨，
+不妨。」
+
+資福代云︰
+「為和尚不惜身命。」)
+
+師見仰山作沙彌時念經，
+¶師咄云︰
+「遮沙彌。
+念經恰似哭聲！」
+
+仰山云︰
+「慧¶寂念經似哭，
+未審和尚如何？」
+師乃顧視而已。¶
+*** 松山和尚
+松山和尚。
+一日，
+命龐居士喫茶，
+居士舉起托¶子云︰
+「人人盡有分，
+因什麼道不得？」
+
+師云︰
+「只為¶人人盡有，
+所以道不
+得。」
+
+居士云︰
+「阿兄為什麼¶却道得？」
+
+師云︰
+「不可無言也。」
+
+居士云︰
+「灼然，
+灼¶然。」
+師便喫茶。
+
+居士云︰
+「阿兄喫茶，
+何不揖客？」
+
+師¶
+云︰
+「誰？」
+
+居士云︰
+「龐翁。」
+
+師云︰
+「何須更揖？」
+
+後丹霞¶聞舉，
+乃云︰
+「若不是松山，
+幾被箇老翁作亂一¶上。」
+
+居士聞之，
+乃令人傳語丹霞云︰
+「何不會¶取舉起托子時？」¶
+*** 則川和尚
+則川和尚。
+龐居士看師，
+師云︰
+「還記得初見石¶頭時道理否？」
+
+居士云︰
+「猶得阿師重舉在。」
+
+師云︰
+「¶情知久參事慢。」
+
+居士云︰
+「阿師老耄不啻龐翁。」
+
+¶師云︰
+「二彼同時，
+又爭幾許？」
+
+居士云︰
+「龐翁鮮健，
+¶且勝阿師。」
+
+師云︰
+「不是勝我，
+只是欠爾一箇幞¶頭。」
+
+居士云︰
+「恰與師相似。」
+師大笑而已。
+
+
+師入茶¶園內摘茶次，
+龐居士云︰
+「法界不容身，
+師還見¶我否？」
+
+師云︰
+「不是老師，
+怕答公話。」
+
+居士云︰
+「有¶問有答，
+蓋是尋常。」
+師乃摘茶不聽。
+
+居士云︰
+「莫¶怪適來容易借問。」
+師亦不顧。
+
+居士喝云︰
+「遮¶無禮儀老漢！
+待我一一舉向明眼人在。」
+師乃¶拋却茶籃子，
+便入方丈。¶
+*** 南嶽西園蘭若曇藏禪師
+南嶽西園蘭若曇藏禪師者，
+本受心印於大¶寂禪師，
+後謁石頭遷和尚，
+瑩然明徹。
+唐貞元¶二年，
+遁衡嶽之絕頂，
+人罕參訪。
+尋以脚疾移
+<pb:ZB6q0003_T_008-0261b>
+¶止西園，
+禪侶繁盛。
+師一日自開浴次，
+僧問︰
+「何¶不使沙彌？」
+師乃拊掌三下。
+
+(洞山云︰
+「一種是時節因緣，
+就中西園精妙。」
+
+¶
+僧問曹山︰
+「古人拊掌，
+豈不明沙彌邊事？」
+
+曹山云︰
+「如何是向上事？」
+僧無對。
+
+曹山云︰
+「遮沙彌。」)
+
+師養一¶靈犬，
+嘗夜經行次，
+其犬銜師衣，
+師即歸房。
+又¶於門側，
+伏守而吠，
+頻奮身作猛噬之勢。
+詰旦，
+¶東厨有一大蟒，
+長數丈，
+張口呀氣，
+毒焰熾然，
+¶侍者請避之，
+師曰︰
+「死可逃乎？
+彼以毒來，
+我以¶慈受。
+毒無實性，
+激發則彊；
+慈苟無緣，
+冤親一¶揆。」
+言訖，
+其蟒按首徐行，
+倏然不見。
+
+復一夕，
+有¶群盜，
+犬亦銜師衣，
+師語盜曰︰
+「茅舍有可意物，
+¶一任取去，
+終無所悋。」
+盜感其言，
+皆稽首而散。¶
+*** 百靈和尚
+百靈和尚。
+一日，
+與龐居士路次相逢，
+師問云︰
+「昔¶日居士南嶽得意句，
+還曾舉向人未？」
+
+居士云︰
+「¶曾舉來。」
+
+師云︰
+「舉向什麼人？」
+
+
+居士以手自指云︰
+「¶龐翁。」
+
+師云︰
+「直是妙德空生也歎居士不及！」
+
+居¶士却問︰
+「師得力句是誰
+知？」
+師便戴笠子而去。
+
+¶居士云︰
+「善為道路。」
+師一去更不迴首。
+*** 鎮州金¶牛和尚
+鎮州金¶牛和尚。
+師自作飯供養眾僧，
+每至齋時，
+舁飯¶桶到堂前，
+作舞曰︰
+「菩薩子！
+喫飯來。」
+乃撫掌大¶笑，
+日日如是。
+
+(僧問長慶︰
+「古人撫掌喚僧喫飯，
+意旨云何？」
+
+長慶云︰
+「大似因齋慶讚。」
+
+僧問大光︰
+「¶未審慶讚箇什麼？」
+大光是作舞，
+僧乃禮拜。
+
+大光云︰
+「遮野狐精！
+東禪齊云︰
+「古人自出手作飯，
+舞了喚人來喫，
+意作麼¶生？
+還會麼？
+只如長慶與大光，
+是明古人意？
+別為他分析？
+今問。
+上座︰
+『每日持盂掌鉢時，
+迎來送去時，
+為當與古人¶一般？
+別有道理？
+若道別，
+且作麼生得別來？
+若一般，
+恰到他舞，
+又被喚作野狐精。
+有會處麼？
+若未會，
+行脚眼在什麼¶處？』」
+
+僧問曹山︰
+「古人恁麼，
+是奴兒婢子否？」
+
+曹山云︰
+「是。」
+
+僧云︰
+「向上事請師道。」
+
+曹山咄云︰
+「遮奴兒婢子！」)¶
+*** 洞安和尚
+洞安和尚。
+有僧辭師，
+師云︰
+「什麼處去？」
+
+僧云︰
+「¶本無所去。」
+
+師云︰
+「善為闍梨。」
+
+僧云︰
+「不敢！
+不敢！」
+
+¶師云︰
+「到諸方分明舉。」
+
+僧侍立次，
+師問︰
+「今日是¶幾？」
+
+
+僧云︰
+「不知。」
+
+師云︰
+「我却記得。」
+
+僧云︰
+「今日是
+<pb:ZB6q0003_T_008-0261c>
+¶幾？」
+
+師云︰
+「今日昏晦。」¶
+*** 忻州打地和尚
+忻州打地和尚，
+自江西領旨，
+自晦其名。
+凡學¶者致問，
+惟以棒打地而示之，
+時謂之打地和¶尚。
+一日，
+被僧藏却棒，
+然後問，
+師但張其口。
+僧¶問門人曰︰
+「只如和尚每有人問。
+便打地，
+意旨¶如何？」
+門
+人即於竈底取柴一片，
+擲在釜中。¶
+*** 潭州秀谿和尚
+潭州秀谿和尚。
+一日，
+谷山問︰
+「聲色純真，
+如何¶是道？」
+
+師云︰
+「亂道作麼？」
+谷山却從東邊過西邊¶立。
+
+師云︰
+「若不恁麼，
+即禍事也。」
+谷山却過東邊。
+
+¶師乃下禪床，
+方行兩步，
+被谷山捉住云︰
+「聲色¶純真事作麼。
+生？」
+師便掌谷山。
+
+谷山云︰
+「十年後¶要箇人下茶也無在。」
+
+
+師云︰
+「要谷山老漢作麼？」
+¶谷山呵呵大笑三聲。¶
+*** 磁州馬頭峯神藏禪師
+磁州馬頭峯神藏禪師，
+上堂，
+謂眾云︰
+「知而無¶知，
+不是無知而說無知。
+(」
+
+南泉云︰
+「恁麼依師道，
+始道得一半。」
+
+黃檗云︰
+「不是南泉¶駿，
+他要圓前話)。」¶
+*** 潭州華林善覺禪師
+潭州華林善覺禪師，
+常持錫夜出林麓間，
+七¶步一振錫，
+一稱觀音名號。
+夾山善會造庵問¶曰︰
+「遠聞和尚念觀音，
+是否？」
+
+師曰︰
+「然。」
+
+夾山曰︰
+「騎¶却頭如何？」
+
+師曰︰
+「出頭從汝騎，
+不出頭，
+騎什麼？」
+
+¶僧參，
+方展坐具，
+師曰︰
+「緩，
+緩。」
+
+僧曰︰
+「和尚見什麼？」
+
+¶師曰︰
+「可惜許！
+磕破鐘樓。」
+其僧從此悟入。
+
+
+一日，
+¶觀察使裴休訪之，
+問曰︰
+「師還有侍者否？」
+
+師曰︰
+「¶有一兩箇。」
+
+裴曰︰
+「在什麼處？」
+
+師乃喚︰
+「大空！
+小空！」
+
+¶時二虎自庵
+後而出，
+裴覩之驚悸。
+師語二虎¶曰︰
+「有客，
+且去。」
+二虎哮吼而去。
+
+裴問曰︰
+「師作何¶行業，
+感得如斯？」
+
+師乃良久曰︰
+「會麼？」
+
+曰︰
+「不會。」
+
+師¶曰︰
+「山僧常念觀音。」¶
+*** 汀州水塘和尚
+汀州水塘和尚。
+師勘歸宗︰
+「甚麼處人？」
+
+歸宗云︰
+「
+<pb:ZB6q0003_T_008-0262a>
+¶陳州人。」
+
+師云︰
+「多少年紀？」
+
+
+歸宗云︰
+「二十二。」
+
+師¶云︰
+「闍梨未生時，
+老僧去來。」
+
+歸宗云︰
+「和尚幾時¶生？」
+師豎起拂子。
+
+歸宗云︰
+「遮箇豈有生邪？」
+
+師¶云︰
+「會得即無生。」
+
+歸宗云︰
+「未會在。」
+師無語。¶
+*** 古寺和尚
+古寺和尚。
+丹霞參師，
+經宿。
+至明。
+旦，煮粥熟，
+行¶者只盛一鉢與師，
+又盛一碗自喫，
+殊不顧丹¶霞，
+丹霞即自盛粥喫，
+行者云︰
+「五更侵早起，
+更¶有夜行人。」
+
+丹霞問師︰
+「何不教訓行者，
+得恁麼¶無禮？」
+
+師云︰
+「淨地上不要點污人家男女。」
+
+丹霞¶云︰
+「幾不問過遮老漢。」¶
+*** 江西椑樹和尚
+江西椑樹和尚，
+因臥次，
+道吾近前牽被覆之。
+¶師云︰
+「作麼？」
+
+
+道吾云︰
+「蓋覆。」
+
+師云︰
+「臥底是？
+坐底¶是？」
+
+道吾云︰
+「不在遮兩處。」
+
+師云︰
+「爭奈蓋覆何？」
+
+¶道吾云︰
+「莫亂道。」
+
+師向火次，
+道吾問︰
+「作什麼？」
+
+¶師云︰
+「和合。」
+
+道吾云︰
+「恁麼即當
+頭脫去也。」
+
+師¶云︰
+「隔闊來多少時耶？」
+道吾便拂袖而去。
+
+道吾¶一日從外歸，
+師問︰
+「什麼處去來？」
+
+道吾云︰
+「親¶近來。」
+
+師云︰
+「用簸遮兩片皮作什麼？」
+
+道吾云︰
+「¶借。」
+
+師云︰
+「他有從汝借，
+無作麼生？」
+
+
+道吾云︰
+「只¶為有，
+所以借。」¶
+*** 京兆草堂和尚
+京兆草堂和尚，
+自罷參大寂，
+遊至海昌，
+海昌¶和尚問︰
+「什麼處來？」
+
+師云︰
+「道場來。」
+
+昌云︰
+「遮裏¶什麼處？」
+
+師云︰
+「賊不打貧人家。」
+
+問︰
+「未有一法時，
+¶此身在什麼處？」
+師乃作一圓相，
+於中書身字。¶
+*** 袁州陽岐山甄叔禪師
+袁州陽岐山甄叔禪師，
+上堂，
+示眾曰︰
+「群靈一¶源，
+假名為佛，
+體竭形消而不滅，
+金流朴散而¶常存。
+性海無風，
+金波自涌；
+心靈絕兆，
+萬象齊¶昭。
+體斯理者，
+不言而遍歷沙界，
+不用而功益¶玄化，
+如何背覺反合塵勞，
+於陰界中妄自囚
+<pb:ZB6q0003_T_008-0262b>
+¶執？」
+
+師始登此山宴處，
+以至成院，
+聚徒演法四¶十餘年。
+唐元和十五年正月十三日歸寂，
+荼¶毘，
+獲舍利七百粒，
+於東峯下建塔。
+¶
+*** 濛谿和尚
+濛谿和尚。
+僧問︰
+「一念不生時如何？」
+師良久，
+僧¶便禮拜。
+
+師云︰
+「汝且作麼生會？」
+
+僧
+云︰
+「某甲終不¶無慚愧。」
+
+師云︰
+「汝却信得及。」
+
+問︰
+「本分事如何體¶悉？」
+
+師云︰
+「爾何不問？」
+
+僧云︰
+「請師答話。」
+
+師云︰
+「爾¶却問得好。」
+其僧大笑而出。
+
+師云︰
+「只有遮師¶僧靈利。」
+
+有僧從外來，
+師便喝，
+僧云︰
+「好箇來¶由。」
+
+師云︰
+「猶要棒在。」
+
+僧云︰
+「珍重！」
+便出。
+
+師云︰
+「得¶能自在。」
+¶
+*** 洛京黑㵎和尚
+洛京黑㵎和尚。
+僧問︰
+「如何是密室？」
+
+師云︰
+「截耳¶臥街。」
+
+僧云︰
+「如何是密室中人？」
+師乃換手搥胸。¶
+*** 京兆興平和尚
+京兆興平和尚。
+洞山來禮拜，
+師云︰
+「莫禮老朽。」
+
+¶洞山云︰
+「禮非老朽。」
+
+師云︰
+「非老朽者不受禮。」
+
+洞¶山云︰
+「他亦不止。」
+
+洞山問︰
+「如何是古佛心？」
+
+師¶云︰
+「即汝心是。」
+
+洞山云︰
+「雖然如此，
+猶是某甲疑¶處。」
+
+師云︰
+「若恁麼，
+即問取木人去。」
+
+洞山云︰
+「某甲¶有一句子，
+不借諸聖口。」
+
+師云︰
+「汝試道看。」
+
+
+洞山¶云︰
+「不是某甲。」
+
+洞山辭，
+師云︰
+「什麼處去？」
+
+洞山¶云︰
+「沿流無定止。」
+
+師云︰
+「法身沿流？
+報身沿流？」
+
+洞¶山云︰
+「總不作此解。」
+師乃撫掌。
+
+(保福云︰
+「洞山自是一家。」
+乃別云︰
+「¶覓得幾人？」)¶
+*** 逍遙和尚
+逍遙和尚。
+一日，
+師在禪床上坐，
+有僧鹿西問¶云︰
+「念念攀緣，
+心心永寂。」
+
+師云︰
+「
+昨日晚間也有¶人恁麼道。」
+
+西云︰
+「道箇什麼？」
+
+師云︰
+「不知。」
+
+西云︰
+「¶請師說。」
+師以拂子驀口打，
+西便出。
+
+師告大眾¶云︰
+「頂門上著一隻眼。」
+¶
+*** 福谿和尚
+福谿和尚。
+僧問︰
+「古鏡無瑕時如何？」
+師良久。
+
+僧<pb:ZB6q0003_T_008-0262c>¶云︰
+「師意如何？」
+
+師云︰
+「山僧耳背。」
+
+僧又舉前問，
+¶師云︰
+「猶較些子。」
+
+僧問︰
+「如何是自己？」
+
+師云︰
+「爾¶問什麼？」
+
+僧云︰
+「豈無方便去也？」
+
+師云︰
+「爾適來問¶什麼？」
+
+僧云︰
+「得恁麼顛倒。」
+
+師云︰
+「今日合喫山僧¶手裏棒。」
+
+僧問︰
+「緣散歸空，
+空歸何所？」
+
+師云︰
+「某¶甲！」
+
+僧云︰
+「喏。」
+
+師云︰
+「空在何處？」
+
+
+僧云︰
+「却請師道。」
+
+¶師云︰
+「波斯喫胡椒。」¶
+*** 洪州水老和尚
+洪州水老和尚，
+初問馬祖︰
+「如何是西來的的¶意？」
+祖乃當胸蹋倒。
+
+師大悟，
+起來撫掌呵呵¶大笑云︰
+「大奇！
+百千三昧，
+無量妙義，
+只向一毛¶頭上便識得根原去。」
+便禮拜而退。
+
+師住後，
+告¶眾云︰
+「自從一喫馬師蹋，
+直至如今笑不休。」
+
+有¶僧作一圓相，
+以手撮向師身上，
+師乃三撥，
+亦¶作一圓相，
+却指其僧，
+僧便禮拜，
+師打云︰
+「遮虛¶頭漢！」
+
+
+問︰
+「如何
+是沙門行？」
+
+師云︰
+「動則影現，
+覺則¶氷生。」
+
+問︰
+「如何是佛法大意？」
+師乃拊掌呵呵¶大笑。
+凡接機，
+大約如此。¶
+*** 浮盃和尚
+浮盃和尚。
+有凌行婆來禮拜師，
+師與坐喫茶，
+¶行婆乃問云︰
+「盡力道不得底句，
+還分付阿誰？」
+
+¶師云︰
+「浮杯無剩語。」
+
+婆云︰
+「某甲不恁麼道。」
+
+師遂¶舉前語問婆，
+婆斂手哭云︰
+「蒼天中間更有冤¶苦。」
+師無語。
+
+婆云︰
+「語不知偏正，
+理不識倒邪，
+¶為人即禍生也。」
+
+後有僧舉似南泉，
+南泉云︰
+「苦¶哉！
+浮盃被老婆摧折。」
+
+婆後聞南泉恁道，
+笑云︰
+「¶王老師猶少機關在。」
+
+有幽州澄一禪客。
+逢見¶行婆，
+乃問云︰
+「怎生南泉恁道猶少機關在？」
+
+婆¶乃哭云︰
+「可悲！
+可痛！」
+禪客罔措。
+
+
+婆乃問云︰
+「會麼？」
+¶禪客合掌而退。
+
+婆云︰
+「徛死禪和，
+如麻似粟。」
+
+¶後澄一禪客舉似趙州，
+趙州云︰
+「我若見遮
+<pb:ZB6q0003_T_008-0263a>
+¶臭老婆，
+問教口啞却。」
+
+澄一問趙州云︰
+「未審和¶尚怎生問他？」
+
+趙州以棒打云︰
+「似遮箇徛死¶漢，
+不打待幾時？」
+連打數棒。
+
+婆又聞趙州恁道，
+¶云︰
+「趙州自合喫婆手裏棒。」
+
+後僧舉似趙州，
+趙
+¶州哭云︰
+「可悲！
+可痛！」
+
+婆聞趙州此語，
+合掌歎︰
+云
+「¶趙州眼放光明，
+照破四天下也。」
+
+後趙州教僧¶去問婆云︰
+「怎生是趙州眼？」
+婆乃竪起拳頭。
+
+趙¶州聞，
+乃作一頌。
+送凌行婆云︰¶
 #+BEGIN_VERSE
-「　八十年來辨西東
-　如今不要白頭翁¶
-　非長非短非大小
-　還與諸人性相同¶
-　無來無去兼無住
-　了却本來自性空
-#+END_VERSE
-」¶
 
-偈畢儼然告寂。瘞于正堂。垂二十載。為山泉¶
-淹沒。門人發塔。見全身水中而浮。閩王聞之。¶
-遣使舁入府庭供養。忽臭氣遠聞。王焚香祝¶
-之曰。可遷龜洋舊址建塔。言訖異香普熏傾¶
-城瞻禮。本道奏諡真寂大師。塔曰靈覺。後弟¶
-子慧忠遇澄汰終於白衣。就塔之東二百步¶
-而葬。謂之東塔。今龜洋二真身士民依怙。若¶
-僧伽之遺化焉。慧忠得法於草庵和尚。如本¶
-章述之。¶
+　當機直面提，
+　直面當機疾。¶
 
-******* 利山和尚
-利山和尚。僧問。眾色歸空空歸何所。師云。舌¶
-頭不出口。僧云。為什麼不出口。師云。內外一¶
-如故。僧問不歷僧祇獲法身請師直指。師云。¶
-子承父業。僧云。如何領會。師云貶剝不施。僧¶
-云。恁麼即大眾有賴去。師云。大眾且置。作¶
-麼生是法身。僧無對。師云。汝問我向爾道。僧¶
-却問。如何是法身。師云。空華陽焰。僧問。如¶
-何是西來意。師云。不見如何。僧云。為什麼如¶
-此。師云。只為如此。¶
+　︰。
+「」，、、
+「」。
 
-******* 韶州乳源和尚
-韶州乳源和尚。上堂云。西來的的意不妨難
-<pb:ZB6q0003_T_008-0261a>¶
-道。大眾莫有道得者。出來試道看。有一僧出¶
-纔禮拜。師便打云。是什麼時節出頭來(後人舉似長慶。¶
-長慶云。不妨不妨。資福代云。為和尚不惜身命)師見仰山作沙彌時念經。¶
-師咄云。遮沙彌。念經恰似哭聲。仰山云。慧¶
-寂念經似哭。未審和尚如何。師乃顧視而已。¶
+報爾凌行婆，
+　哭聲何得失？
+#+END_VERSE¶
 
-******* 松山和尚
-松山和尚。一日命龐居士喫茶。居士舉起托¶
-子云。人人盡有分。因什麼道不得。師云。只為¶
-人人盡有。所以道不得。居士云。阿兄為什麼¶
-却道得。師云。不可無言也。居士云。灼然灼¶
-然。師便喫茶。居士云。阿兄喫茶何不揖客。師¶
-云誰。居士云。龐翁。師云。何須更揖。後丹霞¶
-聞舉乃云。若不是松山幾被箇老翁作亂一¶
-上。居士聞之。乃令人傳語丹霞云。何不會¶
-取舉起托子時。¶
-
-******* 則川和尚
-則川和尚。龐居士看師師云。還記得初見石¶
-頭時道理否。居士云。猶得阿師重舉在。師云¶
-情知久參事慢。居士云。阿師老耄不啻龐翁。¶
-師云。二彼同時又爭幾許。居士云。龐翁鮮健¶
-且勝阿師。師云。不是勝我只是欠爾一箇幞¶
-頭。居士云。恰與師相似。師大笑而已。師入茶¶
-園內摘茶次。龐居士云。法界不容身。師還見¶
-我否。師云。不是老師怕答公話。居士云。有¶
-問有答蓋是尋常。師乃摘茶不聽。居士云。莫¶
-怪適來容易借問。師亦不顧。居士喝云。遮¶
-無禮儀老漢。待我一一舉向明眼人在。師乃¶
-拋却茶籃子。便入方丈。¶
-
-******* 南嶽西園蘭若曇藏禪師
-南嶽西園蘭若曇藏禪師者。本受心印於大¶
-寂禪師。後謁石頭遷和尚瑩然明徹。唐貞元¶
-二年遁衡嶽之絕頂。人罕參訪。尋以脚疾移
-<pb:ZB6q0003_T_008-0261b>¶
-止西園。禪侶繁盛。師一日自開浴次。僧問。何¶
-不使沙彌。師乃拊掌三下(洞山云。一種是時節因緣。就中西園精妙。¶
-僧問曹山。古人拊掌豈不明沙彌邊事。曹山云。如何是向上事。僧無對。曹山云。遮沙彌)師養一¶
-靈犬。嘗夜經行次。其犬銜師衣。師即歸房。又¶
-於門側伏守而吠。頻奮身作猛噬之勢。詰旦¶
-東厨有一大蟒長數丈。張口呀氣毒焰熾然。¶
-侍者請避之。師曰。死可逃乎。彼以毒來我以¶
-慈受。毒無實性激發則彊。慈苟無緣冤親一¶
-揆。言訖其蟒按首徐行倏然不見。復一夕有¶
-群盜。犬亦銜師衣。師語盜曰。茅舍有可意物。¶
-一任取去終無所悋。盜感其言皆稽首而散。¶
-
-******* 百靈和尚
-百靈和尚一日與龐居士路次相逢。師問云。昔¶
-日居士南嶽得意句還曾舉向人未。居士云。¶
-曾舉來。師云。舉向什麼人。居士以手自指云。¶
-龐翁。師云。直是妙德空生也歎居士不及。居¶
-士却問。師得力句是誰知。師便戴笠子而去。¶
-居士云。善為道路。師一去更不迴首。
-******* 鎮州金牛和尚
-
-鎮州金¶
-牛和尚。師自作飯供養眾僧。每至齋時舁飯¶
-桶到堂前作舞曰。菩薩子喫飯來。乃撫掌大¶
-笑。日日如是(僧問長慶。古人撫掌喚僧喫飯。意旨云何。長慶云。大似因齋慶讚。僧問大光。¶
-未審慶讚箇什麼。大光是作舞。僧乃禮拜。大光云。遮野狐精。東禪齊云。古人自出手作飯。舞了喚人來喫意作麼¶
-生。還會麼。只如長慶與大光。是明古人意。別為他分析。今問。上座。每日持盂掌鉢時。迎來送去時。為當與古人¶
-一般。別有道理。若道別且作麼生得別來。若一般恰到他舞。又被喚作野狐精。有會處麼。若未會行脚眼在什麼¶
-處。僧問曹山。古人恁麼是奴兒婢子否。曹山云是。僧云。向上事請師道。曹山咄云。遮奴兒婢子)。¶
-
-******* 洞安和尚
-洞安和尚。有僧辭師。師云。什麼處去。僧云。¶
-本無所去。師云。善為闍梨。僧云。不敢不敢。¶
-師云。到諸方分明舉。僧侍立次。師問。今日是¶
-幾。僧云。不知。師云。我却記得。僧云。今日是
-<pb:ZB6q0003_T_008-0261c>¶
-幾。師云。今日昏晦。¶
-
-******* 忻州打地和尚
-忻州打地和尚。自江西領旨。自晦其名。凡學¶
-者致問。惟以棒打地而示之。時謂之打地和¶
-尚。一日被僧藏却棒然後問。師但張其口。僧¶
-問門人曰。只如和尚每有人問。便打地。意旨¶
-如何。門人即於竈底取柴一片擲在釜中。¶
-
-******* 潭州秀谿和尚
-潭州秀谿和尚。一日谷山問。聲色純真如何¶
-是道。師云。亂道作麼。谷山却從東邊過西邊¶
-立。師云。若不恁麼即禍事也。谷山却過東邊。¶
-師乃下禪床方行兩步。被谷山捉住云。聲色¶
-純真事作麼。生師便掌谷山谷山云。十年後¶
-要箇人下茶也無在。師云要谷山老漢作麼。¶
-谷山呵呵大笑三聲。¶
-
-******* 磁州馬頭峯神藏禪師
-磁州馬頭峯神藏禪師上堂謂眾云。知而無¶
-知不是無知而說無知(南泉云。恁麼依師道。始道得一半。黃檗云。不是南泉¶
-駿。他要圓前話)。¶
-
-******* 潭州華林善覺禪師
-潭州華林善覺禪師。常持錫夜出林麓間。七¶
-步一振錫一稱觀音名號。夾山善會造庵問¶
-曰。遠聞和尚念觀音是否。師曰然。夾山曰。騎¶
-却頭如何。師曰。出頭從汝騎。不出頭騎什麼。¶
-僧參方展坐具。師曰緩緩。僧曰。和尚見什麼。¶
-師曰。可惜許磕破鐘樓。其僧從此悟入。一日¶
-觀察使裴休訪之問曰。師還有侍者否。師曰。¶
-有一兩箇。裴曰。在什麼處。師乃喚大空小空。¶
-時二虎自庵後而出。裴覩之驚悸。師語二虎¶
-曰。有客且去。二虎哮吼而去。裴問曰。師作何¶
-行業感得如斯。師乃良久曰。會麼。曰不會。師¶
-曰。山僧常念觀音。¶
-
-******* 汀州水塘和尚
-汀州水塘和尚。師勘歸宗。甚麼處人。歸宗云。
-<pb:ZB6q0003_T_008-0262a>¶
-陳州人。師云。多少年紀歸宗云。二十二。師¶
-云。闍梨未生時老僧去來。歸宗云。和尚幾時¶
-生。師豎起拂子。歸宗云。遮箇豈有生邪。師¶
-云。會得即無生。歸宗云。未會在師無語。¶
-
-******* 古寺和尚
-古寺和尚。丹霞參師經宿至明。旦煮粥熟。行¶
-者只盛一鉢與師。又盛一碗自喫。殊不顧丹¶
-霞。丹霞即自盛粥喫行者云。五更侵早起。更¶
-有夜行人。丹霞問師。何不教訓行者。得恁麼¶
-無禮。師云。淨地上不要點污人家男女。丹霞¶
-云。幾不問過遮老漢。¶
-
-******* 江西椑樹和尚
-江西椑樹和尚因臥次。道吾近前牽被覆之。¶
-師云。作麼。道吾云。蓋覆。師云。臥底是坐底¶
-是。道吾云。不在遮兩處。師云。爭奈蓋覆何。¶
-道吾云。莫亂道。師向火次。道吾問。作什麼。¶
-師云。和合。道吾云。恁麼即當頭脫去也。師¶
-云。隔闊來多少時耶。道吾便拂袖而去。道吾¶
-一日從外歸。師問。什麼處去來。道吾云。親¶
-近來。師云。用簸遮兩片皮作什麼。道吾云¶
-借。師云。他有從汝借無作麼生。道吾云。只¶
-為有所以借。¶
-
-******* 京兆草堂和尚
-京兆草堂和尚。自罷參大寂。遊至海昌。海昌¶
-和尚問。什麼處來。師云。道場來。昌云遮裏¶
-什麼處。師云。賊不打貧人家。問未有一法時。¶
-此身在什麼處。師乃作一圓相於中書身字。¶
-
-******* 袁州陽岐山甄叔禪師
-袁州陽岐山甄叔禪師。上堂示眾曰。群靈一¶
-源假名為佛。體竭形消而不滅。金流朴散而¶
-常存。性海無風金波自涌。心靈絕兆萬象齊¶
-昭。體斯理者。不言而遍歷沙界。不用而功益¶
-玄化。如何背覺反合塵勞。於陰界中妄自囚
-<pb:ZB6q0003_T_008-0262b>¶
-執。師始登此山宴處。以至成院。聚徒演法四¶
-十餘年。唐元和十五年正月十三日歸寂。荼¶
-毘獲舍利七百粒。於東峯下建塔。¶
-
-******* 濛谿和尚
-濛谿和尚。僧問一念不生時如何。師良久。僧¶
-便禮拜。師云。汝且作麼生會。僧云。某甲終不¶
-無慚愧。師云。汝却信得及。問本分事如何體¶
-悉。師云。爾何不問。僧云。請師答話。師云。爾¶
-却問得好。其僧大笑而出。師云。只有遮師¶
-僧靈利。有僧從外來。師便喝。僧云。好箇來¶
-由。師云。猶要棒在。僧云。珍重。便出。師云。得¶
-能自在。¶
-
-******* 洛京黑㵎和尚
-洛京黑㵎和尚。僧問。如何是密室。師云。截耳¶
-臥街。僧云。如何是密室中人。師乃換手搥胸。¶
-
-******* 京兆興平和尚
-京兆興平和尚。洞山來禮拜。師云。莫禮老朽。¶
-洞山云。禮非老朽。師云。非老朽者不受禮。洞¶
-山云。他亦不止。洞山問。如何是古佛心。師¶
-云。即汝心是。洞山云。雖然如此。猶是某甲疑¶
-處。師云。若恁麼即問取木人去。洞山云。某甲¶
-有一句子。不借諸聖口。師云。汝試道看。洞山¶
-云。不是某甲。洞山辭。師云。什麼處去。洞山¶
-云。沿流無定止。師云。法身沿流報身沿流。洞¶
-山云。總不作此解。師乃撫掌(保福云。洞山自是一家。乃別云。¶
-覓得幾人)。¶
-
-******* 逍遙和尚
-逍遙和尚。一日師在禪床上坐。有僧鹿西問¶
-云。念念攀緣心心永寂。師云。昨日晚間也有¶
-人恁麼道。西云。道箇什麼。師云。不知。西云。¶
-請師說。師以拂子驀口打。西便出。師告大眾¶
-云。頂門上著一隻眼。¶
-
-******* 福谿和尚
-福谿和尚。僧問。古鏡無瑕時如何。師良久。僧
-<pb:ZB6q0003_T_008-0262c>¶
-云。師意如何。師云。山僧耳背僧又舉前問。¶
-師云。猶較些子。僧問。如何是自己。師云。爾¶
-問什麼。僧云。豈無方便去也。師云。爾適來問¶
-什麼。僧云。得恁麼顛倒。師云。今日合喫山僧¶
-手裏棒。僧問。緣散歸空空歸何所。師云。某¶
-甲。僧云喏。師云。空在何處。僧云。却請師道。¶
-師云。波斯喫胡椒。¶
-
-******* 洪州水老和尚
-洪州水老和尚。初問馬祖。如何是西來的的¶
-意。祖乃當胸蹋倒。師大悟。起來撫掌呵呵¶
-大笑云。大奇百千三昧無量妙義。只向一毛¶
-頭上便識得根原去。便禮拜而退。師住後告¶
-眾云。自從一喫馬師蹋。直至如今笑不休。有¶
-僧作一圓相。以手撮向師身上師乃三撥。亦¶
-作一圓相却指其僧。僧便禮拜師打云。遮虛¶
-頭漢。問如何是沙門行師云。動則影現覺則¶
-氷生。問如何是佛法大意。師乃拊掌呵呵¶
-大笑。凡接機大約如此。¶
-
-******* 浮盃和尚
-浮盃和尚。有凌行婆來禮拜師師與坐喫茶。¶
-行婆乃問云。盡力道不得底句。還分付阿誰。¶
-師云浮杯無剩語。婆云。某甲不恁麼道。師遂¶
-舉前語問婆。婆斂手哭云。蒼天中間更有冤¶
-苦。師無語。婆云。語不知偏正。理不識倒邪。¶
-為人即禍生也。後有僧舉似南泉。南泉云。苦¶
-哉浮盃。被老婆摧折。婆後聞南泉恁道。笑云¶
-王老師猶少機關在。有幽州澄一禪客。逢見¶
-行婆乃問云。怎生南泉恁道猶少機關在。婆¶
-乃哭云。可悲可痛。禪客罔措。婆乃問云會麼¶
-禪客合掌而退。婆云。徛死禪和如麻似粟。¶
-後澄一禪客舉似趙州。趙州云。我若見遮
-<pb:ZB6q0003_T_008-0263a>¶
-臭老婆問教口啞却。澄一問趙州云。未審和¶
-尚怎生問他。趙州以棒打云。似遮箇徛死¶
-漢。不打待幾時。連打數棒。婆又聞趙州恁道¶
-云。趙州自合喫婆手裏棒。後僧舉似趙州。趙¶
-州哭云。可悲可痛。婆聞趙州此語。合掌歎云。¶
-趙州眼放光明照破四天下也。後趙州教僧¶
-去問婆云。怎生是趙州眼。婆乃竪起拳頭。趙¶
-州聞乃作一頌。送凌行婆云。¶
-
+婆以頌答趙州云︰¶
 #+BEGIN_VERSE
-「　當機直面提
-　直面當機疾¶
-　報爾凌行婆
-　哭聲何得失
-#+END_VERSE
-」¶
 
-婆以頌答趙州云。¶
+　哭聲師已曉，
+　已曉復誰知？¶
+　當時摩竭國，
+　幾喪目前機。
+#+END_VERSE¶
+*** 潭州龍山和尚
+潭州龍山和尚
+(亦，
+云隱山)
+問僧︰
+「什麼處來？」
 
+僧云︰
+「老¶宿處來。」
+
+師云︰
+「老宿有何言句？」
+
+僧云︰
+「說即千句¶萬句，
+不說即一字也無。」
+
+師云︰
+「恁麼即蠅子放¶卵。」
+其僧禮拜，
+師便打之。
+**** 
+洞山价和尚行脚時，
+¶迷路到山。
+因參禮次，
+師問︰
+「此山無路，
+闍梨向¶什麼處來？」
+
+洞山云︰
+「無路且置，
+和尚從何而入？」
+
+¶師云︰
+「我不曾雲水。」
+
+
+洞山云︰
+「和尚住此山多少¶時邪？」
+
+師云︰
+「春秋不涉。」
+
+洞山云︰
+「此山先住？
+和¶尚先住？」
+
+師云︰
+「不知。」
+
+洞山云︰
+「為什麼不知？」
+
+師¶云︰
+「我不為人天來。」
+
+洞山却問︰
+「如何是賓中主？」
+
+¶師云︰
+「長年不出戶。」
+
+洞山云︰
+「如何是主中賓？」
+
+師¶云︰
+「青天覆白雲。」
+
+洞山云︰
+「賓主相
+去幾何？」
+
+師¶云︰
+「長江水上波。」
+
+
+洞山云︰
+「賓主相見，
+有何言說？」
+
+¶師云︰
+「清風拂白月。」
+
+洞山又問︰
+「和尚見箇什麼¶道理，
+便住此山？」
+
+師云︰
+「我見兩箇泥牛鬪入海，
+¶直至如今無消息。」
+師因有頌云︰
+<pb:ZB6q0003_T_008-0263b>
+¶
 #+BEGIN_VERSE
-「　哭聲師已曉
-　已曉復誰知¶
-　當時摩竭國
-　幾喪目前機
-#+END_VERSE
-」¶
+　三間茅屋從來住，
+　一道神光萬境閑。¶
+　莫作是非來辨我，
+　浮生穿鑿不相關。
+#+END_VERSE¶
+*** 襄州居士龐蘊	Laienbruder Pang Yun aus Xiangzhou
+襄州居士龐蘊者，	Der Laienbruder Pang Yun aus Xiangzhou
+衝州衡陽縣人也，	stammte aus Chongzhou in Hengyang,
+字道玄。	sein Mannesname war Daoxuan.
+¶世以儒為業，	Seine Familie lebte seit Generationen vom Konfuzianismus,
+而居士少悟塵勞，	Pang Yun strebte aber schon in jungen Jahren nach Erleuchtung, verabscheute weltliche Beschäftigungen,
+志求真諦。	und suchte nach der wahren Lehre.
 
-******* 潭州龍山和尚
-潭州龍山和尚(亦云隱山)問僧。什麼處來。僧云。老¶
-宿處來。師云。老宿有何言句。僧云。說即千句¶
-萬句。不說即一字也無。師云。恁麼即蠅子放¶
-卵。其僧禮拜。師便打之。洞山价和尚行脚時。¶
-迷路到山因參禮次。師問。此山無路闍梨向¶
-什麼處來。洞山云。無路且置。和尚從何而入。¶
-師云。我不曾雲水。洞山云。和尚住此山多少¶
-時邪師云。春秋不涉。洞山云。此山先住和¶
-尚先住。師云。不知。洞山云。為什麼不知。師¶
-云。我不為人天來。洞山却問。如何是賓中主。¶
-師云。長年不出戶洞山云。如何是主中賓。師¶
-云。青天覆白雲。洞山云。賓主相去幾何。師¶
-云。長江水上波。洞山云。賓主相見有何言說。¶
-師云。清風拂白月。洞山又問。和尚見箇什麼¶
-道理便住此山。師云。我見兩箇泥牛鬪入海¶
-直至如今無消息。師因有頌云。
-<pb:ZB6q0003_T_008-0263b>¶
+唐¶貞元初，	Zu Beginn der Ära Zhenyuan der Tang Dynastie,
+謁石頭和尚，	besuchte der den Ehrwürdigen Shitou,
+忘言會旨。	dieser veranlaßte ihn, die wahre Bedeutung zu erkennen und die Sprache hinter sich zu lassen.
+復與丹霞禪¶師為友。	Er wurde auch ein Freund von Chan Meister Tanxia.
 
+一日，	Eines Tages
+石頭問曰︰	fragte ihn Shitou:
+「子自見老僧已來，	"Was hast du gemacht seit du hergekommen bist,
+日¶用事作麼生？」	womit verbringst du deine Tage?"
+
+對曰︰	Pang antwortete:
+「若問日用事，	"Wenn Sie mich nach meinen täglichen Aktivitäten fragen,
+即無開口處。」	so kann ich den Mund nicht öffnen."
+¶復呈一偈云︰¶	und präsentierte ihm außerdem den folgenden Vers:
 #+BEGIN_VERSE
-「　三間茅屋從來住
-　一道神光萬境閑¶
-　莫作是非來辨我
-　浮生穿鑿不相關
-#+END_VERSE
-」¶
+　日用事無別，	Meine täglichen Verrichtungen sind überhaupt nichts besonderes,
+　唯吾自偶諧。¶	ich bin nur ganz natürlich im Einklang mit Ihnen.
+　頭頭非取捨，	Ich klammere mich an keine einzige davon,
+　處處勿張乖。¶	und das ist kein bischen merkwürdig.
+　朱紫誰為號？	Wer vergibt schon die Ränge von Zinnoberrot und Purpur?
+　丘山絕點埃。¶	Hügel und Berge sind ohne das kleinste bischen Staub.
+　神通并妙用，	Meine übernatürlichen Kräfte und Zaubereien:
+　運水及般柴。	Wasser tragen und Feuerholz sammeln
+#+END_VERSE¶
 
-******* 襄州居士龐蘊
-襄州居士龐蘊者。衝州衡陽縣人也。字道玄。¶
-世以儒為業。而居士少悟塵勞志求真諦。唐¶
-貞元初謁石頭和尚忘言會旨。復與丹霞禪¶
-師為友。一日石頭問曰。子自見老僧已來日¶
-用事作麼生。對曰。若問日用事即無開口處。¶
-復呈一偈云。¶
+石頭然之，	Shitou erkannte dies an
+曰︰	und fragte:
+「子以緇耶？	"Wirst du nun also schwarze Roben anlegen,
+素耶？」	oder bleibst du lieber bei Weissen?"
 
+居士曰︰	Hierauf antwortete Pang:
+「願從所¶慕。」	"Ich mache das gerade so, wie ich es will."
+遂不剃染。	An Ende scherte er sich weder die Haare, noch färbte er seine Roben.
+**** 
+後之江西，	Später ging Pang zum westlichen Fluss
+參問馬祖云︰	und besuchte Mazu. Er fragte:
+「不與萬¶法為侶者是什麼人？」	Wer ist es, der sich nicht mit den zehntausend Dharmas einlässt?"
+
+祖云︰	Mazu antwortete:
+「待汝一口吸盡西¶江水即向汝道。」	"Trink erst einmal das Wasser des westlichen Flusses in einem Zug aus, dann werde ich es dir erzählen."
+
+居士言下頓領玄要，	Bei diesen Worten erkannte Pang plötzlich die tiefe Bedeutung der Lehre
+乃留駐¶參承，	und beschloß bei Mazu zu bleiben.
+經涉二載，	Er blieb schließlich volle zwei Jahre
+有偈曰︰	und verfasste folgendes Gedicht:
+¶
 #+BEGIN_VERSE
-「　日用事無別
-　唯吾自偶諧¶
-　頭頭非取捨
-　處處勿張乖¶
-　朱紫誰為號
-　丘山絕點埃¶
-　神通并妙用
-　運水及般柴
-#+END_VERSE
-」¶
+　有男不婚，	Ich habe einen Jungen, der nicht heiratet,	  
+　有女不嫁。	ich habe ein Mädchen, das sich nicht verheiratet, 
+　大家團欒頭，¶	Zusammen sind wir eine glückliche Familie,	  
+　共說無生話。	und unterhalten uns über die Ungeborenheit.	  
+#+END_VERSE¶
 
-石頭然之曰。子以緇耶素耶。居士曰。願從所¶
-慕遂不剃染。後之江西參問馬祖云。不與萬¶
-法為侶者是什麼人。祖云。待汝一口吸盡西¶
-江水即向汝道。居士言下頓領玄要。乃留駐¶
-參承經涉二載。有偈曰。¶
+自爾，	Von da an
+機辯迅捷，	entwickelte sich seine Auffassungsgabe mit grosser Geschwindigkeit,
+諸方嚮之。	und er ging zu vielen Meistern, um sich mit ihnen zu messen.
 
+**** 
+嘗遊講肆，	Einmal ging Pang zu dem Vortrag eines Sutrenauslegers,
+隨喜《金¶剛經》，	der über das Diamant Sutra sprach.
+至「無我無人」	Als er zu der Stelle kam, wo es heißt "kein Ich, kein Mensch',
+處，致問曰︰	da stellte er folgende Frage:
+「座主既無我無¶人，	"Ehrwürdiger, wenn es kein Ich und keinen Menschen gibt,
+是誰講？	wer ist es dann, der vorträgt?
+誰聽？」	und wer ist es, der zuhört?"
+座主無對。	Der Sutrenausleger gab keine Antwort.
+
+居士曰︰	Pang meinte:
+「某甲雖是¶俗人，	"Ich bin zwar nur ein Laie,
+麁知信向。」	aber ich denke ich weiß doch etwas darüber."
+
+座主曰︰	Da fragte der Sutrenausleger:
+「只如居士意作麼生？」	"Nun denn, mein Laienbruder, was würden Sie wohl sagen?"
+
+¶
+居士乃示一偈云︰¶	Da antwortete Pang mit folgendem Gedicht:
 #+BEGIN_VERSE
-「　有男不婚
-　有女不嫁
-　大家團欒頭¶
-　共說無生話
-#+END_VERSE
-」¶
+　無我復無人，	Es gibt kein ich und auch keinen Mensch,
+　作麼有疎親？¶	weshalb spricht man dann von Freund und Feind?
+　勸君休歷坐，	Ich bitte Sie, hören Sie auf von Vortrag zu Vortrag zu gehen,
+　不似直求真。¶	es ist doch besser, die Wahrheit direkt zu suchen.
+　金剛般若性，	Die Essenz der diamantenen Weisheit
+　外絕一纖塵。¶	schließt sogar das feinste Körnchen Staub aus.
+　我聞并信受，	"So habe ich gehört" und "Ich glaube dies"
+　總是假名陳。	sind doch alles bloß vertrocknete alte Bezeichnungen.
+#+END_VERSE¶
 
-自爾機辯迅捷諸方嚮之。嘗遊講肆隨喜金¶
-剛經。至無我無人處。致問曰。座主既無我無¶
-人。是誰講誰聽。座主無對。居士曰。某甲雖是¶
-俗人麁知信向。座主曰只如居士意作麼生。¶
-居士乃示一偈云。¶
+座主聞偈，	Als der Sutrenausleger diese Verse hörte,
+欣然仰歎。	da seufzte er auf vor Freude und Zustimmung.
+**** 
+居士所至之處，	Pang besuchte nun viele Orte
+老宿多<pb:ZB6q0003_T_008-0263c>¶往復。	und hatte regen Austausch mit ehrwürdigen Mönchen.
+問醻皆隨機應響，	Die Fragen, die ihm gestellt wurden, beantwortete er alle entsprechend der Fähigkeiten der Zuhörer, so wie ein Echo auf einen Ruf folgt.
+非格量軌轍之可拘¶也。	Er war nicht jemand, der sich von Stil oder Konventionen eingrenzen ließ.
 
+元和中，	Zur Zeit der Ära Yuanhe
+北遊襄漢，	reiste Pang nach Norden in Richtung Xianghan,
+隨處而居，	und wohnte manchmal hier, manchmal dort, 
+或鳳嶺鹿門，	mal in Fengling (in Hangzhou), mal in Lumen (in Xiangyang).
+:zhu:
+鳳嶺 [feng4ling3] // 即〈鳳凰山〉。在今〈浙江省〉〈杭州市〉東南。
+鹿門 [lu4men2] // 〈鹿門山〉之省稱。在〈湖北省〉〈襄陽縣〉。
+:END:
+¶或肆閭巷。	und dann wieder in abgelegenen, kleinen Dörfern.
+初住東巖，	Dann wohnte er in den östlichen Bergen
+後居郭西小舍。	und schließlich in einer kleinen Hütte im Westen.
+一女¶名靈照，	Er hatte eine Tochter namens Lingzhao, 
+常隨，	die ihm überallhin folgte,
+製竹漉籬令鬻之，	sie machte und verkaufte Bambuskörbe,
+以供朝夕。	um die Morgen- und Abendmahlzeiten zu besorgen.
+有¶偈曰︰¶	Pang verfaßte folgendes Gedicht:
 #+BEGIN_VERSE
-「　無我復無人
-　作麼有疎親¶
-　勸君休歷坐
-　不似直求真¶
-　金剛般若性
-　外絕一纖塵¶
-　我聞并信受
-　總是假名陳
-#+END_VERSE
-」¶
+　心如境亦如，	Wenn der Geist ist wie er ist, so sind auch die Dinge wie sie sind,
+　無實亦無虛。¶	es gibt kein 'echt' oder 'unecht'.
+　有亦不管，	ich kümmere mich nicht um das Sein,
+　無亦不居。	und klammere mich auch nicht an das Nicht-sein.
 
-座主聞偈欣然仰歎。居士所至之處老宿多
-<pb:ZB6q0003_T_008-0263c>¶
-往。復問醻皆隨機應響。非格量軌轍之可拘¶
-也。元和中北遊襄漢隨處而居或鳳嶺鹿門。¶
-或廛肆閭巷。初住東巖後居郭西小舍。一女¶
-名靈照。常隨製竹漉籬令鬻之以供朝夕。有¶
-偈曰。¶
+　不是賢聖，¶	Du bist weder Weiser noch Heiliger,
+　了事凡夫。	sondern nur ein einfacher Mann, der seine Sachen in Ordnung gebracht hat.
+　易復易，	Es ist einfach, so einfach,
+　即此五蘊有真智。¶	Eben diese fünf Skandhas bringen die wahre Weisheit hervor.
 
-#+BEGIN_VERSE
-「　心如境亦如
-　無實亦無虛¶
-　有亦不管
-　無亦不居
-　不是賢聖¶
-　了事凡夫
-　易復易
-　即此五蘊有真智¶
-　十方世界一乘同
-　無相法身豈有二¶
-　若捨煩惱入菩提
-　不知何方有佛地
-#+END_VERSE
-」¶
+　十方世界一乘同，	Die zehn Richtungen der Welt sind identisch mit dem  einen Fahrzeug,
+　無相法身豈有二？¶	wie könnte der formlose Dharmakāya zwei sein?
+　若捨煩惱入菩提，	Wenn Du die Verunreinigungen abstreifst und die wirkliche Weisheit erreichst,
+　不知何方有佛地。	keine Ahnung wo dann noch irgendwo Budhaländer sein sollten.
+#+END_VERSE¶
+**** 
+居士將入滅，	Als Pang in die Ewigkeit eingehen wollte,
+令女靈照出視日早晚及午以¶報，	da beauftragte er seine Tochter Lingzhao nach dem Stand der Sonne zu sehen und ihm Bescheid zu geben, wenn es genau Mittag war.
+女遽報曰︰	Lingzhao sagte voller Besorgnis:
+「日已中矣，	"Es ist schon Mittag,
+而有蝕也。」	aber die Sonne ist etwas verfinstert."
 
-居士將入滅。令女靈照出視日早晚及午以¶
-報。女遽報曰。日已中矣。而有蝕也。居士出戶¶
-觀次。靈照即登父座合掌坐亡居士笑曰。我¶
-女鋒捷矣。於是更延七日。州牧于公問疾次。¶
-居士謂曰。但願空諸所有。慎勿實諸所無。好¶
-住世間皆如影響。言訖枕公膝而化。遺命焚¶
-棄。江湖緇白傷悼。謂禪門龐居士即毘耶淨¶
-名矣。有詩偈三百餘篇傳於世。¶
-景德傳燈錄卷第八¶
+居士出戶¶觀次，	Pang ging nach draußen, um sich das anzusehen,
+靈照即登父座，	da kletterte Lingzhao auf ihres Vaters Sitz
+合掌坐亡。	faltete die Hände und verschied im Sitzen.
+居士笑曰︰	Pang sagte lachend:
+「我¶女鋒捷矣。」	"Meine scharfsinnige Tochter hat schon wieder gewonnen."
+於是更延七日。	und verschob seinen Tod um sieben Tage.
 
+州牧于公問疾次，	Als der Gouverneur Yu [Di] kam, um sich nach seinem Befinden zu erkundigen,
+¶居士謂曰︰	da sagte Pang zu ihm:
+「但願空諸所有，	"Bitte sehen Sie alles was existiert als leer und nichtig an.
+慎勿實諸所無，	hüten Sie sich davor, das, was nicht existiert als wirklich anzusehen.
+好¶住世間皆如影響。」	Gehaben Sie sich wohl und vergessen Sie nicht, daß alles nur wie Schatten und Echo ist."
+言訖，	Nachdem er seine Worte beendet hatte,
+枕公膝而化，	legte er seinen Kopf in den Schoß des Gouverneurs und starb.
+遺命焚¶棄江湖。	Sein letzter Wille war, daß seine Überreste eingeäschert und die Asche in den Flüssen und Seen zerstreut würde.
+緇白傷悼，	Mönche und Laien gleichermaßen trauerten um den Abgeschiedenen
+謂禪門龐居士即毘耶淨¶名矣。	und sagten, daß der Chan-Adept Laienbruder Pang in der Tat eine Inkarnation des Vimalakirti war.
+有詩偈三百餘篇傳於世。	Gedichte und Verse, etwa 300 an der Zahl wurden zusammengestellt und in der Welt verbreitet.
+
+
+¶景德傳燈錄卷第八
+
+¶
